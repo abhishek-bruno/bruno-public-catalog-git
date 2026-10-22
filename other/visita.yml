@@ -1,0 +1,10 @@
+info:
+  name: visita
+  namespace: github.com/magervasoni84
+  type: collection
+  seq: 264
+source:
+  kind: git
+  url: https://github.com/magervasoni84/WebHPMMFrontEnd.git
+  ref: main
+  subdir: Bruno/visita

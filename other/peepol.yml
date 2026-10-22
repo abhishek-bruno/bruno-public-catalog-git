@@ -1,0 +1,10 @@
+info:
+  name: Peepol
+  namespace: github.com/jelvi00
+  type: collection
+  seq: 188
+source:
+  kind: git
+  url: https://github.com/jelvi00/peepol.git
+  ref: main
+  subdir: bruno

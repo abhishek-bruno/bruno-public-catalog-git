@@ -1,0 +1,10 @@
+info:
+  name: RNE
+  namespace: github.com/annuaire-entreprises-data-gouv-fr
+  type: collection
+  seq: 241
+source:
+  kind: git
+  url: https://github.com/annuaire-entreprises-data-gouv-fr/api-requests-collection.git
+  ref: main
+  subdir: rne

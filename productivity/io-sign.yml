@@ -1,0 +1,12 @@
+info:
+  name: io-sign
+  namespace: github.com/pagopa
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 72
+source:
+  kind: git
+  url: https://github.com/pagopa/io-sign.git
+  ref: main
+  subdir: Bruno

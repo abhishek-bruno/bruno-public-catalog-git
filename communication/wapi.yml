@@ -1,0 +1,10 @@
+info:
+  name: wapi
+  namespace: github.com/zakirkun
+  type: collection
+  seq: 162
+source:
+  kind: git
+  url: https://github.com/zakirkun/wapi.git
+  ref: main
+  subdir: examples/bruno

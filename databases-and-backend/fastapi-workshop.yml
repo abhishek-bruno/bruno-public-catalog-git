@@ -1,0 +1,12 @@
+info:
+  name: fastapi-workshop
+  namespace: github.com/vivendraaaa
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 222
+source:
+  kind: git
+  url: https://github.com/vivendraaaa/budget-tracker-app.git
+  ref: main
+  subdir: bruno

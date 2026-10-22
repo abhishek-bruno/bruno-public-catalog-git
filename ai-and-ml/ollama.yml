@@ -1,0 +1,10 @@
+info:
+  name: Ollama
+  namespace: github.com/julianosirtori
+  type: collection
+  seq: 327
+source:
+  kind: git
+  url: https://github.com/julianosirtori/poc-ollama.git
+  ref: main
+  subdir: collection

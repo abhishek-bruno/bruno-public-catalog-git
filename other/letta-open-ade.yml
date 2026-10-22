@@ -1,0 +1,10 @@
+info:
+  name: letta-open-ade
+  namespace: github.com/wenjun-mao
+  type: collection
+  seq: 210
+source:
+  kind: git
+  url: https://github.com/Wenjun-Mao/Letta-Open-ADE.git
+  ref: main
+  subdir: bruno

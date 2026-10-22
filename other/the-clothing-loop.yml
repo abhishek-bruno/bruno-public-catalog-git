@@ -1,0 +1,11 @@
+info:
+  name: The Clothing Loop
+  namespace: github.com/the-clothing-loop
+  type: collection
+  seq: 11
+  featured: true
+source:
+  kind: git
+  url: https://github.com/the-clothing-loop/website.git
+  ref: main
+  subdir: bruno

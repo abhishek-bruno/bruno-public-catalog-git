@@ -1,0 +1,10 @@
+info:
+  name: Puth Api
+  namespace: github.com/puth-io
+  type: collection
+  seq: 116
+source:
+  kind: git
+  url: https://github.com/puth-io/puth.git
+  ref: master
+  subdir: api

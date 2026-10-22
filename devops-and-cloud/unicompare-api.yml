@@ -1,0 +1,10 @@
+info:
+  name: Unicompare API
+  namespace: github.com/araryarch
+  type: collection
+  seq: 237
+source:
+  kind: git
+  url: https://github.com/Araryarch/unicompare-fe.git
+  ref: main
+  subdir: docs/bruno_collection

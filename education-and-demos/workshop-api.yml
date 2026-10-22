@@ -1,0 +1,10 @@
+info:
+  name: Workshop API
+  namespace: github.com/puppo
+  type: collection
+  seq: 232
+source:
+  kind: git
+  url: https://github.com/Puppo/fastify-workshop.git
+  ref: main
+  subdir: Bruno Collection

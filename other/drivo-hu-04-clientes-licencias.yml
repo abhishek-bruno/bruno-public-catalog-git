@@ -1,0 +1,10 @@
+info:
+  name: DRIVO - HU-04 Clientes Licencias
+  namespace: github.com/daikodk
+  type: collection
+  seq: 254
+source:
+  kind: git
+  url: https://github.com/DaikoDk/DRIVO.git
+  ref: main
+  subdir: bruno/HU-04

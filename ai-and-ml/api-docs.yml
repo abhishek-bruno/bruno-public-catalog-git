@@ -1,0 +1,12 @@
+info:
+  name: api-docs
+  namespace: github.com/yashraj-n
+  type: collection
+  tags:
+    - e-commerce
+  seq: 197
+source:
+  kind: git
+  url: https://github.com/yashraj-n/BidForge.git
+  ref: main
+  subdir: api-docs

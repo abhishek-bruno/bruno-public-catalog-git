@@ -1,0 +1,10 @@
+info:
+  name: API Collection
+  namespace: github.com/adrianoanschau
+  type: collection
+  seq: 315
+source:
+  kind: git
+  url: https://github.com/adrianoanschau/laravel-http-communication.git
+  ref: main
+  subdir: API Collection

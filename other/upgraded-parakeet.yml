@@ -1,0 +1,10 @@
+info:
+  name: Upgraded Parakeet
+  namespace: github.com/biximilien
+  type: collection
+  seq: 221
+source:
+  kind: git
+  url: https://github.com/biximilien/interviews.git
+  ref: main
+  subdir: WorkAxle/bruno

@@ -1,0 +1,9 @@
+info:
+  name: skybnb-requests
+  namespace: github.com/juanvelez18
+  type: collection
+  seq: 267
+source:
+  kind: git
+  url: https://github.com/JuanVelez18/skybnb-v3-requests.git
+  ref: main

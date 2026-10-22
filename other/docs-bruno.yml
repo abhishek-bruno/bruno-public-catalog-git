@@ -1,0 +1,10 @@
+info:
+  name: ' docs.bruno'
+  namespace: github.com/kalviumcommunity
+  type: collection
+  seq: 314
+source:
+  kind: git
+  url: https://github.com/kalviumcommunity/s47_most_searched_website_on-google.git
+  ref: main
+  subdir: ' docs.bruno'

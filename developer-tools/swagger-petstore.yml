@@ -1,0 +1,12 @@
+info:
+  name: Swagger Petstore
+  namespace: github.com/zanmato
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 90
+source:
+  kind: git
+  url: https://github.com/zanmato/broquest.git
+  ref: main
+  subdir: crates/broquest/resources/Swagger Petstore

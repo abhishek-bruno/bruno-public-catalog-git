@@ -1,0 +1,11 @@
+info:
+  name: RealWorld API
+  namespace: github.com/realworld-apps
+  type: collection
+  seq: 0
+  featured: true
+source:
+  kind: git
+  url: https://github.com/realworld-apps/realworld.git
+  ref: main
+  subdir: specs/api/bruno

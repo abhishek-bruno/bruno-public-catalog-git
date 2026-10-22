@@ -1,0 +1,10 @@
+info:
+  name: auth-core
+  namespace: github.com/guilhermesaraujo
+  type: collection
+  seq: 321
+source:
+  kind: git
+  url: https://github.com/GuilhermeSAraujo/auth-core.git
+  ref: main
+  subdir: collection/collection

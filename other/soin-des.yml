@@ -1,0 +1,10 @@
+info:
+  name: SOIN DES
+  namespace: github.com/kalviumcommunity
+  type: collection
+  seq: 299
+source:
+  kind: git
+  url: https://github.com/kalviumcommunity/s81_SOIN_DES.git
+  ref: main
+  subdir: SOIN DES

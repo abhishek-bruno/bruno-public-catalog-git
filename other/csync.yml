@@ -1,0 +1,10 @@
+info:
+  name: csync
+  namespace: github.com/fioncat
+  type: collection
+  seq: 112
+source:
+  kind: git
+  url: https://github.com/fioncat/csync.git
+  ref: main
+  subdir: bruno

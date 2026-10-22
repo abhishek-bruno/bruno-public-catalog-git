@@ -1,0 +1,11 @@
+info:
+  name: Demo API
+  namespace: github.com/cjohnsto-nz
+  type: collection
+  seq: 30
+  featured: true
+source:
+  kind: git
+  url: https://github.com/cjohnsto-nz/missio.git
+  ref: main
+  subdir: examples/demo-api

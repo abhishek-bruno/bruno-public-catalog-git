@@ -1,0 +1,9 @@
+info:
+  name: EventSourcingDB
+  namespace: github.com/thenativeweb
+  type: collection
+  seq: 61
+source:
+  kind: git
+  url: https://github.com/thenativeweb/eventsourcingdb-client-bruno.git
+  ref: main

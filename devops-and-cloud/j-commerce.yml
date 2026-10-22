@@ -1,0 +1,12 @@
+info:
+  name: j-commerce
+  namespace: github.com/filipemartinsdev
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 43
+source:
+  kind: git
+  url: https://github.com/filipemartinsdev/j-commerce.git
+  ref: main
+  subdir: bruno/j-commerce

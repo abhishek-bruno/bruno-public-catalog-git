@@ -1,0 +1,10 @@
+info:
+  name: Bruno Requests
+  namespace: github.com/ovaday
+  type: collection
+  seq: 58
+source:
+  kind: git
+  url: https://github.com/Ovaday/Delta-Chat-Bots---REST-API.git
+  ref: main
+  subdir: Bruno Requests

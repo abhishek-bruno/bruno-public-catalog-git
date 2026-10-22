@@ -1,0 +1,12 @@
+info:
+  name: Listen
+  namespace: github.com/uroshm
+  type: collection
+  tags:
+    - developer-tools
+  seq: 238
+source:
+  kind: git
+  url: https://github.com/uroshm/listen.git
+  ref: main
+  subdir: Bruno

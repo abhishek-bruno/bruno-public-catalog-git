@@ -1,0 +1,12 @@
+info:
+  name: GuestHub
+  namespace: github.com/sahdoio
+  type: collection
+  tags:
+    - e-commerce
+  seq: 59
+source:
+  kind: git
+  url: https://github.com/sahdoio/guesthub.git
+  ref: main
+  subdir: bruno

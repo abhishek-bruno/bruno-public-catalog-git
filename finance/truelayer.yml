@@ -1,0 +1,10 @@
+info:
+  name: TrueLayer
+  namespace: github.com/joeecob
+  type: collection
+  seq: 229
+source:
+  kind: git
+  url: https://github.com/JoeEcob/Blazor-OpenBanking.git
+  ref: master
+  subdir: Bruno

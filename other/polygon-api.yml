@@ -1,0 +1,10 @@
+info:
+  name: Polygon Api
+  namespace: github.com/rwitzlib
+  type: collection
+  seq: 220
+source:
+  kind: git
+  url: https://github.com/rwitzlib/stockmountain.git
+  ref: master
+  subdir: api-collections/old/Polygon Api

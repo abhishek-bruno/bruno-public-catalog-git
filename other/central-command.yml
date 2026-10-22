@@ -1,0 +1,10 @@
+info:
+  name: central-command
+  namespace: github.com/unitystation
+  type: collection
+  seq: 208
+source:
+  kind: git
+  url: https://github.com/unitystation/central-command.git
+  ref: develop
+  subdir: api-collection

@@ -1,0 +1,11 @@
+info:
+  name: Codedang Admin
+  namespace: github.com/skkuding
+  type: collection
+  seq: 6
+  featured: true
+source:
+  kind: git
+  url: https://github.com/skkuding/codedang.git
+  ref: main
+  subdir: collection/admin

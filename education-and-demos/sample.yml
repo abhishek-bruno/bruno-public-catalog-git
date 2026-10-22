@@ -1,0 +1,10 @@
+info:
+  name: sample
+  namespace: github.com/frontendbootcamp-15th
+  type: collection
+  seq: 64
+source:
+  kind: git
+  url: https://github.com/FRONTENDBOOTCAMP-15th/final-02-TrinityForce.git
+  ref: develop
+  subdir: api/bruno/sample

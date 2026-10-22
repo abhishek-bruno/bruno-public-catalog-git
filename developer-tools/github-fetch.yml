@@ -1,0 +1,10 @@
+info:
+  name: GitHub Fetch
+  namespace: github.com/jisungbin
+  type: collection
+  seq: 159
+source:
+  kind: git
+  url: https://github.com/jisungbin/androidx-aosp-viewer.git
+  ref: trunk
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: Kokoro
+  namespace: github.com/thomasplantain
+  type: collection
+  seq: 251
+source:
+  kind: git
+  url: https://github.com/ThomasPlantain/n8n.git
+  ref: main
+  subdir: assets/Kokoro

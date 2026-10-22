@@ -1,0 +1,10 @@
+info:
+  name: MiniTrello
+  namespace: github.com/acristhian1411
+  type: collection
+  seq: 235
+source:
+  kind: git
+  url: https://github.com/acristhian1411/laravel-mini-trello.git
+  ref: master
+  subdir: MiniTrello

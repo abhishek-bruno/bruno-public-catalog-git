@@ -1,0 +1,10 @@
+info:
+  name: CSS Class Managers
+  namespace: github.com/ediamin
+  type: collection
+  seq: 114
+source:
+  kind: git
+  url: https://github.com/ediamin/css-class-manager.git
+  ref: main
+  subdir: .api

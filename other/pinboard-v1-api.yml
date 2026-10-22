@@ -1,0 +1,10 @@
+info:
+  name: Pinboard V1 API
+  namespace: github.com/michahell
+  type: collection
+  seq: 182
+source:
+  kind: git
+  url: https://github.com/michahell/pinbored-tauri.git
+  ref: main
+  subdir: bruno

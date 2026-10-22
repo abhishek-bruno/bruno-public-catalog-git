@@ -1,0 +1,10 @@
+info:
+  name: Plato
+  namespace: github.com/morphotech
+  type: collection
+  seq: 169
+source:
+  kind: git
+  url: https://github.com/Morphotech/plato.git
+  ref: develop
+  subdir: bruno

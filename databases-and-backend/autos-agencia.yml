@@ -1,0 +1,10 @@
+info:
+  name: Autos agencia
+  namespace: github.com/fededlv
+  type: collection
+  seq: 300
+source:
+  kind: git
+  url: https://github.com/fededlV/proyecto-agencia-autos.git
+  ref: main
+  subdir: Autos agencia

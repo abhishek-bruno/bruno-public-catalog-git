@@ -1,0 +1,9 @@
+info:
+  name: github rest api
+  namespace: github.com/usebruno
+  type: collection
+  seq: 109
+source:
+  kind: git
+  url: https://github.com/usebruno/github-rest-api-collection.git
+  ref: main

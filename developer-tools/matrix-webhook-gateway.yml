@@ -1,0 +1,10 @@
+info:
+  name: matrix-webhook-gateway
+  namespace: github.com/geluk
+  type: collection
+  seq: 142
+source:
+  kind: git
+  url: https://github.com/geluk/matrix-webhook-gateway.git
+  ref: master
+  subdir: bruno

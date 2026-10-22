@@ -1,0 +1,10 @@
+info:
+  name: RestAPI-MongoDB
+  namespace: github.com/erickcastroo
+  type: collection
+  seq: 286
+source:
+  kind: git
+  url: https://github.com/ErickCastroo/NodeJS-RestAPI-MongoDB.git
+  ref: main
+  subdir: RestAPI-MongoDB

@@ -1,0 +1,12 @@
+info:
+  name: DurableIndexing
+  namespace: github.com/azure-samples
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 97
+source:
+  kind: git
+  url: https://github.com/Azure-Samples/indexadillo.git
+  ref: main
+  subdir: http

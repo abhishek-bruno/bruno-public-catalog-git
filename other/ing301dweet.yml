@@ -1,0 +1,10 @@
+info:
+  name: ING301dweet
+  namespace: github.com/selabhvl
+  type: collection
+  seq: 194
+source:
+  kind: git
+  url: https://github.com/selabhvl/ing301public.git
+  ref: main
+  subdir: weeks/15/bruno/ING301dweet

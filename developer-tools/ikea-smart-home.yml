@@ -1,0 +1,12 @@
+info:
+  name: IKEA Smart Home
+  namespace: github.com/salex-org
+  type: collection
+  tags:
+    - home-and-iot
+  seq: 150
+source:
+  kind: git
+  url: https://github.com/salex-org/ikea-dirigera-client.git
+  ref: main
+  subdir: bruno

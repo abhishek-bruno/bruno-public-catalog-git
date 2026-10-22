@@ -1,0 +1,10 @@
+info:
+  name: progai-forecasting
+  namespace: github.com/discovertomorrow
+  type: collection
+  seq: 145
+source:
+  kind: git
+  url: https://github.com/discovertomorrow/progai-forecasting.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,12 @@
+info:
+  name: air-bnb-collection
+  namespace: github.com/boghdady
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 51
+source:
+  kind: git
+  url: https://github.com/Boghdady/nestjs-airbnb-clone-api.git
+  ref: main
+  subdir: air-bnb-collection

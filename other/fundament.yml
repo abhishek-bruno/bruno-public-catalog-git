@@ -1,0 +1,10 @@
+info:
+  name: Fundament
+  namespace: github.com/fundament-oss
+  type: collection
+  seq: 16
+source:
+  kind: git
+  url: https://github.com/fundament-oss/fundament.git
+  ref: master
+  subdir: bruno

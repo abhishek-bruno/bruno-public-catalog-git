@@ -1,0 +1,10 @@
+info:
+  name: MultiVolatility
+  namespace: github.com/bobnewz
+  type: collection
+  seq: 100
+source:
+  kind: git
+  url: https://github.com/BoBNewz/MultiVolatility.git
+  ref: main
+  subdir: CLI/API/MultiVolatility

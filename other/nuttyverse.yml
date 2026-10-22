@@ -1,0 +1,10 @@
+info:
+  name: Nuttyverse
+  namespace: github.com/nuttyversal
+  type: collection
+  seq: 277
+source:
+  kind: git
+  url: https://github.com/nuttyversal/nuttyverse.git
+  ref: main
+  subdir: api

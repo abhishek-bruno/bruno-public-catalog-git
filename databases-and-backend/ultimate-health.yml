@@ -1,0 +1,12 @@
+info:
+  name: 'Ultimate Health '
+  namespace: github.com/sb2318
+  type: collection
+  tags:
+    - science
+  seq: 63
+source:
+  kind: git
+  url: https://github.com/SB2318/ultimatehealth-backend.git
+  ref: main
+  subdir: bruno/Ultimate Health

@@ -1,0 +1,10 @@
+info:
+  name: Reach
+  namespace: github.com/jsedlak
+  type: collection
+  seq: 184
+source:
+  kind: git
+  url: https://github.com/jsedlak/reach.git
+  ref: main
+  subdir: http

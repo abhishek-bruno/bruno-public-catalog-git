@@ -1,0 +1,10 @@
+info:
+  name: Econym
+  namespace: github.com/heiko-r
+  type: collection
+  seq: 275
+source:
+  kind: git
+  url: https://github.com/heiko-r/econym.git
+  ref: main
+  subdir: bruno

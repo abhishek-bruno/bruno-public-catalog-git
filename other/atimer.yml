@@ -1,0 +1,10 @@
+info:
+  name: atimer
+  namespace: github.com/jay-1409
+  type: collection
+  seq: 158
+source:
+  kind: git
+  url: https://github.com/Jay-1409/timer-node.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: HYXiCloud
+  namespace: github.com/veldkornet
+  type: collection
+  seq: 111
+source:
+  kind: git
+  url: https://github.com/Veldkornet/hyxi-cloud-api.git
+  ref: main
+  subdir: dev_env/bruno

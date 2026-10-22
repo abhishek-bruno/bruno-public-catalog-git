@@ -1,0 +1,10 @@
+info:
+  name: P.Y.T.A
+  namespace: github.com/projekt-zespolowy-ug
+  type: collection
+  seq: 228
+source:
+  kind: git
+  url: https://github.com/projekt-zespolowy-ug/P.Y.T.A.git
+  ref: main
+  subdir: bruno

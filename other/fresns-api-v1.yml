@@ -1,0 +1,9 @@
+info:
+  name: Fresns API v1
+  namespace: github.com/fresns
+  type: collection
+  seq: 95
+source:
+  kind: git
+  url: https://github.com/fresns/api-collection-by-bruno.git
+  ref: v1

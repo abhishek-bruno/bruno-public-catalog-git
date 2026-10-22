@@ -1,0 +1,10 @@
+info:
+  name: citam
+  namespace: github.com/domo-quebec
+  type: collection
+  seq: 148
+source:
+  kind: git
+  url: https://github.com/domo-quebec/domo-quebec.git
+  ref: main
+  subdir: citam/donnees/bruno

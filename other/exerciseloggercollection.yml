@@ -1,0 +1,10 @@
+info:
+  name: ExerciseLoggerCollection
+  namespace: github.com/nikolozi2004
+  type: collection
+  seq: 285
+source:
+  kind: git
+  url: https://github.com/Nikolozi2004/ExerciseLogger.git
+  ref: master
+  subdir: ExerciseLoggerCollection

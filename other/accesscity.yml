@@ -1,0 +1,10 @@
+info:
+  name: AccessCity
+  namespace: github.com/lana-paggiaro
+  type: collection
+  seq: 309
+source:
+  kind: git
+  url: https://github.com/lana-paggiaro/AccessCity.git
+  ref: main
+  subdir: tccmobile/collection

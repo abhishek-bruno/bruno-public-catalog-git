@@ -1,0 +1,10 @@
+info:
+  name: Llama Service Wrapper
+  namespace: github.com/roabraham
+  type: collection
+  seq: 137
+source:
+  kind: git
+  url: https://github.com/roabraham/ashley.git
+  ref: trunk
+  subdir: bruno/Llama Service Wrapper

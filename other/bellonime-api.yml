@@ -1,0 +1,10 @@
+info:
+  name: Bellonime API
+  namespace: github.com/jabreak
+  type: collection
+  seq: 91
+source:
+  kind: git
+  url: https://github.com/JaBreaK/bellonime-api-backup.git
+  ref: main
+  subdir: docs/Bellonime API

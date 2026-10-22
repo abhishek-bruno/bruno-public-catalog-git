@@ -1,0 +1,10 @@
+info:
+  name: Peloton API
+  namespace: github.com/lcota
+  type: collection
+  seq: 289
+source:
+  kind: git
+  url: https://github.com/lcota/lcota.github.io.git
+  ref: master
+  subdir: practice/apirecon/bruno_collection

@@ -1,0 +1,10 @@
+info:
+  name: Contratos del estado
+  namespace: github.com/sergiocasero
+  type: collection
+  seq: 283
+source:
+  kind: git
+  url: https://github.com/sergiocasero/contrataciones_del_estado.git
+  ref: main
+  subdir: bruno

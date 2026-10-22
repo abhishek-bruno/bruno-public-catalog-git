@@ -1,0 +1,10 @@
+info:
+  name: PlanAi API
+  namespace: github.com/nachoosella
+  type: collection
+  seq: 195
+source:
+  kind: git
+  url: https://github.com/NachoOsella/PlanAi.git
+  ref: main
+  subdir: PlanAIBruno/PlanAi API

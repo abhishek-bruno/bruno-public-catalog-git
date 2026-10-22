@@ -1,0 +1,10 @@
+info:
+  name: HBI
+  namespace: github.com/ricoruuci
+  type: collection
+  seq: 108
+source:
+  kind: git
+  url: https://github.com/ricoruuci/bruno.git
+  ref: main
+  subdir: HBI

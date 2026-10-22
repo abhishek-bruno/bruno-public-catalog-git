@@ -1,0 +1,10 @@
+info:
+  name: spring-rest-crud-example
+  namespace: github.com/pedrohenriquelacombe
+  type: collection
+  seq: 152
+source:
+  kind: git
+  url: https://github.com/pedrohenriquelacombe/spring-rest-crud-example.git
+  ref: main
+  subdir: bruno

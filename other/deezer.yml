@@ -1,0 +1,10 @@
+info:
+  name: deezer
+  namespace: github.com/yvasyliev
+  type: collection
+  seq: 25
+source:
+  kind: git
+  url: https://github.com/yvasyliev/dz4j.git
+  ref: master
+  subdir: bruno-collection

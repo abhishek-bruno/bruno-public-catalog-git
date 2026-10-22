@@ -1,0 +1,10 @@
+info:
+  name: ImmoDz
+  namespace: github.com/chakibbenchinoun
+  type: collection
+  seq: 316
+source:
+  kind: git
+  url: https://github.com/ChakibBenchinoun/ImmoDz.git
+  ref: main
+  subdir: ImmoDz

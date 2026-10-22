@@ -1,0 +1,12 @@
+info:
+  name: Hackathon 2024.10
+  namespace: github.com/nuts-foundation
+  type: collection
+  tags:
+    - science
+  seq: 198
+source:
+  kind: git
+  url: https://github.com/nuts-foundation/nuts-v6-hackathon.git
+  ref: main
+  subdir: Hackathon_2024.10

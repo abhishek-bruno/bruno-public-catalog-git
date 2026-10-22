@@ -1,0 +1,12 @@
+info:
+  name: Bruno collection
+  namespace: github.com/damianostre
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 88
+source:
+  kind: git
+  url: https://github.com/damianostre/aufy.git
+  ref: main
+  subdir: tools/Bruno collection

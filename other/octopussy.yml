@@ -1,0 +1,10 @@
+info:
+  name: Octopussy
+  namespace: github.com/thepeacockproject
+  type: collection
+  seq: 101
+source:
+  kind: git
+  url: https://github.com/thepeacockproject/Octopussy.git
+  ref: main
+  subdir: .bruno

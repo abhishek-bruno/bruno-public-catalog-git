@@ -1,0 +1,10 @@
+info:
+  name: AAM Data
+  namespace: github.com/internalfx
+  type: collection
+  seq: 213
+source:
+  kind: git
+  url: https://github.com/internalfx/internalfx-salesforce-webhook-server.git
+  ref: main
+  subdir: bruno

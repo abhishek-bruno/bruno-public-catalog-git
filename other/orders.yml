@@ -1,0 +1,10 @@
+info:
+  name: orders
+  namespace: github.com/the-true-code-fathers
+  type: collection
+  seq: 303
+source:
+  kind: git
+  url: https://github.com/The-True-Code-Fathers/mercado-nosso.git
+  ref: development
+  subdir: collections/orders

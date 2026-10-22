@@ -1,0 +1,10 @@
+info:
+  name: Categoria
+  namespace: github.com/joaoemanuel33
+  type: collection
+  seq: 292
+source:
+  kind: git
+  url: https://github.com/joaoEmanuel33/MercadoriaShopee.git
+  ref: master
+  subdir: Categoria

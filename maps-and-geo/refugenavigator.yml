@@ -1,0 +1,10 @@
+info:
+  name: refugenavigator
+  namespace: github.com/anth2o
+  type: collection
+  seq: 196
+source:
+  kind: git
+  url: https://github.com/anth2o/refugenavigator.git
+  ref: main
+  subdir: bruno

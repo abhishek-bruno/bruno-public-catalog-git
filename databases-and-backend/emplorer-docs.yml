@@ -1,0 +1,10 @@
+info:
+  name: Emplorer Docs
+  namespace: github.com/loethtechnology
+  type: collection
+  seq: 77
+source:
+  kind: git
+  url: https://github.com/LoethTechnology/emplorer-server.git
+  ref: main
+  subdir: bruno

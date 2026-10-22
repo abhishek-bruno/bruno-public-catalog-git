@@ -1,0 +1,10 @@
+info:
+  name: hono-boilerplate
+  namespace: github.com/marcosrjjunior
+  type: collection
+  seq: 54
+source:
+  kind: git
+  url: https://github.com/marcosrjjunior/hono-boilerplate.git
+  ref: main
+  subdir: endpoints

@@ -1,0 +1,10 @@
+info:
+  name: UltimateXO
+  namespace: github.com/open-syntax
+  type: collection
+  seq: 146
+source:
+  kind: git
+  url: https://github.com/open-syntax/ultimatexo.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: flex-brain
+  namespace: github.com/jacobgawel
+  type: collection
+  seq: 166
+source:
+  kind: git
+  url: https://github.com/jacobgawel/flex-brain.git
+  ref: master
+  subdir: bruno

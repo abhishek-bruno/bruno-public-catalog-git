@@ -1,0 +1,10 @@
+info:
+  name: ЭДО Лайт API (Честный знак / ГИС МТ)
+  namespace: github.com/pravets
+  type: collection
+  seq: 19
+source:
+  kind: git
+  url: https://github.com/pravets/crpt-openapi.git
+  ref: master
+  subdir: bruno/edo-light

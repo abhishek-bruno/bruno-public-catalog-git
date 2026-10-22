@@ -1,0 +1,10 @@
+info:
+  name: LED Cube
+  namespace: github.com/elliotmatson
+  type: collection
+  seq: 118
+source:
+  kind: git
+  url: https://github.com/elliotmatson/LED_Cube.git
+  ref: main
+  subdir: api

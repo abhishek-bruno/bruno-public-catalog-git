@@ -1,0 +1,10 @@
+info:
+  name: carbon-fr
+  namespace: github.com/kovelt
+  type: collection
+  seq: 29
+source:
+  kind: git
+  url: https://github.com/Kovelt/carbon-fr.git
+  ref: main
+  subdir: bruno

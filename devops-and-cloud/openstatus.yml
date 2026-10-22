@@ -1,0 +1,11 @@
+info:
+  name: OpenStatus
+  namespace: github.com/openstatushq
+  type: collection
+  seq: 5
+  featured: true
+source:
+  kind: git
+  url: https://github.com/openstatusHQ/openstatus.git
+  ref: main
+  subdir: utils/api-bruno

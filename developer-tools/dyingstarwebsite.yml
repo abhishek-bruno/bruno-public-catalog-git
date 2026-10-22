@@ -1,0 +1,12 @@
+info:
+  name: DyingStarWebsite
+  namespace: github.com/dyingstar-game
+  type: collection
+  tags:
+    - games
+  seq: 193
+source:
+  kind: git
+  url: https://github.com/DyingStar-game/website.git
+  ref: develop
+  subdir: bruno

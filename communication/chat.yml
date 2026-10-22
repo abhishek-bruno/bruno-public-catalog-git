@@ -1,0 +1,10 @@
+info:
+  name: Chat
+  namespace: github.com/yogadharma21
+  type: collection
+  seq: 178
+source:
+  kind: git
+  url: https://github.com/YogaDharma21/chat.git
+  ref: main
+  subdir: bruno

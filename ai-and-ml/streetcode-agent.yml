@@ -1,0 +1,10 @@
+info:
+  name: StreetCode Agent
+  namespace: github.com/gilbertobotas
+  type: collection
+  seq: 205
+source:
+  kind: git
+  url: https://github.com/GilbertoBotas/Mozambican-Road-Code-Chatbot-RAG.git
+  ref: main
+  subdir: Bruno Endpoints

@@ -1,0 +1,10 @@
+info:
+  name: Wopi-host - Fileshare
+  namespace: github.com/jacobdnielsen
+  type: collection
+  seq: 274
+source:
+  kind: git
+  url: https://github.com/JacobDNielsen/FileShare.git
+  ref: main
+  subdir: src/bruno/Wopi-host - Fileshare

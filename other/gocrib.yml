@@ -1,0 +1,10 @@
+info:
+  name: gocrib
+  namespace: github.com/bardic
+  type: collection
+  seq: 243
+source:
+  kind: git
+  url: https://github.com/bardic/gocrib.git
+  ref: main
+  subdir: http

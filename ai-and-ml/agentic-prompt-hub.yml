@@ -1,0 +1,11 @@
+info:
+  name: Agentic Prompt Hub
+  namespace: github.com/acruxcore
+  type: collection
+  seq: 12
+  featured: true
+source:
+  kind: git
+  url: https://github.com/AcruxCore/AcruxCore.git
+  ref: main
+  subdir: bruno

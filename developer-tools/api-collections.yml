@@ -1,0 +1,11 @@
+info:
+  name: api-collections
+  namespace: github.com/automation-test-starter
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 140
+source:
+  kind: git
+  url: https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter.git
+  ref: main

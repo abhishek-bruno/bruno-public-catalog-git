@@ -1,0 +1,12 @@
+info:
+  name: go-ledger
+  namespace: github.com/sohag-pro
+  type: collection
+  tags:
+    - developer-tools
+  seq: 94
+source:
+  kind: git
+  url: https://github.com/sohag-pro/go-ledger.git
+  ref: main
+  subdir: bruno

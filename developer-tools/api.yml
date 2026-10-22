@@ -1,0 +1,10 @@
+info:
+  name: ГИС «Электронный знак» — API маркировки и оборота товаров
+  namespace: github.com/pravets
+  type: collection
+  seq: 14
+source:
+  kind: git
+  url: https://github.com/pravets/datamark.by-openapi.git
+  ref: master
+  subdir: bruno/datamark

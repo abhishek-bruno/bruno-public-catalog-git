@@ -1,0 +1,10 @@
+info:
+  name: prismaTest
+  namespace: github.com/log1ri
+  type: collection
+  seq: 291
+source:
+  kind: git
+  url: https://github.com/log1ri/superbase-prisma-crud.git
+  ref: main
+  subdir: bruno/prismaTest

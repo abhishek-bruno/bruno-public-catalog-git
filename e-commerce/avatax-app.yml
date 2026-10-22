@@ -1,0 +1,12 @@
+info:
+  name: AvaTax App
+  namespace: github.com/saleor
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 27
+source:
+  kind: git
+  url: https://github.com/saleor/apps.git
+  ref: main
+  subdir: apps/avatax/bruno

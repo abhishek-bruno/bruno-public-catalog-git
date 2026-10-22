@@ -1,0 +1,10 @@
+info:
+  name: senior-accounting-officer-registration
+  namespace: github.com/hmrc
+  type: collection
+  seq: 249
+source:
+  kind: git
+  url: https://github.com/hmrc/senior-accounting-officer-registration.git
+  ref: main
+  subdir: bruno

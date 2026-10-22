@@ -1,0 +1,10 @@
+info:
+  name: Savvy Public API
+  namespace: github.com/savvyaviation
+  type: collection
+  seq: 168
+source:
+  kind: git
+  url: https://github.com/savvyaviation/api-docs.git
+  ref: master
+  subdir: bruno

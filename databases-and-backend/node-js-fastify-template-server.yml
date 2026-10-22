@@ -1,0 +1,12 @@
+info:
+  name: Node.js fastify template server
+  namespace: github.com/mihaur
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 106
+source:
+  kind: git
+  url: https://github.com/mihaur/node-fastify-template.git
+  ref: main
+  subdir: bruno

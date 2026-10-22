@@ -1,0 +1,10 @@
+info:
+  name: aspnetcore10api
+  namespace: github.com/talley
+  type: collection
+  seq: 268
+source:
+  kind: git
+  url: https://github.com/talley/aspnetcoreapi10.git
+  ref: main
+  subdir: src/Bruno/aspnetcore10api

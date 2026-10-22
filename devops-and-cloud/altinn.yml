@@ -1,0 +1,9 @@
+info:
+  name: Altinn
+  namespace: github.com/altinn
+  type: collection
+  seq: 32
+source:
+  kind: git
+  url: https://github.com/Altinn/dialogporten-bruno.git
+  ref: main

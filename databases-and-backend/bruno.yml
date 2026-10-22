@@ -1,0 +1,12 @@
+info:
+  name: bruno
+  namespace: github.com/berkut3nko
+  type: collection
+  tags:
+    - finance
+  seq: 203
+source:
+  kind: git
+  url: https://github.com/berkut3nko/tradebench.git
+  ref: main
+  subdir: bruno

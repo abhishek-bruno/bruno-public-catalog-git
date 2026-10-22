@@ -1,0 +1,10 @@
+info:
+  name: stepback-api
+  namespace: github.com/bitodette
+  type: collection
+  seq: 255
+source:
+  kind: git
+  url: https://github.com/Bitodette/stepback-go.git
+  ref: main
+  subdir: backend/bruno

@@ -1,0 +1,12 @@
+info:
+  name: chess.io
+  namespace: github.com/dev-xero
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 149
+source:
+  kind: git
+  url: https://github.com/dev-xero/chess.io.git
+  ref: main
+  subdir: server/bruno/chess.io

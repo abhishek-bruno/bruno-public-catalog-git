@@ -1,0 +1,12 @@
+info:
+  name: opensource-chat-app
+  namespace: github.com/saihanhtet
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 87
+source:
+  kind: git
+  url: https://github.com/saihanhtet/opensource-chat-platform.git
+  ref: main
+  subdir: bruno

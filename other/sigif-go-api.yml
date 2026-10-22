@@ -1,0 +1,10 @@
+info:
+  name: SIGIF-GO API
+  namespace: github.com/4drianc4
+  type: collection
+  seq: 92
+source:
+  kind: git
+  url: https://github.com/4drianC4/SIGIF-GO.git
+  ref: main
+  subdir: bruno

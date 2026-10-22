@@ -1,0 +1,10 @@
+info:
+  name: integration
+  namespace: github.com/enriquemendozaprrfect
+  type: collection
+  seq: 131
+source:
+  kind: git
+  url: https://github.com/EnriqueMendozaPrrfect/alchemy-pdf.git
+  ref: main
+  subdir: integration

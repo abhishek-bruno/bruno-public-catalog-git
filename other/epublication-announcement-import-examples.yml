@@ -1,0 +1,10 @@
+info:
+  name: ePublication - Announcement Import Examples
+  namespace: github.com/epublication
+  type: collection
+  seq: 68
+source:
+  kind: git
+  url: https://github.com/epublication/epublication-api.git
+  ref: main
+  subdir: bruno

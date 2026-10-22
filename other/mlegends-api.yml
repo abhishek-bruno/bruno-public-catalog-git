@@ -1,0 +1,10 @@
+info:
+  name: mlegends-api
+  namespace: github.com/dvaefroot
+  type: collection
+  seq: 271
+source:
+  kind: git
+  url: https://github.com/DvaeFroot/mlegends-api.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: BackendA25
+  namespace: github.com/leandre02
+  type: collection
+  seq: 231
+source:
+  kind: git
+  url: https://github.com/Leandre02/Backend_leandre.git
+  ref: main
+  subdir: Bruno_leandre/BackendA25

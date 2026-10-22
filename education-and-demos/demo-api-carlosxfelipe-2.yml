@@ -1,0 +1,10 @@
+info:
+  name: Demo API
+  namespace: github.com/carlosxfelipe
+  type: collection
+  seq: 304
+source:
+  kind: git
+  url: https://github.com/carlosxfelipe/goddo-example.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,12 @@
+info:
+  name: map-mories bruno
+  namespace: github.com/kymbym
+  type: collection
+  tags:
+    - productivity
+  seq: 296
+source:
+  kind: git
+  url: https://github.com/kymbym/map-mories.git
+  ref: main
+  subdir: map-mories bruno

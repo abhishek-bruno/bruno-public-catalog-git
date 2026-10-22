@@ -1,0 +1,10 @@
+info:
+  name: lv
+  namespace: github.com/waylon123254
+  type: collection
+  seq: 320
+source:
+  kind: git
+  url: https://github.com/waylon123254/springboot_vue_element.git
+  ref: master
+  subdir: code

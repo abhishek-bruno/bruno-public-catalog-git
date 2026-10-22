@@ -1,0 +1,10 @@
+info:
+  name: Expenser API
+  namespace: github.com/sakilahmmad71
+  type: collection
+  seq: 50
+source:
+  kind: git
+  url: https://github.com/sakilahmmad71/expense-manager-apis.git
+  ref: main
+  subdir: bruno-api-collection

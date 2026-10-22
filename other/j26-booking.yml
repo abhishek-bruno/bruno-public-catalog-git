@@ -1,0 +1,10 @@
+info:
+  name: j26-booking
+  namespace: github.com/scouterna
+  type: collection
+  seq: 130
+source:
+  kind: git
+  url: https://github.com/Scouterna/j26-booking.git
+  ref: main
+  subdir: bruno

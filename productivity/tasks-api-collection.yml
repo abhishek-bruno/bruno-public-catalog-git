@@ -1,0 +1,10 @@
+info:
+  name: Tasks-Api-Collection
+  namespace: github.com/tchoknut
+  type: collection
+  seq: 313
+source:
+  kind: git
+  url: https://github.com/TchoKnut/task-api.git
+  ref: main
+  subdir: Tasks-Api-Collection

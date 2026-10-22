@@ -1,0 +1,10 @@
+info:
+  name: RegioJet's Affiliate API Reference
+  namespace: github.com/metju-ac
+  type: collection
+  seq: 135
+source:
+  kind: git
+  url: https://github.com/metju-ac/train-me-maybe.git
+  ref: master
+  subdir: bruno/RegioJet's Affiliate API Reference

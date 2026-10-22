@@ -1,0 +1,10 @@
+info:
+  name: Elegoo3Dp
+  namespace: github.com/aaronfjung
+  type: collection
+  seq: 160
+source:
+  kind: git
+  url: https://github.com/AaronFJung/Connect3Dp.git
+  ref: main
+  subdir: Research/Elegoo/Bruno

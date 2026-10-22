@@ -1,0 +1,10 @@
+info:
+  name: Django-Boilerplate
+  namespace: github.com/xtream1101
+  type: collection
+  seq: 217
+source:
+  kind: git
+  url: https://github.com/xtream1101/django-react-boilerplate.git
+  ref: main
+  subdir: backend/bruno-client

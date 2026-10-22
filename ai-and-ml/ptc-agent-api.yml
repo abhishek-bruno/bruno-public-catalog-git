@@ -1,0 +1,13 @@
+info:
+  name: PTC Agent API
+  namespace: github.com/ginlix-ai
+  type: collection
+  tags:
+    - finance
+  seq: 1
+  featured: true
+source:
+  kind: git
+  url: https://github.com/ginlix-ai/LangAlpha.git
+  ref: main
+  subdir: docs/api

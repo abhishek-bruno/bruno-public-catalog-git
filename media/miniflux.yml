@@ -1,0 +1,11 @@
+info:
+  name: Miniflux
+  namespace: github.com/miniflux
+  type: collection
+  seq: 2
+  featured: true
+source:
+  kind: git
+  url: https://github.com/miniflux/v2.git
+  ref: main
+  subdir: contrib/bruno/miniflux

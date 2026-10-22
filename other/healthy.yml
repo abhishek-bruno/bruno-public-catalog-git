@@ -1,0 +1,10 @@
+info:
+  name: healthy
+  namespace: github.com/dougramirez
+  type: collection
+  seq: 319
+source:
+  kind: git
+  url: https://github.com/dougramirez/healthy.git
+  ref: main
+  subdir: bruno/healthy

@@ -1,0 +1,10 @@
+info:
+  name: CRUX
+  namespace: github.com/gokceno
+  type: collection
+  seq: 250
+source:
+  kind: git
+  url: https://github.com/gokceno/crux.md.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: Codedang Client
+  namespace: github.com/skkuding
+  type: collection
+  seq: 7
+source:
+  kind: git
+  url: https://github.com/skkuding/codedang.git
+  ref: main
+  subdir: collection/client

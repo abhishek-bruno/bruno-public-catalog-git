@@ -1,0 +1,11 @@
+info:
+  name: Practice Software Testing
+  namespace: github.com/testsmith-io
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 115
+source:
+  kind: git
+  url: https://github.com/testsmith-io/api-test-automation-bruno.git
+  ref: main

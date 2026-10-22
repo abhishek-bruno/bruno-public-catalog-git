@@ -1,0 +1,10 @@
+info:
+  name: ria
+  namespace: github.com/yannickperret
+  type: collection
+  seq: 325
+source:
+  kind: git
+  url: https://github.com/YannickPerret/RIA-Vision.git
+  ref: main
+  subdir: docs/Bruno-API

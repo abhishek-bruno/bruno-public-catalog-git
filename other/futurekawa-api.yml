@@ -1,0 +1,10 @@
+info:
+  name: FutureKawa API
+  namespace: github.com/enzobu
+  type: collection
+  seq: 66
+source:
+  kind: git
+  url: https://github.com/Enzobu/MSPR-TPRE-814.git
+  ref: main
+  subdir: bruno

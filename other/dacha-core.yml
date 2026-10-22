@@ -1,0 +1,10 @@
+info:
+  name: dacha-core
+  namespace: github.com/busygind
+  type: collection
+  seq: 272
+source:
+  kind: git
+  url: https://github.com/Busygind/smartest-dacha-macho-hata-house.git
+  ref: main
+  subdir: rmp-backend/core/src/main/resources/bruno-collection/dacha-core

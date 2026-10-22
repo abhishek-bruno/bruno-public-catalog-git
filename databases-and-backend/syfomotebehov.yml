@@ -1,0 +1,10 @@
+info:
+  name: syfomotebehov
+  namespace: github.com/navikt
+  type: collection
+  seq: 179
+source:
+  kind: git
+  url: https://github.com/navikt/syfomotebehov.git
+  ref: main
+  subdir: bruno/syfomotebehov

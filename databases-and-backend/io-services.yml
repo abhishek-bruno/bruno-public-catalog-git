@@ -1,0 +1,10 @@
+info:
+  name: io-services
+  namespace: github.com/pagopa
+  type: collection
+  seq: 119
+source:
+  kind: git
+  url: https://github.com/pagopa/io-services-cms.git
+  ref: master
+  subdir: bruno

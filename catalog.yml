@@ -1,0 +1,94 @@
+opencollection: 1.0.0
+info:
+  name: Bruno Explore
+  summary: Every public Bruno collection indexed from GitHub
+  type: catalog
+  logo: https://bruno-catalog.vercel.app/bruno-logo.png
+  links:
+    - name: Website
+      url: https://www.usebruno.com
+    - name: GitHub
+      url: https://github.com/usebruno/bruno
+  contact:
+    name: Bruno
+    url: https://www.usebruno.com
+catalog:
+  scope: aggregate
+  tags:
+    - id: ai-and-ml
+      label: AI & ML
+      description: LLM providers, inference servers, embeddings and agent frameworks.
+      category: true
+    - id: payments
+      label: Payments
+      description: Checkout, subscriptions, invoicing and payouts.
+      category: true
+    - id: finance
+      label: Finance
+      description: Banking, trading, market data, accounting and crypto.
+      category: true
+    - id: devops-and-cloud
+      label: DevOps & Cloud
+      description: Cloud providers, infrastructure, monitoring and deploys.
+      category: true
+    - id: developer-tools
+      label: Developer Tools
+      description: Source control, CI, issue trackers, SDK playgrounds and API tooling.
+      category: true
+    - id: home-and-iot
+      label: Home & IoT
+      description: Smart home hubs, devices and sensors.
+      category: true
+    - id: media
+      label: Media
+      description: Music, video, podcasts, streaming servers and media libraries.
+      category: true
+    - id: games
+      label: Games
+      description: Game data, platforms, leaderboards and community APIs.
+      category: true
+    - id: communication
+      label: Communication
+      description: Chat, email, SMS, social networks and notifications.
+      category: true
+    - id: e-commerce
+      label: E-commerce
+      description: Storefronts, carts, catalogs and order management.
+      category: true
+    - id: data-and-analytics
+      label: Data & Analytics
+      description: Analytics, warehouses, pipelines and dashboards.
+      category: true
+    - id: auth-and-identity
+      label: Auth & Identity
+      description: Login, OAuth, SSO and user management.
+      category: true
+    - id: weather
+      label: Weather
+      description: Forecasts, observations and climate data.
+      category: true
+    - id: maps-and-geo
+      label: Maps & Geo
+      description: Geocoding, routing, places and location data.
+      category: true
+    - id: open-data
+      label: Open Data
+      description: Public datasets, government and civic APIs, reference data.
+      category: true
+    - id: science
+      label: Science
+      description: Research, health, bio and space APIs.
+      category: true
+    - id: databases-and-backend
+      label: Databases & Backend
+      description: Backends-as-a-service, databases and headless CMSs.
+      category: true
+    - id: productivity
+      label: Productivity
+      description: Notes, tasks, calendars, documents and team workspaces.
+      category: true
+    - id: education-and-demos
+      label: Education & Demos
+      description: Tutorials, workshops, starters and sample APIs.
+      category: true
+bundled: false

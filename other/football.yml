@@ -1,0 +1,10 @@
+info:
+  name: Football
+  namespace: github.com/exruos
+  type: collection
+  seq: 187
+source:
+  kind: git
+  url: https://github.com/exruos/wasm-football.git
+  ref: main
+  subdir: bruno

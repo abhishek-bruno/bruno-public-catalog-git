@@ -1,0 +1,10 @@
+info:
+  name: Madoc Git
+  namespace: github.com/arcsoftware-dev
+  type: collection
+  seq: 191
+source:
+  kind: git
+  url: https://github.com/arcsoftware-dev/Madoc.git
+  ref: main
+  subdir: bruno/Madoc

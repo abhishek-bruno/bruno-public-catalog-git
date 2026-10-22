@@ -1,0 +1,10 @@
+info:
+  name: proc
+  namespace: github.com/ianmacdonald37
+  type: collection
+  seq: 317
+source:
+  kind: git
+  url: https://github.com/IanMacdonald37/3855_project.git
+  ref: main
+  subdir: br/proc

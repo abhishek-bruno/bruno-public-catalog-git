@@ -1,0 +1,10 @@
+info:
+  name: Lhotse
+  namespace: github.com/oleiade
+  type: collection
+  seq: 252
+source:
+  kind: git
+  url: https://github.com/oleiade/lhotse.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: Graphix
+  namespace: github.com/graphprotocol
+  type: collection
+  seq: 207
+source:
+  kind: git
+  url: https://github.com/graphprotocol/graphix.git
+  ref: main
+  subdir: bruno

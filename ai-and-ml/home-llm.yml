@@ -1,0 +1,12 @@
+info:
+  name: home-llm
+  namespace: github.com/yigittuncer07
+  type: collection
+  tags:
+    - communication
+  seq: 89
+source:
+  kind: git
+  url: https://github.com/yigittuncer07/home-llm.git
+  ref: main
+  subdir: docs/bruno

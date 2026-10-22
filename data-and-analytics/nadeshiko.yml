@@ -1,0 +1,13 @@
+info:
+  name: Nadeshiko
+  namespace: github.com/brigadasos
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 8
+  featured: true
+source:
+  kind: git
+  url: https://github.com/BrigadaSOS/Nadeshiko.git
+  ref: main
+  subdir: backend/docs/bruno

@@ -1,0 +1,10 @@
+info:
+  name: RecordRanks
+  namespace: github.com/mintydev-ltd
+  type: collection
+  seq: 82
+source:
+  kind: git
+  url: https://github.com/mintydev-ltd/RecordRanks.git
+  ref: main
+  subdir: bruno/RecordRanks

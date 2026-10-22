@@ -1,0 +1,10 @@
+info:
+  name: Blink
+  namespace: github.com/ferrum
+  type: collection
+  seq: 215
+source:
+  kind: git
+  url: https://github.com/ferrum/blink.git
+  ref: main
+  subdir: backend/apis/BlinkApiCollection

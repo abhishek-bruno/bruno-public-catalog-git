@@ -1,0 +1,10 @@
+info:
+  name: boilerplate API
+  namespace: github.com/wezard-it
+  type: collection
+  seq: 199
+source:
+  kind: git
+  url: https://github.com/wezard-it/fastify-svc-boilerplate.git
+  ref: main
+  subdir: bruno

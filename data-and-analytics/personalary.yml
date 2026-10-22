@@ -1,0 +1,10 @@
+info:
+  name: Personalary
+  namespace: github.com/syeo66
+  type: collection
+  seq: 204
+source:
+  kind: git
+  url: https://github.com/syeo66/personalary.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,12 @@
+info:
+  name: Example Express OTel
+  namespace: github.com/armandwipangestu
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 239
+source:
+  kind: git
+  url: https://github.com/armandwipangestu/example-express-otel.git
+  ref: main
+  subdir: bruno

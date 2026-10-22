@@ -1,0 +1,9 @@
+info:
+  name: Moloni
+  namespace: github.com/fabiombc
+  type: collection
+  seq: 127
+source:
+  kind: git
+  url: https://github.com/fabiombc/moloni-api-collection.git
+  ref: main

@@ -1,0 +1,10 @@
+info:
+  name: Security
+  namespace: github.com/welintonhaas
+  type: collection
+  seq: 307
+source:
+  kind: git
+  url: https://github.com/welintonhaas/Spring-Boot-Course.git
+  ref: master
+  subdir: Rest Api Client/Security

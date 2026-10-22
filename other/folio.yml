@@ -1,0 +1,9 @@
+info:
+  name: FOLIO
+  namespace: github.com/folio-org
+  type: collection
+  seq: 248
+source:
+  kind: git
+  url: https://github.com/folio-org/folio-bruno.git
+  ref: master

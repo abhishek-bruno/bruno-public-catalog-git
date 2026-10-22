@@ -1,0 +1,10 @@
+info:
+  name: ZipCaptions
+  namespace: github.com/jptrsn
+  type: collection
+  seq: 74
+source:
+  kind: git
+  url: https://github.com/jptrsn/zip-captions.git
+  ref: develop
+  subdir: bruno

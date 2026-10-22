@@ -1,0 +1,10 @@
+info:
+  name: HN Algolia
+  namespace: github.com/labarilem
+  type: collection
+  seq: 181
+source:
+  kind: git
+  url: https://github.com/labarilem/hn-games.git
+  ref: main
+  subdir: bruno

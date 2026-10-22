@@ -1,0 +1,10 @@
+info:
+  name: kungfu
+  namespace: github.com/alexandr-yang
+  type: collection
+  seq: 173
+source:
+  kind: git
+  url: https://github.com/alexandr-yang/kungfu-conf-ekb-2026.git
+  ref: main
+  subdir: demo/bruno

@@ -1,0 +1,12 @@
+info:
+  name: IMFS
+  namespace: github.com/romeshcg
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 35
+source:
+  kind: git
+  url: https://github.com/RomeshCG/j26it326.git
+  ref: main
+  subdir: docs/bruno/IMFS

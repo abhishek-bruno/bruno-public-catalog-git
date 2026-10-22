@@ -1,0 +1,9 @@
+info:
+  name: api
+  namespace: github.com/near
+  type: collection
+  seq: 138
+source:
+  kind: git
+  url: https://github.com/near/near-light-client.git
+  ref: master

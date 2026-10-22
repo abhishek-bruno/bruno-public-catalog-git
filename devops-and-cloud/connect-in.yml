@@ -1,0 +1,10 @@
+info:
+  name: Connect'in
+  namespace: github.com/sofianbll
+  type: collection
+  seq: 147
+source:
+  kind: git
+  url: https://github.com/sofianbll/ept-connectin.git
+  ref: main
+  subdir: bruno

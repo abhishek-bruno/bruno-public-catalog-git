@@ -1,0 +1,9 @@
+info:
+  name: Member API
+  namespace: github.com/hamanahel
+  type: collection
+  seq: 57
+source:
+  kind: git
+  url: https://github.com/Hamanahel/bc01-member-api.git
+  ref: master

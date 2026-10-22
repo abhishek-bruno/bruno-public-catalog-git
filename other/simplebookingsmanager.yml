@@ -1,0 +1,10 @@
+info:
+  name: SimpleBookingsManager
+  namespace: github.com/airabinovich
+  type: collection
+  seq: 293
+source:
+  kind: git
+  url: https://github.com/airabinovich/SimpleBookingsManager.git
+  ref: main
+  subdir: collection

@@ -1,0 +1,13 @@
+info:
+  name: mailstack
+  namespace: github.com/jurczykpawel
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 40
+  featured: true
+source:
+  kind: git
+  url: https://github.com/jurczykpawel/mailstack.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,12 @@
+info:
+  name: Konsulin API
+  namespace: github.com/konsulin-care
+  type: collection
+  tags:
+    - science
+  seq: 31
+source:
+  kind: git
+  url: https://github.com/konsulin-care/konsulin-api.git
+  ref: develop
+  subdir: docs/api

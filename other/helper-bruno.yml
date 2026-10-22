@@ -1,0 +1,10 @@
+info:
+  name: Helper-Bruno
+  namespace: github.com/anthonysackman
+  type: collection
+  seq: 311
+source:
+  kind: git
+  url: https://github.com/anthonysackman/helper.git
+  ref: main
+  subdir: Helper-Bruno

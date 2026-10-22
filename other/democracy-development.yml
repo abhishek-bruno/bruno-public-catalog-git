@@ -1,0 +1,10 @@
+info:
+  name: democracy-development
+  namespace: github.com/demokratie-live
+  type: collection
+  seq: 67
+source:
+  kind: git
+  url: https://github.com/demokratie-live/democracy-development.git
+  ref: master
+  subdir: bruno/democracy-development

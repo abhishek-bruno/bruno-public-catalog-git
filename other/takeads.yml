@@ -1,0 +1,10 @@
+info:
+  name: TakeAds
+  namespace: github.com/muscobytes
+  type: collection
+  seq: 186
+source:
+  kind: git
+  url: https://github.com/muscobytes/takeads-api-bruno-collection.git
+  ref: master
+  subdir: TakeAds

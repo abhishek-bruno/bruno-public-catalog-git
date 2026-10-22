@@ -1,0 +1,12 @@
+info:
+  name: Pig Latin translator
+  namespace: github.com/rabestro
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 38
+source:
+  kind: git
+  url: https://github.com/rabestro/pig-latin-rest.git
+  ref: main
+  subdir: bruno

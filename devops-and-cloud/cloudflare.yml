@@ -1,0 +1,10 @@
+info:
+  name: Cloudflare
+  namespace: github.com/kissgyorgy
+  type: collection
+  seq: 46
+source:
+  kind: git
+  url: https://github.com/kissgyorgy/cloudflare-dyndns.git
+  ref: master
+  subdir: bruno

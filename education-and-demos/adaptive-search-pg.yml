@@ -1,0 +1,12 @@
+info:
+  name: adaptive-search-pg
+  namespace: github.com/pyramidheadshark
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 273
+source:
+  kind: git
+  url: https://github.com/pyramidheadshark/adaptive_search_pg.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: DC demo
+  namespace: github.com/kalviumcommunity
+  type: collection
+  seq: 305
+source:
+  kind: git
+  url: https://github.com/kalviumcommunity/S72_Avinash_Capstone_DevCollab.git
+  ref: main
+  subdir: backend/DC demo

@@ -1,0 +1,10 @@
+info:
+  name: core/
+  namespace: github.com/thehimel
+  type: collection
+  seq: 103
+source:
+  kind: git
+  url: https://github.com/thehimel/async-document-processing.git
+  ref: main
+  subdir: bruno

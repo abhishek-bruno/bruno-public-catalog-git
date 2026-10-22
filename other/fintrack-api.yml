@@ -1,0 +1,10 @@
+info:
+  name: FinTrack API
+  namespace: github.com/fntr3455234
+  type: collection
+  seq: 56
+source:
+  kind: git
+  url: https://github.com/FNTR3455234/FinTrack.git
+  ref: main
+  subdir: bruno

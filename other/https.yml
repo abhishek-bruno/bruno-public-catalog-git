@@ -1,0 +1,10 @@
+info:
+  name: https
+  namespace: github.com/alexspx
+  type: collection
+  seq: 247
+source:
+  kind: git
+  url: https://github.com/AlexSPx/safe-zafira.git
+  ref: main
+  subdir: fmi

@@ -1,0 +1,11 @@
+info:
+  name: Claims API
+  namespace: github.com/ministryofjustice
+  type: collection
+  seq: 21
+  featured: true
+source:
+  kind: git
+  url: https://github.com/ministryofjustice/laa-data-claims-api.git
+  ref: main
+  subdir: bruno

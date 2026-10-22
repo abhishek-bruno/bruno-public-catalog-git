@@ -1,0 +1,9 @@
+info:
+  name: CyberArk Rest APIs
+  namespace: github.com/strick-j
+  type: collection
+  seq: 28
+source:
+  kind: git
+  url: https://github.com/strick-j/CyberArk-APIs.git
+  ref: main

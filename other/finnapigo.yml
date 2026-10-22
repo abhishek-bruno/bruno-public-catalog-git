@@ -1,0 +1,10 @@
+info:
+  name: FinnApiGo
+  namespace: github.com/nguyenquan121321
+  type: collection
+  seq: 53
+source:
+  kind: git
+  url: https://github.com/NguyenQuan121321/FinnApiGo.git
+  ref: main
+  subdir: Bruno

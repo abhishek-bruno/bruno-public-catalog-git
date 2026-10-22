@@ -1,0 +1,10 @@
+info:
+  name: LedgerBeetle
+  namespace: github.com/lil5
+  type: collection
+  seq: 132
+source:
+  kind: git
+  url: https://github.com/lil5/ledgerbeetle.git
+  ref: main
+  subdir: bruno

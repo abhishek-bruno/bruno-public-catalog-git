@@ -1,0 +1,10 @@
+info:
+  name: Cloud-native requirements Homework - AppA
+  namespace: github.com/drsylent
+  type: collection
+  seq: 318
+source:
+  kind: git
+  url: https://github.com/drsylent/cubix-cloudnativev2-block6-homework.git
+  ref: main
+  subdir: bruno-api

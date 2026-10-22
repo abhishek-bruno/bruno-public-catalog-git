@@ -1,0 +1,10 @@
+info:
+  name: Promul
+  namespace: github.com/jacksonrakena
+  type: collection
+  seq: 141
+source:
+  kind: git
+  url: https://github.com/jacksonrakena/promul.git
+  ref: main
+  subdir: src/Promul.Server~/Bruno API Collection

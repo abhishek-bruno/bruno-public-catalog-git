@@ -1,0 +1,11 @@
+info:
+  name: Obskurnee
+  namespace: github.com/zblesk
+  type: collection
+  seq: 36
+  featured: true
+source:
+  kind: git
+  url: https://github.com/zblesk/obskurnee.git
+  ref: master
+  subdir: bruno-requests

@@ -1,0 +1,12 @@
+info:
+  name: starter kit
+  namespace: github.com/mintori09
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 218
+source:
+  kind: git
+  url: https://github.com/Mintori09/BKVolunteersBackend.git
+  ref: main
+  subdir: bruno

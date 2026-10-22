@@ -1,0 +1,10 @@
+info:
+  name: Shark.OAuth2.0
+  namespace: github.com/linuxchata
+  type: collection
+  seq: 98
+source:
+  kind: git
+  url: https://github.com/linuxchata/oauth.git
+  ref: main
+  subdir: bruno/Shark.OAuth2.0

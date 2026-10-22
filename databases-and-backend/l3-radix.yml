@@ -1,0 +1,10 @@
+info:
+  name: L3 Radix
+  namespace: github.com/lattic3-rdx
+  type: collection
+  seq: 212
+source:
+  kind: git
+  url: https://github.com/Lattic3-RDX/scrypto-packages.git
+  ref: main
+  subdir: bruno

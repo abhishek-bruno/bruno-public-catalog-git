@@ -1,0 +1,10 @@
+info:
+  name: App Backend
+  namespace: github.com/repaircafetours
+  type: collection
+  seq: 117
+source:
+  kind: git
+  url: https://github.com/repaircafetours/GLOBE-app-backend.git
+  ref: master
+  subdir: bruno

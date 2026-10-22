@@ -1,0 +1,10 @@
+info:
+  name: CFMToolbox-Webeditor
+  namespace: github.com/kit-tva
+  type: collection
+  seq: 295
+source:
+  kind: git
+  url: https://github.com/KIT-TVA/cfmtoolbox-webeditor.git
+  ref: main
+  subdir: bruno

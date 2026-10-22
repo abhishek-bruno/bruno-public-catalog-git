@@ -1,0 +1,10 @@
+info:
+  name: blog-hono
+  namespace: github.com/umaidashi
+  type: collection
+  seq: 310
+source:
+  kind: git
+  url: https://github.com/umaidashi/blog.git
+  ref: main
+  subdir: server/hono/bruno

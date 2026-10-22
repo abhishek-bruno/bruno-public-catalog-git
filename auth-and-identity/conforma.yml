@@ -1,0 +1,11 @@
+info:
+  name: Conforma
+  namespace: github.com/msupply-foundation
+  type: collection
+  seq: 20
+  featured: true
+source:
+  kind: git
+  url: https://github.com/msupply-foundation/conforma-web-app.git
+  ref: develop
+  subdir: utils/api-collection

@@ -1,0 +1,10 @@
+info:
+  name: api actual
+  namespace: github.com/lordvault
+  type: collection
+  seq: 155
+source:
+  kind: git
+  url: https://github.com/lordvault/Actual-Budget-Rest-API.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: aritmetic-game-auth
+  namespace: github.com/alexandrendev
+  type: collection
+  seq: 244
+source:
+  kind: git
+  url: https://github.com/alexandrendev/aritmetic-game.git
+  ref: main
+  subdir: docs/bruno

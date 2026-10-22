@@ -1,0 +1,10 @@
+info:
+  name: Vadmin3
+  namespace: github.com/lj-andrade
+  type: collection
+  seq: 298
+source:
+  kind: git
+  url: https://github.com/LJ-Andrade/vadmin3-old.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: InfoDive
+  namespace: github.com/claudiusayadi
+  type: collection
+  seq: 301
+source:
+  kind: git
+  url: https://github.com/claudiusayadi/hng12.git
+  ref: main
+  subdir: stage_0/bruno

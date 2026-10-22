@@ -1,0 +1,9 @@
+info:
+  name: UDM Device API
+  namespace: github.com/sirkirby
+  type: collection
+  seq: 76
+source:
+  kind: git
+  url: https://github.com/sirkirby/bruno-udm-api.git
+  ref: main

@@ -1,0 +1,12 @@
+info:
+  name: Ecommerce Microservices
+  namespace: github.com/omatheusmesmo
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 86
+source:
+  kind: git
+  url: https://github.com/omatheusmesmo/ecommerce-microservices.git
+  ref: main
+  subdir: bruno

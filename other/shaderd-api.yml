@@ -1,0 +1,10 @@
+info:
+  name: Shaderd API
+  namespace: github.com/bobyed
+  type: collection
+  seq: 224
+source:
+  kind: git
+  url: https://github.com/BoByed/fullstack-project-back.git
+  ref: main
+  subdir: .bruno

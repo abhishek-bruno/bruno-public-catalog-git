@@ -1,0 +1,12 @@
+info:
+  name: Questrade
+  namespace: github.com/brymastr
+  type: collection
+  tags:
+    - auth-and-identity
+  seq: 216
+source:
+  kind: git
+  url: https://github.com/Brymastr/questrade-ynab.git
+  ref: main
+  subdir: bruno/Questrade

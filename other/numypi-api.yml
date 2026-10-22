@@ -1,0 +1,10 @@
+info:
+  name: NuMyPi API
+  namespace: github.com/hectorally94
+  type: collection
+  seq: 129
+source:
+  kind: git
+  url: https://github.com/hectorally94/NuMypi.git
+  ref: main
+  subdir: bruno-api

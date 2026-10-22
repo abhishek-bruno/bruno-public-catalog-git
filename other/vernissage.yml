@@ -1,0 +1,11 @@
+info:
+  name: Vernissage
+  namespace: github.com/ghostbyte-dev
+  type: collection
+  seq: 13
+  featured: true
+source:
+  kind: git
+  url: https://github.com/ghostbyte-dev/pixelix.git
+  ref: dev
+  subdir: api-docs-bruno/vernissage

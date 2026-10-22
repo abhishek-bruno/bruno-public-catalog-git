@@ -1,0 +1,10 @@
+info:
+  name: lps-oppfolgingsplan-mottak
+  namespace: github.com/navikt
+  type: collection
+  seq: 163
+source:
+  kind: git
+  url: https://github.com/navikt/lps-oppfolgingsplan-mottak.git
+  ref: main
+  subdir: bruno

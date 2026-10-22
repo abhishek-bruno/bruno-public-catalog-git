@@ -1,0 +1,10 @@
+info:
+  name: JsonPlaceholder
+  namespace: github.com/lia-lopes
+  type: collection
+  seq: 323
+source:
+  kind: git
+  url: https://github.com/lia-lopes/api_example.git
+  ref: main
+  subdir: collection

@@ -1,0 +1,11 @@
+info:
+  name: Canvas FHIR
+  namespace: github.com/canvas-medical
+  type: collection
+  tags:
+    - developer-tools
+  seq: 37
+source:
+  kind: git
+  url: https://github.com/canvas-medical/canvas-fhir-example-requests.git
+  ref: main

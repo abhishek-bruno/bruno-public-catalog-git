@@ -1,0 +1,10 @@
+info:
+  name: TicoRates
+  namespace: github.com/jonach1998
+  type: collection
+  seq: 134
+source:
+  kind: git
+  url: https://github.com/jonach1998/ticorates.git
+  ref: main
+  subdir: bruno

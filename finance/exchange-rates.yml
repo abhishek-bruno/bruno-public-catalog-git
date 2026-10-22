@@ -1,0 +1,10 @@
+info:
+  name: Exchange Rates
+  namespace: github.com/maurizuki
+  type: collection
+  seq: 170
+source:
+  kind: git
+  url: https://github.com/maurizuki/BIExchangeRates.Client.git
+  ref: master
+  subdir: bruno

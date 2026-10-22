@@ -1,0 +1,10 @@
+info:
+  name: CatDb Server
+  namespace: github.com/omidid
+  type: collection
+  seq: 99
+source:
+  kind: git
+  url: https://github.com/OmidID/CatDb.git
+  ref: main
+  subdir: bruno

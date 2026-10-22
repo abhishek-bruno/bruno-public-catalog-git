@@ -1,0 +1,10 @@
+info:
+  name: KOTC API
+  namespace: github.com/sergioam2807
+  type: collection
+  seq: 136
+source:
+  kind: git
+  url: https://github.com/sergioam2807/kotc_nextjs_app.git
+  ref: main
+  subdir: docs/bruno

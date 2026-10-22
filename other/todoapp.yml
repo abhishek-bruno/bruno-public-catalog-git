@@ -1,0 +1,10 @@
+info:
+  name: todoapp
+  namespace: github.com/a3whitlock
+  type: collection
+  seq: 326
+source:
+  kind: git
+  url: https://github.com/a3whitlock/tuwuduwu.git
+  ref: main
+  subdir: Tuwuduwu Collection

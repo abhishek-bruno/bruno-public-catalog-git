@@ -1,0 +1,10 @@
+info:
+  name: PaleoclimateAPI
+  namespace: github.com/jortuck
+  type: collection
+  seq: 281
+source:
+  kind: git
+  url: https://github.com/jortuck/PaleoclimateVisualizerAPI.git
+  ref: master
+  subdir: PaleoclimateAPITest

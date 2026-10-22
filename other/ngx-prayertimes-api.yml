@@ -1,0 +1,10 @@
+info:
+  name: ngx-prayertimes-api
+  namespace: github.com/wurshaapps
+  type: collection
+  seq: 233
+source:
+  kind: git
+  url: https://github.com/WurshaApps/ngx-prayertimes-api.git
+  ref: main
+  subdir: docs

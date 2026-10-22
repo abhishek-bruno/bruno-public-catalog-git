@@ -1,0 +1,10 @@
+info:
+  name: ArtVista
+  namespace: github.com/kalviumcommunity
+  type: collection
+  seq: 287
+source:
+  kind: git
+  url: https://github.com/kalviumcommunity/S47_Saksham_Capstone_ArtVista.git
+  ref: master
+  subdir: Bru

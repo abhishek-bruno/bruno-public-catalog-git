@@ -1,0 +1,12 @@
+info:
+  name: template
+  namespace: github.com/lucascampos42
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 45
+source:
+  kind: git
+  url: https://github.com/lucascampos42/nest-boilerplate-rbac.git
+  ref: dev
+  subdir: bruno

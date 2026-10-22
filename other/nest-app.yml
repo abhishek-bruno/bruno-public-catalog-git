@@ -1,0 +1,10 @@
+info:
+  name: nest-app
+  namespace: github.com/gabrielvrodriguez
+  type: collection
+  seq: 284
+source:
+  kind: git
+  url: https://github.com/gabrielVrodriguez/Practicing-NestJS.git
+  ref: master
+  subdir: bruno

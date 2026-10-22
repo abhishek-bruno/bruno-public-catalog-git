@@ -1,0 +1,10 @@
+info:
+  name: deadrop
+  namespace: github.com/dallen4
+  type: collection
+  seq: 104
+source:
+  kind: git
+  url: https://github.com/dallen4/deadrop.git
+  ref: main
+  subdir: bruno-collection

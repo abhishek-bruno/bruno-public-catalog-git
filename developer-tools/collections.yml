@@ -1,0 +1,10 @@
+info:
+  name: Collections
+  namespace: github.com/bsogulcan
+  type: collection
+  seq: 139
+source:
+  kind: git
+  url: https://github.com/bsogulcan/xtream-codes-mock-server.git
+  ref: main
+  subdir: collections

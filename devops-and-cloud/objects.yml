@@ -1,0 +1,10 @@
+info:
+  name: Objects
+  namespace: github.com/gemeentenijmegen
+  type: collection
+  seq: 161
+source:
+  kind: git
+  url: https://github.com/GemeenteNijmegen/open-forms.git
+  ref: main
+  subdir: bruno/Objects

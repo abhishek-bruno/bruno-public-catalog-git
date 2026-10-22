@@ -1,0 +1,12 @@
+info:
+  name: Loci API
+  namespace: github.com/trung-kieen
+  type: collection
+  tags:
+    - auth-and-identity
+  seq: 70
+source:
+  kind: git
+  url: https://github.com/trung-kieen/loci-chat.git
+  ref: main
+  subdir: loci-api

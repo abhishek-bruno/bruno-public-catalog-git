@@ -1,0 +1,10 @@
+info:
+  name: Maple Engine
+  namespace: github.com/ethan-stone
+  type: collection
+  seq: 322
+source:
+  kind: git
+  url: https://github.com/ethan-stone/maple.git
+  ref: main
+  subdir: packages/engine/bruno

@@ -1,0 +1,10 @@
+info:
+  name: note-app
+  namespace: github.com/samyukthapeeyems
+  type: collection
+  seq: 324
+source:
+  kind: git
+  url: https://github.com/samyukthapeeyems/note-app.git
+  ref: main
+  subdir: collection

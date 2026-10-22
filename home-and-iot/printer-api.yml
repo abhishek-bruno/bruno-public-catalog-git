@@ -1,0 +1,10 @@
+info:
+  name: Printer API
+  namespace: github.com/jackzmc
+  type: collection
+  seq: 93
+source:
+  kind: git
+  url: https://github.com/Jackzmc/flashforge-api-server.git
+  ref: master
+  subdir: docs

@@ -1,0 +1,10 @@
+info:
+  name: Memoria API
+  namespace: github.com/memoriaorg
+  type: collection
+  seq: 280
+source:
+  kind: git
+  url: https://github.com/MemoriaOrg/memoria-backend.git
+  ref: master
+  subdir: api_collection/Memoria API

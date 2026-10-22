@@ -1,0 +1,10 @@
+info:
+  name: Mobile Control API
+  namespace: github.com/dhwani-ris
+  type: collection
+  seq: 83
+source:
+  kind: git
+  url: https://github.com/dhwani-ris/frappe-mobile-control.git
+  ref: develop
+  subdir: API

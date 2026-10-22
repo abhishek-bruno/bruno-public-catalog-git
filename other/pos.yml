@@ -1,0 +1,10 @@
+info:
+  name: POS
+  namespace: github.com/arielhurtado388
+  type: collection
+  seq: 269
+source:
+  kind: git
+  url: https://github.com/arielhurtado388/POSBackend.git
+  ref: main
+  subdir: bruno/POS

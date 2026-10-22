@@ -1,0 +1,10 @@
+info:
+  name: rDreamer API
+  namespace: github.com/wmill
+  type: collection
+  seq: 189
+source:
+  kind: git
+  url: https://github.com/wmill/rDrama-clone.git
+  ref: main
+  subdir: bruno

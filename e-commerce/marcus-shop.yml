@@ -1,0 +1,12 @@
+info:
+  name: Marcus-shop
+  namespace: github.com/yodra
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 308
+source:
+  kind: git
+  url: https://github.com/yodra/marcus-shop-backend.git
+  ref: main
+  subdir: documentation/Marcus-shop

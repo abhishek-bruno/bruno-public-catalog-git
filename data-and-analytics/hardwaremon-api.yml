@@ -1,0 +1,11 @@
+info:
+  name: HardwareMon API
+  namespace: github.com/louisboii747
+  type: collection
+  seq: 39
+  featured: true
+source:
+  kind: git
+  url: https://github.com/louisboii747/HardwareMon.git
+  ref: main
+  subdir: hardwaremon_app/bruno

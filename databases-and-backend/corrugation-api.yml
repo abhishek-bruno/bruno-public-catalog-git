@@ -1,0 +1,12 @@
+info:
+  name: Corrugation API
+  namespace: github.com/w-floyd
+  type: collection
+  tags:
+    - e-commerce
+  seq: 52
+source:
+  kind: git
+  url: https://github.com/W-Floyd/corrugation.git
+  ref: main
+  subdir: bruno

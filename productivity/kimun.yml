@@ -1,0 +1,12 @@
+info:
+  name: Kimun
+  namespace: github.com/nico2sh
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 69
+source:
+  kind: git
+  url: https://github.com/nico2sh/kimun.git
+  ref: main
+  subdir: server/bruno

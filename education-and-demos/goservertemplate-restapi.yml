@@ -1,0 +1,10 @@
+info:
+  name: goservertemplate-restapi
+  namespace: github.com/rodanstack
+  type: collection
+  seq: 263
+source:
+  kind: git
+  url: https://github.com/RodanStack/go-rest-server-template.git
+  ref: main
+  subdir: docs/bruno/restapi

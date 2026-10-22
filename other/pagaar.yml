@@ -1,0 +1,10 @@
+info:
+  name: pagaar
+  namespace: github.com/jdevaman
+  type: collection
+  seq: 234
+source:
+  kind: git
+  url: https://github.com/JDevAman/pagaar.git
+  ref: main
+  subdir: bruno

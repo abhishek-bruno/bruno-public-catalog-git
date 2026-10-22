@@ -1,0 +1,12 @@
+info:
+  name: automationintesting.online
+  namespace: github.com/playwrightsolutions
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 62
+source:
+  kind: git
+  url: https://github.com/playwrightsolutions/playwright-api-test-demo.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,10 @@
+info:
+  name: ECB Exchange Rates
+  namespace: github.com/maurizuki
+  type: collection
+  seq: 110
+source:
+  kind: git
+  url: https://github.com/maurizuki/ECB.Data.ExchangeRates.git
+  ref: main
+  subdir: bruno

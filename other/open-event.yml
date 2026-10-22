@@ -1,0 +1,10 @@
+info:
+  name: Open Event
+  namespace: github.com/black-forest-interactive
+  type: collection
+  seq: 206
+source:
+  kind: git
+  url: https://github.com/Black-Forest-Interactive/open-event.git
+  ref: master
+  subdir: bruno

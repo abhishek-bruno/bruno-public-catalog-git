@@ -1,0 +1,10 @@
+info:
+  name: gophermart-http
+  namespace: github.com/mdchumakov
+  type: collection
+  seq: 312
+source:
+  kind: git
+  url: https://github.com/mdchumakov/gophermart-service.git
+  ref: master
+  subdir: bruno

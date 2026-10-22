@@ -1,0 +1,10 @@
+info:
+  name: mockdata.dev
+  namespace: github.com/usebruno
+  type: collection
+  seq: 33
+source:
+  kind: git
+  url: https://github.com/usebruno/mockdata.dev.git
+  ref: main
+  subdir: resources/opencollection

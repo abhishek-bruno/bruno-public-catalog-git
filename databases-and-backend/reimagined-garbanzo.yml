@@ -1,0 +1,10 @@
+info:
+  name: reimagined-garbanzo
+  namespace: github.com/ppywmjr
+  type: collection
+  seq: 192
+source:
+  kind: git
+  url: https://github.com/ppywmjr/reimagined-garbanzo.git
+  ref: main
+  subdir: bruno

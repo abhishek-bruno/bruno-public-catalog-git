@@ -1,0 +1,10 @@
+info:
+  name: ssp-bruno
+  namespace: github.com/elias4044
+  type: collection
+  seq: 154
+source:
+  kind: git
+  url: https://github.com/elias4044/schoolsoftplus.git
+  ref: main
+  subdir: ssp-bruno

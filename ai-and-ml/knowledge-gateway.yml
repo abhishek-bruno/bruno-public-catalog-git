@@ -1,0 +1,12 @@
+info:
+  name: knowledge-gateway
+  namespace: github.com/laviprog
+  type: collection
+  tags:
+    - productivity
+  seq: 81
+source:
+  kind: git
+  url: https://github.com/laviprog/knowledge-gateway.git
+  ref: main
+  subdir: bruno

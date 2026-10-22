@@ -1,0 +1,12 @@
+info:
+  name: Task Backend API
+  namespace: github.com/doannd273
+  type: collection
+  tags:
+    - productivity
+  seq: 113
+source:
+  kind: git
+  url: https://github.com/doannd273/task-backend.git
+  ref: main
+  subdir: bruno/task-backend

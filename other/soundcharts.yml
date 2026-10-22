@@ -1,0 +1,10 @@
+info:
+  name: Soundcharts
+  namespace: github.com/sejmou
+  type: collection
+  seq: 261
+source:
+  kind: git
+  url: https://github.com/Sejmou/apis.git
+  ref: main
+  subdir: Soundcharts

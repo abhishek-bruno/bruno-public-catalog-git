@@ -1,0 +1,10 @@
+info:
+  name: bruno_football_db_collection
+  namespace: github.com/faouzi-benidiri
+  type: collection
+  seq: 279
+source:
+  kind: git
+  url: https://github.com/faouzi-benidiri/football_db.git
+  ref: main
+  subdir: bruno_football_db_collection

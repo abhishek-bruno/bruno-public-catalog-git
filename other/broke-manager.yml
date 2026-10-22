@@ -1,0 +1,10 @@
+info:
+  name: Broke-Manager
+  namespace: github.com/moritzlue24
+  type: collection
+  seq: 120
+source:
+  kind: git
+  url: https://github.com/MoritzLue24/Broke-Manager.git
+  ref: main
+  subdir: bruno

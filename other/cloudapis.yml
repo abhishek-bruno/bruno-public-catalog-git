@@ -1,0 +1,10 @@
+info:
+  name: CloudAPIs
+  namespace: github.com/furtiwile
+  type: collection
+  seq: 96
+source:
+  kind: git
+  url: https://github.com/furtiwile/SmartApiary.git
+  ref: main
+  subdir: Bruno

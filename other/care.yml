@@ -1,0 +1,9 @@
+info:
+  name: Care
+  namespace: github.com/ohcnetwork
+  type: collection
+  seq: 80
+source:
+  kind: git
+  url: https://github.com/ohcnetwork/care_api_backup.git
+  ref: main

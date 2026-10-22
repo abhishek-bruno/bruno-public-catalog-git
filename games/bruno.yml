@@ -1,0 +1,10 @@
+info:
+  name: bruno
+  namespace: github.com/adithyasource
+  type: collection
+  seq: 71
+source:
+  kind: git
+  url: https://github.com/adithyasource/clear.git
+  ref: main
+  subdir: api/bruno

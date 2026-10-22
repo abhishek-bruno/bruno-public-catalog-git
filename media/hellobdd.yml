@@ -1,0 +1,10 @@
+info:
+  name: HelloBDD
+  namespace: github.com/joey-barbier
+  type: collection
+  seq: 236
+source:
+  kind: git
+  url: https://github.com/joey-barbier/vapor-tuto-youtube.git
+  ref: main
+  subdir: 3 - BDD/helloBdd/HelloBDD

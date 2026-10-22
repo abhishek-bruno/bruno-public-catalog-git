@@ -1,0 +1,10 @@
+info:
+  name: aptos
+  namespace: github.com/alchemyplatform
+  type: collection
+  seq: 44
+source:
+  kind: git
+  url: https://github.com/alchemyplatform/collections.git
+  ref: main
+  subdir: aptos

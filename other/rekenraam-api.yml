@@ -1,0 +1,10 @@
+info:
+  name: Rekenraam API
+  namespace: github.com/sergeyfarin
+  type: collection
+  seq: 105
+source:
+  kind: git
+  url: https://github.com/sergeyfarin/rekenraam.git
+  ref: main
+  subdir: api/bruno

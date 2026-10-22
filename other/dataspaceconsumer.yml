@@ -1,0 +1,10 @@
+info:
+  name: dataspaceconsumer
+  namespace: github.com/fraunhoferiosb
+  type: collection
+  seq: 176
+source:
+  kind: git
+  url: https://github.com/FraunhoferIOSB/DataSpaceConsumer.git
+  ref: main
+  subdir: docs/bruno

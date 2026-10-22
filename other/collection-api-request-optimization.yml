@@ -1,0 +1,10 @@
+info:
+  name: collection-api-request-optimization
+  namespace: github.com/gustavohenriquefs
+  type: collection
+  seq: 288
+source:
+  kind: git
+  url: https://github.com/gustavohenriquefs/APIRequestOptimization.git
+  ref: main
+  subdir: collection-api-request-optimization

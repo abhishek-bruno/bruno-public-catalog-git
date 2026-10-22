@@ -1,0 +1,10 @@
+info:
+  name: FileDrive
+  namespace: github.com/0xdaksh-12
+  type: collection
+  seq: 245
+source:
+  kind: git
+  url: https://github.com/0xdaksh-12/FileDrive.git
+  ref: main
+  subdir: bruno

@@ -1,0 +1,12 @@
+info:
+  name: KlickerUZH
+  namespace: github.com/uzh-bf
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 60
+source:
+  kind: git
+  url: https://github.com/uzh-bf/klicker-uzh.git
+  ref: v3
+  subdir: bruno

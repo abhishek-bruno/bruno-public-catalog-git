@@ -1,0 +1,10 @@
+info:
+  name: Library Application
+  namespace: github.com/maverick1601
+  type: collection
+  seq: 190
+source:
+  kind: git
+  url: https://github.com/maverick1601/2025-jfs-mocking-hell.git
+  ref: main
+  subdir: bruno

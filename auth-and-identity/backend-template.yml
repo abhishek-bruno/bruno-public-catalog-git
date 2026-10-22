@@ -1,0 +1,13 @@
+info:
+  name: Backend Template
+  namespace: github.com/asel1x
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 10
+  featured: true
+source:
+  kind: git
+  url: https://github.com/aSel1x/Backend_Template.git
+  ref: ddd
+  subdir: bruno

@@ -1,0 +1,12 @@
+info:
+  name: Ellucian APIs
+  namespace: github.com/ellucian-developer
+  type: collection
+  tags:
+    - communication
+  seq: 24
+source:
+  kind: git
+  url: https://github.com/ellucian-developer/integration-bruno.git
+  ref: main
+  subdir: Ellucian APIs

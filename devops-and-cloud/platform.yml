@@ -1,0 +1,12 @@
+info:
+  name: platform
+  namespace: github.com/kochan4php
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 123
+source:
+  kind: git
+  url: https://github.com/kochan4php/go-platform-starter.git
+  ref: main
+  subdir: bruno
