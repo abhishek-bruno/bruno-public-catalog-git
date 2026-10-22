@@ -1,10 +1,12 @@
 info:
   name: integration
+  summary: Convert HTML to PDF
   namespace: github.com/enriquemendozaprrfect
   type: collection
   seq: 131
 source:
-  kind: git
-  url: https://github.com/EnriqueMendozaPrrfect/alchemy-pdf.git
-  ref: main
-  subdir: integration
+  git:
+    repo: https://github.com/EnriqueMendozaPrrfect/alchemy-pdf.git
+    ref: main
+    subdir: integration
+  url: https://bruno-catalog.vercel.app/data/c/enriquemendozaprrfect__alchemy-pdf__integration/collection.yml

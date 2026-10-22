@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 322
 source:
-  kind: git
-  url: https://github.com/ethan-stone/maple.git
-  ref: main
-  subdir: packages/engine/bruno
+  git:
+    repo: https://github.com/ethan-stone/maple.git
+    ref: main
+    subdir: packages/engine/bruno
+  url: https://bruno-catalog.vercel.app/data/c/ethan-stone__maple__packages-engine-bruno/collection.yml

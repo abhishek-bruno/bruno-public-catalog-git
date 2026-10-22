@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 310
 source:
-  kind: git
-  url: https://github.com/umaidashi/blog.git
-  ref: main
-  subdir: server/hono/bruno
+  git:
+    repo: https://github.com/umaidashi/blog.git
+    ref: main
+    subdir: server/hono/bruno
+  url: https://bruno-catalog.vercel.app/data/c/umaidashi__blog__server-hono-bruno/collection.yml

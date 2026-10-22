@@ -1,9 +1,11 @@
 info:
   name: skybnb-requests
+  summary: Bruno (Client HTTP para pruebas de APIs)
   namespace: github.com/juanvelez18
   type: collection
   seq: 267
 source:
-  kind: git
-  url: https://github.com/JuanVelez18/skybnb-v3-requests.git
-  ref: main
+  git:
+    repo: https://github.com/JuanVelez18/skybnb-v3-requests.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/juanvelez18__skybnb-v3-requests/collection.yml

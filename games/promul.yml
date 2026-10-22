@@ -1,10 +1,12 @@
 info:
   name: Promul
+  summary: An open-source networking & relay implementation for multiplayer Unity games, using Unity Netcode NGO
   namespace: github.com/jacksonrakena
   type: collection
   seq: 141
 source:
-  kind: git
-  url: https://github.com/jacksonrakena/promul.git
-  ref: main
-  subdir: src/Promul.Server~/Bruno API Collection
+  git:
+    repo: https://github.com/jacksonrakena/promul.git
+    ref: main
+    subdir: src/Promul.Server~/Bruno API Collection
+  url: https://bruno-catalog.vercel.app/data/c/jacksonrakena__promul__src-promul-server-bruno-api-collection/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: StreetCode Agent
+  summary: RAG-powered assistant for the Mozambique Road Code. Ask questions about traffic rules, penalties, and safe driving in Portuguese. Access via console or REST API.
   namespace: github.com/gilbertobotas
   type: collection
   seq: 205
 source:
-  kind: git
-  url: https://github.com/GilbertoBotas/Mozambican-Road-Code-Chatbot-RAG.git
-  ref: main
-  subdir: Bruno Endpoints
+  git:
+    repo: https://github.com/GilbertoBotas/Mozambican-Road-Code-Chatbot-RAG.git
+    ref: main
+    subdir: Bruno Endpoints
+  url: https://bruno-catalog.vercel.app/data/c/gilbertobotas__mozambican-road-code-chatbot-rag__bruno-endpoints/collection.yml

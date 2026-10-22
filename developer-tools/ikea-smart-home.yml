@@ -1,12 +1,14 @@
 info:
   name: IKEA Smart Home
+  summary: A client library and CLI for the IKEA DIRIGERA Smart-Home-Hub
   namespace: github.com/salex-org
   type: collection
   tags:
     - home-and-iot
   seq: 150
 source:
-  kind: git
-  url: https://github.com/salex-org/ikea-dirigera-client.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/salex-org/ikea-dirigera-client.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/salex-org__ikea-dirigera-client__bruno/collection.yml

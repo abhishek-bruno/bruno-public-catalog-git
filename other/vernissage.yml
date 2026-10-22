@@ -1,11 +1,13 @@
 info:
   name: Vernissage
+  summary: Mobile app for Pixelfed and Vernissage
   namespace: github.com/ghostbyte-dev
   type: collection
   seq: 13
   featured: true
 source:
-  kind: git
-  url: https://github.com/ghostbyte-dev/pixelix.git
-  ref: dev
-  subdir: api-docs-bruno/vernissage
+  git:
+    repo: https://github.com/ghostbyte-dev/pixelix.git
+    ref: dev
+    subdir: api-docs-bruno/vernissage
+  url: https://bruno-catalog.vercel.app/data/c/ghostbyte-dev__pixelix__api-docs-bruno-vernissage/collection.yml

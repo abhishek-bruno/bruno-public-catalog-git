@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 223
 source:
-  kind: git
-  url: https://github.com/uzh-bf/thesis-platform.git
-  ref: main
-  subdir: bruno/Thesis
+  git:
+    repo: https://github.com/uzh-bf/thesis-platform.git
+    ref: main
+    subdir: bruno/Thesis
+  url: https://bruno-catalog.vercel.app/data/c/uzh-bf__thesis-platform__bruno-thesis/collection.yml

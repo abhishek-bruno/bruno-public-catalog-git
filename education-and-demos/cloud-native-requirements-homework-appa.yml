@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 318
 source:
-  kind: git
-  url: https://github.com/drsylent/cubix-cloudnativev2-block6-homework.git
-  ref: main
-  subdir: bruno-api
+  git:
+    repo: https://github.com/drsylent/cubix-cloudnativev2-block6-homework.git
+    ref: main
+    subdir: bruno-api
+  url: https://bruno-catalog.vercel.app/data/c/drsylent__cubix-cloudnativev2-block6-homework__bruno-api/collection.yml

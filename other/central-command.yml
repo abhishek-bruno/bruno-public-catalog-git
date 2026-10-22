@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 208
 source:
-  kind: git
-  url: https://github.com/unitystation/central-command.git
-  ref: develop
-  subdir: api-collection
+  git:
+    repo: https://github.com/unitystation/central-command.git
+    ref: develop
+    subdir: api-collection
+  url: https://bruno-catalog.vercel.app/data/c/unitystation__central-command__api-collection/collection.yml

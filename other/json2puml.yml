@@ -1,10 +1,12 @@
 info:
   name: json2puml
+  summary: Generate PlantUML files based on JSON files.
   namespace: github.com/jfudickar
   type: collection
   seq: 122
 source:
-  kind: git
-  url: https://github.com/jfudickar/json2puml.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/jfudickar/json2puml.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/jfudickar__json2puml__bruno/collection.yml

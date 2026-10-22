@@ -1,10 +1,12 @@
 info:
   name: diyp
+  summary: A multi-source EPG builder with extensibility and a high performance API server.
   namespace: github.com/riverscn
   type: collection
   seq: 78
 source:
-  kind: git
-  url: https://github.com/riverscn/epghub.git
-  ref: main
-  subdir: api/diyp.bru
+  git:
+    repo: https://github.com/riverscn/epghub.git
+    ref: main
+    subdir: api/diyp.bru
+  url: https://bruno-catalog.vercel.app/data/c/riverscn__epghub__api-diyp-bru/collection.yml

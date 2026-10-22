@@ -1,10 +1,12 @@
 info:
   name: j26-booking
+  summary: This app will enable participant of Jamboree 2026 to book various activities.
   namespace: github.com/scouterna
   type: collection
   seq: 130
 source:
-  kind: git
-  url: https://github.com/Scouterna/j26-booking.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/Scouterna/j26-booking.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/scouterna__j26-booking__bruno/collection.yml

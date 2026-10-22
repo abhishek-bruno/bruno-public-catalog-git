@@ -1,11 +1,13 @@
 info:
   name: Berryaudio API
+  summary: Installation, getting started & development docs
   namespace: github.com/berry-audio
   type: collection
   seq: 49
   featured: true
 source:
-  kind: git
-  url: https://github.com/berry-audio/ba-docs.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/berry-audio/ba-docs.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/berry-audio__ba-docs__bruno/collection.yml

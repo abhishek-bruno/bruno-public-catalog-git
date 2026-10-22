@@ -1,10 +1,12 @@
 info:
   name: Pinboard V1 API
+  summary: Pinbored Tauri remake in Angular (attempt number four)
   namespace: github.com/michahell
   type: collection
   seq: 182
 source:
-  kind: git
-  url: https://github.com/michahell/pinbored-tauri.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/michahell/pinbored-tauri.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/michahell__pinbored-tauri__bruno/collection.yml

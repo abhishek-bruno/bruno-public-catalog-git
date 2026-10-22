@@ -1,10 +1,12 @@
 info:
   name: ecodrop
+  summary: Une API REST de gestion de déchets
   namespace: github.com/edihamiti
   type: collection
   seq: 55
 source:
-  kind: git
-  url: https://github.com/edihamiti/ecodrop-api.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/edihamiti/ecodrop-api.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/edihamiti__ecodrop-api__bruno/collection.yml

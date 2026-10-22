@@ -1,10 +1,12 @@
 info:
   name: RestAPI-MongoDB
+  summary: Rest API con mongoDB donde hacemos un crud de tareas, donde en un futuro le haremos un Front con ReactJS
   namespace: github.com/erickcastroo
   type: collection
   seq: 286
 source:
-  kind: git
-  url: https://github.com/ErickCastroo/NodeJS-RestAPI-MongoDB.git
-  ref: main
-  subdir: RestAPI-MongoDB
+  git:
+    repo: https://github.com/ErickCastroo/NodeJS-RestAPI-MongoDB.git
+    ref: main
+    subdir: RestAPI-MongoDB
+  url: https://bruno-catalog.vercel.app/data/c/erickcastroo__nodejs-restapi-mongodb__restapi-mongodb/collection.yml

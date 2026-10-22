@@ -1,10 +1,12 @@
 info:
   name: api
+  summary: NEAR as data availability!
   namespace: github.com/nuffle-labs
   type: collection
   seq: 85
 source:
-  kind: git
-  url: https://github.com/Nuffle-Labs/data-availability.git
-  ref: main
-  subdir: api
+  git:
+    repo: https://github.com/Nuffle-Labs/data-availability.git
+    ref: main
+    subdir: api
+  url: https://bruno-catalog.vercel.app/data/c/nuffle-labs__data-availability__api/collection.yml

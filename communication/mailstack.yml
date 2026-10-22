@@ -1,5 +1,6 @@
 info:
   name: mailstack
+  summary: Bruno collection for the mailstack Cloudflare Worker (form-to-email + transactional email sender). See README.md in this folder for setup.
   namespace: github.com/jurczykpawel
   type: collection
   tags:
@@ -7,7 +8,8 @@ info:
   seq: 40
   featured: true
 source:
-  kind: git
-  url: https://github.com/jurczykpawel/mailstack.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/jurczykpawel/mailstack.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/jurczykpawel__mailstack__bruno/collection.yml

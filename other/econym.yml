@@ -1,10 +1,12 @@
 info:
   name: Econym
+  summary: A minimal, fast reverse geocoder, returning the name of the nearest populated place for any given coordinate
   namespace: github.com/heiko-r
   type: collection
   seq: 275
 source:
-  kind: git
-  url: https://github.com/heiko-r/econym.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/heiko-r/econym.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/heiko-r__econym__bruno/collection.yml

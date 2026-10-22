@@ -1,10 +1,12 @@
 info:
   name: SimpleBookingsManager
+  summary: Experimentation project for kotlin
   namespace: github.com/airabinovich
   type: collection
   seq: 293
 source:
-  kind: git
-  url: https://github.com/airabinovich/SimpleBookingsManager.git
-  ref: main
-  subdir: collection
+  git:
+    repo: https://github.com/airabinovich/SimpleBookingsManager.git
+    ref: main
+    subdir: collection
+  url: https://bruno-catalog.vercel.app/data/c/airabinovich__simplebookingsmanager__collection/collection.yml

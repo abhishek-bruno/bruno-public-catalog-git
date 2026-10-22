@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 305
 source:
-  kind: git
-  url: https://github.com/kalviumcommunity/S72_Avinash_Capstone_DevCollab.git
-  ref: main
-  subdir: backend/DC demo
+  git:
+    repo: https://github.com/kalviumcommunity/S72_Avinash_Capstone_DevCollab.git
+    ref: main
+    subdir: backend/DC demo
+  url: https://bruno-catalog.vercel.app/data/c/kalviumcommunity__s72-avinash-capstone-devcollab__backend-dc-demo/collection.yml

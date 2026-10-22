@@ -1,12 +1,14 @@
 info:
   name: Konsulin API
+  summary: A centralized API Gateway that routes requests to appropriate internal and external services, providing authentication, authorization, and secure access to healthcare data.
   namespace: github.com/konsulin-care
   type: collection
   tags:
     - science
   seq: 31
 source:
-  kind: git
-  url: https://github.com/konsulin-care/konsulin-api.git
-  ref: develop
-  subdir: docs/api
+  git:
+    repo: https://github.com/konsulin-care/konsulin-api.git
+    ref: develop
+    subdir: docs/api
+  url: https://bruno-catalog.vercel.app/data/c/konsulin-care__konsulin-api__docs-api/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: sui
+  summary: 200+ ready-to-use requests across 20+ blockchains & Alchemy endpoints.
   namespace: github.com/alchemyplatform
   type: collection
   seq: 22
 source:
-  kind: git
-  url: https://github.com/alchemyplatform/collections.git
-  ref: main
-  subdir: sui
+  git:
+    repo: https://github.com/alchemyplatform/collections.git
+    ref: main
+    subdir: sui
+  url: https://bruno-catalog.vercel.app/data/c/alchemyplatform__collections__sui/collection.yml

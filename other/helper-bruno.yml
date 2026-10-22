@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 311
 source:
-  kind: git
-  url: https://github.com/anthonysackman/helper.git
-  ref: main
-  subdir: Helper-Bruno
+  git:
+    repo: https://github.com/anthonysackman/helper.git
+    ref: main
+    subdir: Helper-Bruno
+  url: https://bruno-catalog.vercel.app/data/c/anthonysackman__helper__helper-bruno/collection.yml

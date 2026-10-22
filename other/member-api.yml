@@ -1,9 +1,11 @@
 info:
   name: Member API
+  summary: Install Bruno [Homepage] Clone the repo Open collection in bruno
   namespace: github.com/hamanahel
   type: collection
   seq: 57
 source:
-  kind: git
-  url: https://github.com/Hamanahel/bc01-member-api.git
-  ref: master
+  git:
+    repo: https://github.com/Hamanahel/bc01-member-api.git
+    ref: master
+  url: https://bruno-catalog.vercel.app/data/c/hamanahel__bc01-member-api/collection.yml

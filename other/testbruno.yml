@@ -1,10 +1,12 @@
 info:
   name: TestBruno
+  summary: Funko Catalog REST API API RESTful en C# y .NET para la gestión de catálogo de coleccionables, inventario y endpoints CRUD.
   namespace: github.com/aragorn7372
   type: collection
   seq: 151
 source:
-  kind: git
-  url: https://github.com/Aragorn7372/FunkoApiCsharp.git
-  ref: master
-  subdir: TestBruno
+  git:
+    repo: https://github.com/Aragorn7372/FunkoApiCsharp.git
+    ref: master
+    subdir: TestBruno
+  url: https://bruno-catalog.vercel.app/data/c/aragorn7372__funkoapicsharp__testbruno/collection.yml

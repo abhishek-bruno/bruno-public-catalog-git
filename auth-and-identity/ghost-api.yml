@@ -1,10 +1,12 @@
 info:
   name: Ghost API
+  summary: This directory contains a Bruno API test collection for the Ghost app.
   namespace: github.com/muneeb141
   type: collection
   seq: 48
 source:
-  kind: git
-  url: https://github.com/muneeb141/ghost.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/muneeb141/ghost.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/muneeb141__ghost__bruno/collection.yml

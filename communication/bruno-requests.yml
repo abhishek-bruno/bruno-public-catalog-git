@@ -1,10 +1,12 @@
 info:
   name: Bruno Requests
+  summary: This project exposes Delta Chat bot RPC functionality through a small local REST API.
   namespace: github.com/ovaday
   type: collection
   seq: 58
 source:
-  kind: git
-  url: https://github.com/Ovaday/Delta-Chat-Bots---REST-API.git
-  ref: main
-  subdir: Bruno Requests
+  git:
+    repo: https://github.com/Ovaday/Delta-Chat-Bots---REST-API.git
+    ref: main
+    subdir: Bruno Requests
+  url: https://bruno-catalog.vercel.app/data/c/ovaday__delta-chat-bots-rest-api__bruno-requests/collection.yml

@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 316
 source:
-  kind: git
-  url: https://github.com/ChakibBenchinoun/ImmoDz.git
-  ref: main
-  subdir: ImmoDz
+  git:
+    repo: https://github.com/ChakibBenchinoun/ImmoDz.git
+    ref: main
+    subdir: ImmoDz
+  url: https://bruno-catalog.vercel.app/data/c/chakibbenchinoun__immodz__immodz/collection.yml

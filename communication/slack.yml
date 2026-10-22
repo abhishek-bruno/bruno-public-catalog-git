@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 211
 source:
-  kind: git
-  url: https://github.com/tadashi-aikawa/bruno-collections.git
-  ref: main
-  subdir: slack
+  git:
+    repo: https://github.com/tadashi-aikawa/bruno-collections.git
+    ref: main
+    subdir: slack
+  url: https://bruno-catalog.vercel.app/data/c/tadashi-aikawa__bruno-collections__slack/collection.yml

@@ -1,12 +1,14 @@
 info:
   name: template
+  summary: In this initial version, I am considering basic parameters for a backend, which includes full authentication security for user login using JWT tokens.
   namespace: github.com/lucascampos42
   type: collection
   tags:
     - databases-and-backend
   seq: 45
 source:
-  kind: git
-  url: https://github.com/lucascampos42/nest-boilerplate-rbac.git
-  ref: dev
-  subdir: bruno
+  git:
+    repo: https://github.com/lucascampos42/nest-boilerplate-rbac.git
+    ref: dev
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/lucascampos42__nest-boilerplate-rbac__bruno/collection.yml

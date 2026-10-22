@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 194
 source:
-  kind: git
-  url: https://github.com/selabhvl/ing301public.git
-  ref: main
-  subdir: weeks/15/bruno/ING301dweet
+  git:
+    repo: https://github.com/selabhvl/ing301public.git
+    ref: main
+    subdir: weeks/15/bruno/ING301dweet
+  url: https://bruno-catalog.vercel.app/data/c/selabhvl__ing301public__weeks-15-bruno-ing301dweet/collection.yml

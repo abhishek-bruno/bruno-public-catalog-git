@@ -1,9 +1,11 @@
 info:
   name: cronmon
+  summary: This is a simplified Debian-hosted status monitor proxy for your cron jobs at cron-job.org (self-hosted should also work). Its purpose is to simply indicate if there are failed jobs or not.
   namespace: github.com/martin-braun
   type: collection
   seq: 214
 source:
-  kind: git
-  url: https://github.com/martin-braun/cronmon.git
-  ref: master
+  git:
+    repo: https://github.com/martin-braun/cronmon.git
+    ref: master
+  url: https://bruno-catalog.vercel.app/data/c/martin-braun__cronmon/collection.yml

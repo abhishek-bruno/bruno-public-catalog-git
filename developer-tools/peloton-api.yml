@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 289
 source:
-  kind: git
-  url: https://github.com/lcota/lcota.github.io.git
-  ref: master
-  subdir: practice/apirecon/bruno_collection
+  git:
+    repo: https://github.com/lcota/lcota.github.io.git
+    ref: master
+    subdir: practice/apirecon/bruno_collection
+  url: https://bruno-catalog.vercel.app/data/c/lcota__lcota-github-io__practice-apirecon-bruno-collection/collection.yml

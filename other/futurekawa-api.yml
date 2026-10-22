@@ -1,10 +1,12 @@
 info:
   name: FutureKawa API
+  summary: Collection Bruno partagée par toute l'équipe, versionnée dans le monorepo.
   namespace: github.com/enzobu
   type: collection
   seq: 66
 source:
-  kind: git
-  url: https://github.com/Enzobu/MSPR-TPRE-814.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/Enzobu/MSPR-TPRE-814.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/enzobu__mspr-tpre-814__bruno/collection.yml

@@ -1,9 +1,11 @@
 info:
   name: CyberArk Rest APIs
+  summary: Bruno collection for CyberArk APIs Explore the docs » View Demo · Report Bug · Request Feature
   namespace: github.com/strick-j
   type: collection
   seq: 28
 source:
-  kind: git
-  url: https://github.com/strick-j/CyberArk-APIs.git
-  ref: main
+  git:
+    repo: https://github.com/strick-j/CyberArk-APIs.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/strick-j__cyberark-apis/collection.yml

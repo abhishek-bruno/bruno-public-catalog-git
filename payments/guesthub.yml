@@ -1,12 +1,14 @@
 info:
   name: GuestHub
+  summary: A modern Hotel Management System built with DDD, Clean Architecture, and PHP 8.4 Laravel 12 Modular Monolith with Bounded Contexts for Reservation, Inventory, Guest, and Billing management
   namespace: github.com/sahdoio
   type: collection
   tags:
     - e-commerce
   seq: 59
 source:
-  kind: git
-  url: https://github.com/sahdoio/guesthub.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/sahdoio/guesthub.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/sahdoio__guesthub__bruno/collection.yml

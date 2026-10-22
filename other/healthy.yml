@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 319
 source:
-  kind: git
-  url: https://github.com/dougramirez/healthy.git
-  ref: main
-  subdir: bruno/healthy
+  git:
+    repo: https://github.com/dougramirez/healthy.git
+    ref: main
+    subdir: bruno/healthy
+  url: https://bruno-catalog.vercel.app/data/c/dougramirez__healthy__bruno-healthy/collection.yml

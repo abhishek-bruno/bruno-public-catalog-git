@@ -1,10 +1,12 @@
 info:
   name: Commandee
+  summary: API pública em Fastify para comunicação da plataforma Commandee
   namespace: github.com/commandee
   type: collection
   seq: 265
 source:
-  kind: git
-  url: https://github.com/commandee/api.git
-  ref: main
-  subdir: collection
+  git:
+    repo: https://github.com/commandee/api.git
+    ref: main
+    subdir: collection
+  url: https://bruno-catalog.vercel.app/data/c/commandee__api__collection/collection.yml

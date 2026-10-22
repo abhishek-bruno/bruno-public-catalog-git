@@ -1,10 +1,12 @@
 info:
   name: reimagined-garbanzo
+  summary: Basic express postgres app
   namespace: github.com/ppywmjr
   type: collection
   seq: 192
 source:
-  kind: git
-  url: https://github.com/ppywmjr/reimagined-garbanzo.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/ppywmjr/reimagined-garbanzo.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/ppywmjr__reimagined-garbanzo__bruno/collection.yml

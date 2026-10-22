@@ -1,10 +1,12 @@
 info:
   name: ZipCaptions
+  summary: Open source browser closed-caption generator
   namespace: github.com/jptrsn
   type: collection
   seq: 74
 source:
-  kind: git
-  url: https://github.com/jptrsn/zip-captions.git
-  ref: develop
-  subdir: bruno
+  git:
+    repo: https://github.com/jptrsn/zip-captions.git
+    ref: develop
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/jptrsn__zip-captions__bruno/collection.yml

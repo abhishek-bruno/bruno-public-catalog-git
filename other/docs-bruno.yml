@@ -1,10 +1,12 @@
 info:
   name: ' docs.bruno'
+  summary: This is your first repository
   namespace: github.com/kalviumcommunity
   type: collection
   seq: 314
 source:
-  kind: git
-  url: https://github.com/kalviumcommunity/s47_most_searched_website_on-google.git
-  ref: main
-  subdir: ' docs.bruno'
+  git:
+    repo: https://github.com/kalviumcommunity/s47_most_searched_website_on-google.git
+    ref: main
+    subdir: ' docs.bruno'
+  url: https://bruno-catalog.vercel.app/data/c/kalviumcommunity__s47-most-searched-website-on-google__docs-bruno/collection.yml

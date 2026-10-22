@@ -1,10 +1,12 @@
 info:
   name: aptos
+  summary: This collection contains API endpoints for interacting with the Aptos blockchain. Aptos is a Layer 1 blockchain built with the Move programming language, focusing on safety, scalability, and upgradeab
   namespace: github.com/alchemyplatform
   type: collection
   seq: 44
 source:
-  kind: git
-  url: https://github.com/alchemyplatform/collections.git
-  ref: main
-  subdir: aptos
+  git:
+    repo: https://github.com/alchemyplatform/collections.git
+    ref: main
+    subdir: aptos
+  url: https://bruno-catalog.vercel.app/data/c/alchemyplatform__collections__aptos/collection.yml

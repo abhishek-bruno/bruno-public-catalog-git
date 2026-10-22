@@ -1,10 +1,12 @@
 info:
   name: SOIN DES
+  summary: This is your first repository
   namespace: github.com/kalviumcommunity
   type: collection
   seq: 299
 source:
-  kind: git
-  url: https://github.com/kalviumcommunity/s81_SOIN_DES.git
-  ref: main
-  subdir: SOIN DES
+  git:
+    repo: https://github.com/kalviumcommunity/s81_SOIN_DES.git
+    ref: main
+    subdir: SOIN DES
+  url: https://bruno-catalog.vercel.app/data/c/kalviumcommunity__s81-soin-des__soin-des/collection.yml

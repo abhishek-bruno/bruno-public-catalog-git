@@ -1,10 +1,12 @@
 info:
   name: HYXiCloud
+  summary: HYXI Cloud PyPi API
   namespace: github.com/veldkornet
   type: collection
   seq: 111
 source:
-  kind: git
-  url: https://github.com/Veldkornet/hyxi-cloud-api.git
-  ref: main
-  subdir: dev_env/bruno
+  git:
+    repo: https://github.com/Veldkornet/hyxi-cloud-api.git
+    ref: main
+    subdir: dev_env/bruno
+  url: https://bruno-catalog.vercel.app/data/c/veldkornet__hyxi-cloud-api__dev-env-bruno/collection.yml

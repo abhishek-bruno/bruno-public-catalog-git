@@ -6,7 +6,8 @@ info:
     - games
   seq: 193
 source:
-  kind: git
-  url: https://github.com/DyingStar-game/website.git
-  ref: develop
-  subdir: bruno
+  git:
+    repo: https://github.com/DyingStar-game/website.git
+    ref: develop
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/dyingstar-game__website__bruno/collection.yml

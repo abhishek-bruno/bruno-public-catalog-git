@@ -1,10 +1,12 @@
 info:
   name: bruno-aura-design-project
+  summary: This is the Garitma's design system using React, Typescript, Stylus and Ladle.
   namespace: github.com/somosgented
   type: collection
   seq: 79
 source:
-  kind: git
-  url: https://github.com/somosgented/aura-design-system.git
-  ref: canary
-  subdir: wiki/bruno-aura-design-project
+  git:
+    repo: https://github.com/somosgented/aura-design-system.git
+    ref: canary
+    subdir: wiki/bruno-aura-design-project
+  url: https://bruno-catalog.vercel.app/data/c/somosgented__aura-design-system__wiki-bruno-aura-design-project/collection.yml

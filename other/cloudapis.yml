@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 96
 source:
-  kind: git
-  url: https://github.com/furtiwile/SmartApiary.git
-  ref: main
-  subdir: Bruno
+  git:
+    repo: https://github.com/furtiwile/SmartApiary.git
+    ref: main
+    subdir: Bruno
+  url: https://bruno-catalog.vercel.app/data/c/furtiwile__smartapiary__bruno/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: free_databricks
+  summary: Auto-discovered reference for Databricks workspace settings, because the official docs leave out most of the keys.
   namespace: github.com/remoterabbit
   type: collection
   seq: 171
 source:
-  kind: git
-  url: https://github.com/RemoteRabbit/databricks-undocumented-settings.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/RemoteRabbit/databricks-undocumented-settings.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/remoterabbit__databricks-undocumented-settings__bruno/collection.yml

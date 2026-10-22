@@ -1,10 +1,12 @@
 info:
   name: Puth Api
+  summary: Puth is a nice browser testing tool with focus on stability, performance and extensive feedback.
   namespace: github.com/puth-io
   type: collection
   seq: 116
 source:
-  kind: git
-  url: https://github.com/puth-io/puth.git
-  ref: master
-  subdir: api
+  git:
+    repo: https://github.com/puth-io/puth.git
+    ref: master
+    subdir: api
+  url: https://bruno-catalog.vercel.app/data/c/puth-io__puth__api/collection.yml

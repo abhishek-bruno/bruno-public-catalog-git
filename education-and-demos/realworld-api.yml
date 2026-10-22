@@ -1,11 +1,13 @@
 info:
   name: RealWorld API
+  summary: '"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more'
   namespace: github.com/realworld-apps
   type: collection
   seq: 0
   featured: true
 source:
-  kind: git
-  url: https://github.com/realworld-apps/realworld.git
-  ref: main
-  subdir: specs/api/bruno
+  git:
+    repo: https://github.com/realworld-apps/realworld.git
+    ref: main
+    subdir: specs/api/bruno
+  url: https://bruno-catalog.vercel.app/data/c/realworld-apps__realworld__specs-api-bruno/collection.yml

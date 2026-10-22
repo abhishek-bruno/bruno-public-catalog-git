@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 129
 source:
-  kind: git
-  url: https://github.com/hectorally94/NuMypi.git
-  ref: main
-  subdir: bruno-api
+  git:
+    repo: https://github.com/hectorally94/NuMypi.git
+    ref: main
+    subdir: bruno-api
+  url: https://bruno-catalog.vercel.app/data/c/hectorally94__numypi__bruno-api/collection.yml

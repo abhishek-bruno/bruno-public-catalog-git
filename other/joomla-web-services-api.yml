@@ -1,11 +1,13 @@
 info:
   name: Joomla Web Services API
+  summary: Bruni collection for Joomla 6 API endpoints
   namespace: github.com/renekreijveld
   type: collection
   seq: 34
   featured: true
 source:
-  kind: git
-  url: https://github.com/renekreijveld/bruno-joomla-api.git
-  ref: main
-  subdir: bruno/Joomla Web Services API
+  git:
+    repo: https://github.com/renekreijveld/bruno-joomla-api.git
+    ref: main
+    subdir: bruno/Joomla Web Services API
+  url: https://bruno-catalog.vercel.app/data/c/renekreijveld__bruno-joomla-api__bruno-joomla-web-services-api/collection.yml

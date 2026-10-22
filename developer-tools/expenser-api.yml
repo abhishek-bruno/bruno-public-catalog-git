@@ -1,10 +1,12 @@
 info:
   name: Expenser API
+  summary: This directory contains the complete Bruno API collection for testing the Expenser APIs.
   namespace: github.com/sakilahmmad71
   type: collection
   seq: 50
 source:
-  kind: git
-  url: https://github.com/sakilahmmad71/expense-manager-apis.git
-  ref: main
-  subdir: bruno-api-collection
+  git:
+    repo: https://github.com/sakilahmmad71/expense-manager-apis.git
+    ref: main
+    subdir: bruno-api-collection
+  url: https://bruno-catalog.vercel.app/data/c/sakilahmmad71__expense-manager-apis__bruno-api-collection/collection.yml

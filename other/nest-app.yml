@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 284
 source:
-  kind: git
-  url: https://github.com/gabrielVrodriguez/Practicing-NestJS.git
-  ref: master
-  subdir: bruno
+  git:
+    repo: https://github.com/gabrielVrodriguez/Practicing-NestJS.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/gabrielvrodriguez__practicing-nestjs__bruno/collection.yml

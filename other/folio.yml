@@ -1,9 +1,11 @@
 info:
   name: FOLIO
+  summary: A collection for the Bruno API client. Supports refresh token rotation (RTR).
   namespace: github.com/folio-org
   type: collection
   seq: 248
 source:
-  kind: git
-  url: https://github.com/folio-org/folio-bruno.git
-  ref: master
+  git:
+    repo: https://github.com/folio-org/folio-bruno.git
+    ref: master
+  url: https://bruno-catalog.vercel.app/data/c/folio-org__folio-bruno/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: Reach
+  summary: Reach is a composable headless CMS built in C# with Blazor, Orleans, and Semantic Kernel
   namespace: github.com/jsedlak
   type: collection
   seq: 184
 source:
-  kind: git
-  url: https://github.com/jsedlak/reach.git
-  ref: main
-  subdir: http
+  git:
+    repo: https://github.com/jsedlak/reach.git
+    ref: main
+    subdir: http
+  url: https://bruno-catalog.vercel.app/data/c/jsedlak__reach__http/collection.yml

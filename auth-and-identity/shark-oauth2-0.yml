@@ -1,10 +1,12 @@
 info:
   name: Shark.OAuth2.0
+  summary: OAuth 2.0 authorization framework for .NET
   namespace: github.com/linuxchata
   type: collection
   seq: 98
 source:
-  kind: git
-  url: https://github.com/linuxchata/oauth.git
-  ref: main
-  subdir: bruno/Shark.OAuth2.0
+  git:
+    repo: https://github.com/linuxchata/oauth.git
+    ref: main
+    subdir: bruno/Shark.OAuth2.0
+  url: https://bruno-catalog.vercel.app/data/c/linuxchata__oauth__bruno-shark-oauth2-0/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: dacha-core
+  summary: Мобильное приложение для управления умным домом
   namespace: github.com/busygind
   type: collection
   seq: 272
 source:
-  kind: git
-  url: https://github.com/Busygind/smartest-dacha-macho-hata-house.git
-  ref: main
-  subdir: rmp-backend/core/src/main/resources/bruno-collection/dacha-core
+  git:
+    repo: https://github.com/Busygind/smartest-dacha-macho-hata-house.git
+    ref: main
+    subdir: rmp-backend/core/src/main/resources/bruno-collection/dacha-core
+  url: https://bruno-catalog.vercel.app/data/c/busygind__smartest-dacha-macho-hata-house__rmp-backend-core-src-main-resources-bruno-collection-dacha-core/collection.yml

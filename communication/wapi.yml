@@ -1,10 +1,12 @@
 info:
   name: wapi
+  summary: Self-hostable, multi-session WhatsApp API. REST + outbound webhooks + WebSocket realtime.
   namespace: github.com/zakirkun
   type: collection
   seq: 162
 source:
-  kind: git
-  url: https://github.com/zakirkun/wapi.git
-  ref: main
-  subdir: examples/bruno
+  git:
+    repo: https://github.com/zakirkun/wapi.git
+    ref: main
+    subdir: examples/bruno
+  url: https://bruno-catalog.vercel.app/data/c/zakirkun__wapi__examples-bruno/collection.yml

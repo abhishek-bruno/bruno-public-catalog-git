@@ -1,10 +1,12 @@
 info:
   name: dataspaceconsumer
+  summary: The Data Space Consumer automates the retrieval of authorised data via MX-Ports within data spaces.
   namespace: github.com/fraunhoferiosb
   type: collection
   seq: 176
 source:
-  kind: git
-  url: https://github.com/FraunhoferIOSB/DataSpaceConsumer.git
-  ref: main
-  subdir: docs/bruno
+  git:
+    repo: https://github.com/FraunhoferIOSB/DataSpaceConsumer.git
+    ref: main
+    subdir: docs/bruno
+  url: https://bruno-catalog.vercel.app/data/c/fraunhoferiosb__dataspaceconsumer__docs-bruno/collection.yml

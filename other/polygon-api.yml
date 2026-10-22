@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 220
 source:
-  kind: git
-  url: https://github.com/rwitzlib/stockmountain.git
-  ref: master
-  subdir: api-collections/old/Polygon Api
+  git:
+    repo: https://github.com/rwitzlib/stockmountain.git
+    ref: master
+    subdir: api-collections/old/Polygon Api
+  url: https://bruno-catalog.vercel.app/data/c/rwitzlib__stockmountain__api-collections-old-polygon-api/collection.yml

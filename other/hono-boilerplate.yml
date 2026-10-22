@@ -1,10 +1,12 @@
 info:
   name: hono-boilerplate
+  summary: 📝 hono boilerplate to run a typescript server using node, bun...
   namespace: github.com/marcosrjjunior
   type: collection
   seq: 54
 source:
-  kind: git
-  url: https://github.com/marcosrjjunior/hono-boilerplate.git
-  ref: main
-  subdir: endpoints
+  git:
+    repo: https://github.com/marcosrjjunior/hono-boilerplate.git
+    ref: main
+    subdir: endpoints
+  url: https://bruno-catalog.vercel.app/data/c/marcosrjjunior__hono-boilerplate__endpoints/collection.yml

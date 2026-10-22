@@ -1,10 +1,12 @@
 info:
   name: ePublication - Announcement Import Examples
+  summary: 'Collection-level auth applies M2M OAuth2 client credentials (Technical User) to every request that has auth: inherit set. See environments/preview.bru for the variables this depends on, and ../docs/au'
   namespace: github.com/epublication
   type: collection
   seq: 68
 source:
-  kind: git
-  url: https://github.com/epublication/epublication-api.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/epublication/epublication-api.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/epublication__epublication-api__bruno/collection.yml

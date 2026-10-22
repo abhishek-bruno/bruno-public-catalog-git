@@ -1,11 +1,13 @@
 info:
   name: Demo API
+  summary: The demo collection is local-only and does not require internet access for protocol fixtures.
   namespace: github.com/cjohnsto-nz
   type: collection
   seq: 30
   featured: true
 source:
-  kind: git
-  url: https://github.com/cjohnsto-nz/missio.git
-  ref: main
-  subdir: examples/demo-api
+  git:
+    repo: https://github.com/cjohnsto-nz/missio.git
+    ref: main
+    subdir: examples/demo-api
+  url: https://bruno-catalog.vercel.app/data/c/cjohnsto-nz__missio__examples-demo-api/collection.yml

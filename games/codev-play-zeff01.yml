@@ -1,12 +1,14 @@
 info:
   name: Codev-Play
+  summary: A collection of classic mini games built for developers to practice full-stack development skills. This monorepo contains both backend and frontend implementations of various games.
   namespace: github.com/zeff01
   type: collection
   tags:
     - databases-and-backend
   seq: 183
 source:
-  kind: git
-  url: https://github.com/Zeff01/codev-play.git
-  ref: main
-  subdir: Codev-Play
+  git:
+    repo: https://github.com/Zeff01/codev-play.git
+    ref: main
+    subdir: Codev-Play
+  url: https://bruno-catalog.vercel.app/data/c/zeff01__codev-play__codev-play/collection.yml

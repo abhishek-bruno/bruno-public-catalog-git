@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 254
 source:
-  kind: git
-  url: https://github.com/DaikoDk/DRIVO.git
-  ref: main
-  subdir: bruno/HU-04
+  git:
+    repo: https://github.com/DaikoDk/DRIVO.git
+    ref: main
+    subdir: bruno/HU-04
+  url: https://bruno-catalog.vercel.app/data/c/daikodk__drivo__bruno-hu-04/collection.yml

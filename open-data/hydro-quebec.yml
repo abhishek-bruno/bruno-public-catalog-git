@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 144
 source:
-  kind: git
-  url: https://github.com/domo-quebec/domo-quebec.git
-  ref: main
-  subdir: hydro-quebec/donnes/bruno
+  git:
+    repo: https://github.com/domo-quebec/domo-quebec.git
+    ref: main
+    subdir: hydro-quebec/donnes/bruno
+  url: https://bruno-catalog.vercel.app/data/c/domo-quebec__domo-quebec__hydro-quebec-donnes-bruno/collection.yml

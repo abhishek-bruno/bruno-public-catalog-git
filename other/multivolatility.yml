@@ -1,10 +1,12 @@
 info:
   name: MultiVolatility
+  summary: Run several volatility containers using multiprocessing
   namespace: github.com/bobnewz
   type: collection
   seq: 100
 source:
-  kind: git
-  url: https://github.com/BoBNewz/MultiVolatility.git
-  ref: main
-  subdir: CLI/API/MultiVolatility
+  git:
+    repo: https://github.com/BoBNewz/MultiVolatility.git
+    ref: main
+    subdir: CLI/API/MultiVolatility
+  url: https://bruno-catalog.vercel.app/data/c/bobnewz__multivolatility__cli-api-multivolatility/collection.yml

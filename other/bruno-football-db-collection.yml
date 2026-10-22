@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 279
 source:
-  kind: git
-  url: https://github.com/faouzi-benidiri/football_db.git
-  ref: main
-  subdir: bruno_football_db_collection
+  git:
+    repo: https://github.com/faouzi-benidiri/football_db.git
+    ref: main
+    subdir: bruno_football_db_collection
+  url: https://bruno-catalog.vercel.app/data/c/faouzi-benidiri__football-db__bruno-football-db-collection/collection.yml

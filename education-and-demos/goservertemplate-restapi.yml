@@ -1,10 +1,12 @@
 info:
   name: goservertemplate-restapi
+  summary: A sophisticated, opinionated template for building high-performance, production-ready Go servers.
   namespace: github.com/rodanstack
   type: collection
   seq: 263
 source:
-  kind: git
-  url: https://github.com/RodanStack/go-rest-server-template.git
-  ref: main
-  subdir: docs/bruno/restapi
+  git:
+    repo: https://github.com/RodanStack/go-rest-server-template.git
+    ref: main
+    subdir: docs/bruno/restapi
+  url: https://bruno-catalog.vercel.app/data/c/rodanstack__go-rest-server-template__docs-bruno-restapi/collection.yml

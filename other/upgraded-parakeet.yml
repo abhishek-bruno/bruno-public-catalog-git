@@ -1,10 +1,12 @@
 info:
   name: Upgraded Parakeet
+  summary: A collection of interviews I've completed over the years
   namespace: github.com/biximilien
   type: collection
   seq: 221
 source:
-  kind: git
-  url: https://github.com/biximilien/interviews.git
-  ref: main
-  subdir: WorkAxle/bruno
+  git:
+    repo: https://github.com/biximilien/interviews.git
+    ref: main
+    subdir: WorkAxle/bruno
+  url: https://bruno-catalog.vercel.app/data/c/biximilien__interviews__workaxle-bruno/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: ECB Exchange Rates
+  summary: Provides access to the EXR Dataflow (currency exchange rates) of ECB Data Portal web services.
   namespace: github.com/maurizuki
   type: collection
   seq: 110
 source:
-  kind: git
-  url: https://github.com/maurizuki/ECB.Data.ExchangeRates.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/maurizuki/ECB.Data.ExchangeRates.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/maurizuki__ecb-data-exchangerates__bruno/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: Tribe
+  summary: Deze Bruno-collectie bevat API-calls naar Tribe
   namespace: github.com/gemeentenijmegen
   type: collection
   seq: 153
 source:
-  kind: git
-  url: https://github.com/GemeenteNijmegen/open-forms.git
-  ref: main
-  subdir: bruno/Tribe
+  git:
+    repo: https://github.com/GemeenteNijmegen/open-forms.git
+    ref: main
+    subdir: bruno/Tribe
+  url: https://bruno-catalog.vercel.app/data/c/gemeentenijmegen__open-forms__bruno-tribe/collection.yml

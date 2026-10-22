@@ -1,10 +1,12 @@
 info:
   name: CSS Class Managers
+  summary: An advanced autocomplete additional css class control for your blocks
   namespace: github.com/ediamin
   type: collection
   seq: 114
 source:
-  kind: git
-  url: https://github.com/ediamin/css-class-manager.git
-  ref: main
-  subdir: .api
+  git:
+    repo: https://github.com/ediamin/css-class-manager.git
+    ref: main
+    subdir: .api
+  url: https://bruno-catalog.vercel.app/data/c/ediamin__css-class-manager__api/collection.yml

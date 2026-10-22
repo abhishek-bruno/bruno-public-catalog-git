@@ -1,10 +1,12 @@
 info:
   name: angen
+  summary: Middleware server using Teiserver
   namespace: github.com/teifion
   type: collection
   seq: 156
 source:
-  kind: git
-  url: https://github.com/Teifion/angen.git
-  ref: main
-  subdir: bru
+  git:
+    repo: https://github.com/Teifion/angen.git
+    ref: main
+    subdir: bru
+  url: https://bruno-catalog.vercel.app/data/c/teifion__angen__bru/collection.yml

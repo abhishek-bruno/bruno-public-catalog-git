@@ -1,10 +1,12 @@
 info:
   name: bruno
+  summary: simple and lightweight game launcher
   namespace: github.com/adithyasource
   type: collection
   seq: 71
 source:
-  kind: git
-  url: https://github.com/adithyasource/clear.git
-  ref: main
-  subdir: api/bruno
+  git:
+    repo: https://github.com/adithyasource/clear.git
+    ref: main
+    subdir: api/bruno
+  url: https://bruno-catalog.vercel.app/data/c/adithyasource__clear__api-bruno/collection.yml

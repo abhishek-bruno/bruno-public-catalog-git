@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 294
 source:
-  kind: git
-  url: https://github.com/Metaform/tutorial-01-new-agent.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/Metaform/tutorial-01-new-agent.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/metaform__tutorial-01-new-agent__bruno/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: INSEE
+  summary: This repository serves as a centralized hub for API endpoints related to L'Annuaire des Entreprises, as well as those we utilize from external providers.
   namespace: github.com/annuaire-entreprises-data-gouv-fr
   type: collection
   seq: 253
 source:
-  kind: git
-  url: https://github.com/annuaire-entreprises-data-gouv-fr/api-requests-collection.git
-  ref: main
-  subdir: insee
+  git:
+    repo: https://github.com/annuaire-entreprises-data-gouv-fr/api-requests-collection.git
+    ref: main
+    subdir: insee
+  url: https://bruno-catalog.vercel.app/data/c/annuaire-entreprises-data-gouv-fr__api-requests-collection__insee/collection.yml

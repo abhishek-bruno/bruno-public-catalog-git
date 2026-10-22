@@ -1,10 +1,12 @@
 info:
   name: Octopussy
+  summary: '[WIP] 007: First Light server emulator.'
   namespace: github.com/thepeacockproject
   type: collection
   seq: 101
 source:
-  kind: git
-  url: https://github.com/thepeacockproject/Octopussy.git
-  ref: main
-  subdir: .bruno
+  git:
+    repo: https://github.com/thepeacockproject/Octopussy.git
+    ref: main
+    subdir: .bruno
+  url: https://bruno-catalog.vercel.app/data/c/thepeacockproject__octopussy__bruno/collection.yml

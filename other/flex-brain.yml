@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 166
 source:
-  kind: git
-  url: https://github.com/jacobgawel/flex-brain.git
-  ref: master
-  subdir: bruno
+  git:
+    repo: https://github.com/jacobgawel/flex-brain.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/jacobgawel__flex-brain__bruno/collection.yml

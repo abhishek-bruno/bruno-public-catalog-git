@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 16
 source:
-  kind: git
-  url: https://github.com/fundament-oss/fundament.git
-  ref: master
-  subdir: bruno
+  git:
+    repo: https://github.com/fundament-oss/fundament.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/fundament-oss__fundament__bruno/collection.yml

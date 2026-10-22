@@ -1,10 +1,12 @@
 info:
   name: TakeAds
+  summary: 'Every request to the Takeads API must contain the API public key passed in the request header as a key-value pair, as follows:'
   namespace: github.com/muscobytes
   type: collection
   seq: 186
 source:
-  kind: git
-  url: https://github.com/muscobytes/takeads-api-bruno-collection.git
-  ref: master
-  subdir: TakeAds
+  git:
+    repo: https://github.com/muscobytes/takeads-api-bruno-collection.git
+    ref: master
+    subdir: TakeAds
+  url: https://bruno-catalog.vercel.app/data/c/muscobytes__takeads-api-bruno-collection__takeads/collection.yml

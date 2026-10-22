@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 282
 source:
-  kind: git
-  url: https://github.com/andreldsr/go-library-manager.git
-  ref: main
-  subdir: docs/collection
+  git:
+    repo: https://github.com/andreldsr/go-library-manager.git
+    ref: main
+    subdir: docs/collection
+  url: https://bruno-catalog.vercel.app/data/c/andreldsr__go-library-manager__docs-collection/collection.yml

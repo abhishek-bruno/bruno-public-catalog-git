@@ -1,10 +1,12 @@
 info:
   name: LED Cube
+  summary: An ESP32 based LED cube
   namespace: github.com/elliotmatson
   type: collection
   seq: 118
 source:
-  kind: git
-  url: https://github.com/elliotmatson/LED_Cube.git
-  ref: main
-  subdir: api
+  git:
+    repo: https://github.com/elliotmatson/LED_Cube.git
+    ref: main
+    subdir: api
+  url: https://bruno-catalog.vercel.app/data/c/elliotmatson__led-cube__api/collection.yml

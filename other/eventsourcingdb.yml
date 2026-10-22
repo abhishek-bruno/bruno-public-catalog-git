@@ -1,9 +1,11 @@
 info:
   name: EventSourcingDB
+  summary: The official Bruno collection for EventSourcingDB – a purpose-built database for event sourcing.
   namespace: github.com/thenativeweb
   type: collection
   seq: 61
 source:
-  kind: git
-  url: https://github.com/thenativeweb/eventsourcingdb-client-bruno.git
-  ref: main
+  git:
+    repo: https://github.com/thenativeweb/eventsourcingdb-client-bruno.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/thenativeweb__eventsourcingdb-client-bruno/collection.yml

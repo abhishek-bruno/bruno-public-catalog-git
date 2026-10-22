@@ -1,10 +1,12 @@
 info:
   name: Codedang Client
+  summary: Online Judge for SKKU
   namespace: github.com/skkuding
   type: collection
   seq: 7
 source:
-  kind: git
-  url: https://github.com/skkuding/codedang.git
-  ref: main
-  subdir: collection/client
+  git:
+    repo: https://github.com/skkuding/codedang.git
+    ref: main
+    subdir: collection/client
+  url: https://bruno-catalog.vercel.app/data/c/skkuding__codedang__collection-client/collection.yml

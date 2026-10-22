@@ -1,9 +1,11 @@
 info:
   name: UDM Device API
+  summary: Bruno collection of scripts to interact with Unifi Dream Machine (UDM) and Unifi OS device API's.
   namespace: github.com/sirkirby
   type: collection
   seq: 76
 source:
-  kind: git
-  url: https://github.com/sirkirby/bruno-udm-api.git
-  ref: main
+  git:
+    repo: https://github.com/sirkirby/bruno-udm-api.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/sirkirby__bruno-udm-api/collection.yml

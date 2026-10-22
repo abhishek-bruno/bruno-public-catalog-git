@@ -1,10 +1,12 @@
 info:
   name: spring-rest-crud-example
+  summary: Use this repository as a basis to start the development of a new Java REST API.
   namespace: github.com/pedrohenriquelacombe
   type: collection
   seq: 152
 source:
-  kind: git
-  url: https://github.com/pedrohenriquelacombe/spring-rest-crud-example.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/pedrohenriquelacombe/spring-rest-crud-example.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/pedrohenriquelacombe__spring-rest-crud-example__bruno/collection.yml

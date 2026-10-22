@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 326
 source:
-  kind: git
-  url: https://github.com/a3whitlock/tuwuduwu.git
-  ref: main
-  subdir: Tuwuduwu Collection
+  git:
+    repo: https://github.com/a3whitlock/tuwuduwu.git
+    ref: main
+    subdir: Tuwuduwu Collection
+  url: https://bruno-catalog.vercel.app/data/c/a3whitlock__tuwuduwu__tuwuduwu-collection/collection.yml

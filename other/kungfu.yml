@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 173
 source:
-  kind: git
-  url: https://github.com/alexandr-yang/kungfu-conf-ekb-2026.git
-  ref: main
-  subdir: demo/bruno
+  git:
+    repo: https://github.com/alexandr-yang/kungfu-conf-ekb-2026.git
+    ref: main
+    subdir: demo/bruno
+  url: https://bruno-catalog.vercel.app/data/c/alexandr-yang__kungfu-conf-ekb-2026__demo-bruno/collection.yml

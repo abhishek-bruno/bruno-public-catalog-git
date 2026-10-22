@@ -1,12 +1,14 @@
 info:
   name: bruno
+  summary: High-performance algorithmic trading backtesting platform. C++ computational core for rapid strategy simulation, a PHP-powered backend for task orchestration, and real-time visualization of market dat
   namespace: github.com/berkut3nko
   type: collection
   tags:
     - finance
   seq: 203
 source:
-  kind: git
-  url: https://github.com/berkut3nko/tradebench.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/berkut3nko/tradebench.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/berkut3nko__tradebench__bruno/collection.yml

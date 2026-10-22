@@ -1,10 +1,12 @@
 info:
   name: Categoria
+  summary: Projeto avaliativo, shopee
   namespace: github.com/joaoemanuel33
   type: collection
   seq: 292
 source:
-  kind: git
-  url: https://github.com/joaoEmanuel33/MercadoriaShopee.git
-  ref: master
-  subdir: Categoria
+  git:
+    repo: https://github.com/joaoEmanuel33/MercadoriaShopee.git
+    ref: master
+    subdir: Categoria
+  url: https://bruno-catalog.vercel.app/data/c/joaoemanuel33__mercadoriashopee__categoria/collection.yml

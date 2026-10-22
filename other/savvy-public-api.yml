@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 168
 source:
-  kind: git
-  url: https://github.com/savvyaviation/api-docs.git
-  ref: master
-  subdir: bruno
+  git:
+    repo: https://github.com/savvyaviation/api-docs.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/savvyaviation__api-docs__bruno/collection.yml

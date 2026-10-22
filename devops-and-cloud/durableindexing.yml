@@ -1,12 +1,14 @@
 info:
   name: DurableIndexing
+  summary: Indexadillo helps you push data to Azure AI Search in a scalable, observable way. Instead of using a pull-based DSL approach, this solution uses Azure Durable Functions to handle everything from parsi
   namespace: github.com/azure-samples
   type: collection
   tags:
     - ai-and-ml
   seq: 97
 source:
-  kind: git
-  url: https://github.com/Azure-Samples/indexadillo.git
-  ref: main
-  subdir: http
+  git:
+    repo: https://github.com/Azure-Samples/indexadillo.git
+    ref: main
+    subdir: http
+  url: https://bruno-catalog.vercel.app/data/c/azure-samples__indexadillo__http/collection.yml

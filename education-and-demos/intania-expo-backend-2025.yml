@@ -1,12 +1,14 @@
 info:
   name: intania-expo-backend-2025
+  summary: Intania Expo 111 (28-30 March 2025) at Faculty of Engineering, Chulalongkorn University.
   namespace: github.com/esc-chula
   type: collection
   tags:
     - databases-and-backend
   seq: 175
 source:
-  kind: git
-  url: https://github.com/esc-chula/intania-expo-2025.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/esc-chula/intania-expo-2025.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/esc-chula__intania-expo-2025__bruno/collection.yml

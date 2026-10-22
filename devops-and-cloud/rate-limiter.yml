@@ -1,12 +1,14 @@
 info:
   name: rate-limiter
+  summary: Distributed rate limiting engine in Rust - token bucket, sliding window, leaky bucket backed by Redis. gRPC API, Prometheus metrics, <1ms p50 latency.
   namespace: github.com/winsongr
   type: collection
   tags:
     - developer-tools
   seq: 257
 source:
-  kind: git
-  url: https://github.com/winsongr/rate-limiter.git
-  ref: master
-  subdir: bruno
+  git:
+    repo: https://github.com/winsongr/rate-limiter.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/winsongr__rate-limiter__bruno/collection.yml

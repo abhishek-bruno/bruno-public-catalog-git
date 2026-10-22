@@ -1,10 +1,12 @@
 info:
   name: Shared Finances
+  summary: A project written in spring + angular to control personal and group finances
   namespace: github.com/ynixt
   type: collection
   seq: 180
 source:
-  kind: git
-  url: https://github.com/ynixt/shared-finances.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/ynixt/shared-finances.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/ynixt__shared-finances__bruno/collection.yml

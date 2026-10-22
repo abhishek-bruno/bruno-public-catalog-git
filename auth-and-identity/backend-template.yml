@@ -1,5 +1,6 @@
 info:
   name: Backend Template
+  summary: Click-through collection for the OIDC User Identity microservice — no curl, no hand-written JSON. Requests default to Bearer auth using the collection variable accesstoken; get one from oidc/2. Exchan
   namespace: github.com/asel1x
   type: collection
   tags:
@@ -7,7 +8,8 @@ info:
   seq: 10
   featured: true
 source:
-  kind: git
-  url: https://github.com/aSel1x/Backend_Template.git
-  ref: ddd
-  subdir: bruno
+  git:
+    repo: https://github.com/aSel1x/Backend_Template.git
+    ref: ddd
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/asel1x__backend-template__bruno/collection.yml

@@ -1,5 +1,6 @@
 info:
   name: glific_api
+  summary: The Main application that provides the core interface via the glific APIs
   namespace: github.com/glific
   type: collection
   tags:
@@ -7,7 +8,8 @@ info:
   seq: 4
   featured: true
 source:
-  kind: git
-  url: https://github.com/glific/glific.git
-  ref: master
-  subdir: api.docs/bruno/glific_api
+  git:
+    repo: https://github.com/glific/glific.git
+    ref: master
+    subdir: api.docs/bruno/glific_api
+  url: https://bruno-catalog.vercel.app/data/c/glific__glific__api-docs-bruno-glific-api/collection.yml

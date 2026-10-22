@@ -1,10 +1,12 @@
 info:
   name: TrueLayer
+  summary: Blazor web app to pull Open Banking data
   namespace: github.com/joeecob
   type: collection
   seq: 229
 source:
-  kind: git
-  url: https://github.com/JoeEcob/Blazor-OpenBanking.git
-  ref: master
-  subdir: Bruno
+  git:
+    repo: https://github.com/JoeEcob/Blazor-OpenBanking.git
+    ref: master
+    subdir: Bruno
+  url: https://bruno-catalog.vercel.app/data/c/joeecob__blazor-openbanking__bruno/collection.yml

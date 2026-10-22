@@ -1,12 +1,14 @@
 info:
   name: tron
+  summary: A Bruno collection for TRON's native gRPC API (protocol.Wallet and protocol.WalletSolidity services), served through Alchemy.
   namespace: github.com/alchemyplatform
   type: collection
   tags:
     - developer-tools
   seq: 42
 source:
-  kind: git
-  url: https://github.com/alchemyplatform/collections.git
-  ref: main
-  subdir: tron
+  git:
+    repo: https://github.com/alchemyplatform/collections.git
+    ref: main
+    subdir: tron
+  url: https://bruno-catalog.vercel.app/data/c/alchemyplatform__collections__tron/collection.yml

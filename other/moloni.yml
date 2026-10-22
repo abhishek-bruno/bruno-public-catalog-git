@@ -1,9 +1,11 @@
 info:
   name: Moloni
+  summary: This useBruno collection provides an easy way to try and interac with Moloni REST API.
   namespace: github.com/moloni-pt
   type: collection
   seq: 126
 source:
-  kind: git
-  url: https://github.com/moloni-pt/moloni-api-collection.git
-  ref: master
+  git:
+    repo: https://github.com/moloni-pt/moloni-api-collection.git
+    ref: master
+  url: https://bruno-catalog.vercel.app/data/c/moloni-pt__moloni-api-collection/collection.yml

@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 291
 source:
-  kind: git
-  url: https://github.com/log1ri/superbase-prisma-crud.git
-  ref: main
-  subdir: bruno/prismaTest
+  git:
+    repo: https://github.com/log1ri/superbase-prisma-crud.git
+    ref: main
+    subdir: bruno/prismaTest
+  url: https://bruno-catalog.vercel.app/data/c/log1ri__superbase-prisma-crud__bruno-prismatest/collection.yml

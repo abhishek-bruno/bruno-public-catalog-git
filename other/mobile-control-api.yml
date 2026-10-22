@@ -1,10 +1,12 @@
 info:
   name: Mobile Control API
+  summary: Mobile Control - Custom Frappe Application
   namespace: github.com/dhwani-ris
   type: collection
   seq: 83
 source:
-  kind: git
-  url: https://github.com/dhwani-ris/frappe-mobile-control.git
-  ref: develop
-  subdir: API
+  git:
+    repo: https://github.com/dhwani-ris/frappe-mobile-control.git
+    ref: develop
+    subdir: API
+  url: https://bruno-catalog.vercel.app/data/c/dhwani-ris__frappe-mobile-control__api/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: tails
+  summary: More coming soon 🔜
   namespace: github.com/hamlim
   type: collection
   seq: 302
 source:
-  kind: git
-  url: https://github.com/hamlim/tails.git
-  ref: main
-  subdir: api/bruno-tails-collection
+  git:
+    repo: https://github.com/hamlim/tails.git
+    ref: main
+    subdir: api/bruno-tails-collection
+  url: https://bruno-catalog.vercel.app/data/c/hamlim__tails__api-bruno-tails-collection/collection.yml

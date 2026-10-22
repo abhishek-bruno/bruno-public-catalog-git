@@ -4,6 +4,7 @@ info:
   type: collection
   seq: 80
 source:
-  kind: git
-  url: https://github.com/ohcnetwork/care_api_backup.git
-  ref: main
+  git:
+    repo: https://github.com/ohcnetwork/care_api_backup.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/ohcnetwork__care-api-backup/collection.yml

@@ -1,11 +1,13 @@
 info:
   name: The Clothing Loop
+  summary: The Clothing Loop is an easy-to-access initiative for swapping clothes with other people in your area or neighborhood. It’s fun, it’s free, it’s sustainable!
   namespace: github.com/the-clothing-loop
   type: collection
   seq: 11
   featured: true
 source:
-  kind: git
-  url: https://github.com/the-clothing-loop/website.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/the-clothing-loop/website.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/the-clothing-loop__website__bruno/collection.yml

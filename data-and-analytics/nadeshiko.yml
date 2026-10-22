@@ -1,5 +1,6 @@
 info:
   name: Nadeshiko
+  summary: This is a Bruno collection for the Nadeshiko backend API.
   namespace: github.com/brigadasos
   type: collection
   tags:
@@ -7,7 +8,8 @@ info:
   seq: 8
   featured: true
 source:
-  kind: git
-  url: https://github.com/BrigadaSOS/Nadeshiko.git
-  ref: main
-  subdir: backend/docs/bruno
+  git:
+    repo: https://github.com/BrigadaSOS/Nadeshiko.git
+    ref: main
+    subdir: backend/docs/bruno
+  url: https://bruno-catalog.vercel.app/data/c/brigadasos__nadeshiko__backend-docs-bruno/collection.yml

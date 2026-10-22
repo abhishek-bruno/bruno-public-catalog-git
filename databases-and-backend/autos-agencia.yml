@@ -1,10 +1,12 @@
 info:
   name: Autos agencia
+  summary: Trabajo Practico Integrador de Backend De Aplicaciones
   namespace: github.com/fededlv
   type: collection
   seq: 300
 source:
-  kind: git
-  url: https://github.com/fededlV/proyecto-agencia-autos.git
-  ref: main
-  subdir: Autos agencia
+  git:
+    repo: https://github.com/fededlV/proyecto-agencia-autos.git
+    ref: main
+    subdir: Autos agencia
+  url: https://bruno-catalog.vercel.app/data/c/fededlv__proyecto-agencia-autos__autos-agencia/collection.yml

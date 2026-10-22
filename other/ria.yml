@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 325
 source:
-  kind: git
-  url: https://github.com/YannickPerret/RIA-Vision.git
-  ref: main
-  subdir: docs/Bruno-API
+  git:
+    repo: https://github.com/YannickPerret/RIA-Vision.git
+    ref: main
+    subdir: docs/Bruno-API
+  url: https://bruno-catalog.vercel.app/data/c/yannickperret__ria-vision__docs-bruno-api/collection.yml

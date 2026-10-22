@@ -1,10 +1,12 @@
 info:
   name: Elegoo3Dp
+  summary: A vendor-agnostic remote management framework for 3D Printing.
   namespace: github.com/aaronfjung
   type: collection
   seq: 160
 source:
-  kind: git
-  url: https://github.com/AaronFJung/Connect3Dp.git
-  ref: main
-  subdir: Research/Elegoo/Bruno
+  git:
+    repo: https://github.com/AaronFJung/Connect3Dp.git
+    ref: main
+    subdir: Research/Elegoo/Bruno
+  url: https://bruno-catalog.vercel.app/data/c/aaronfjung__connect3dp__research-elegoo-bruno/collection.yml

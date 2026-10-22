@@ -1,9 +1,11 @@
 info:
   name: Altinn
+  summary: Altinn Request collection for Dialogporten
   namespace: github.com/altinn
   type: collection
   seq: 32
 source:
-  kind: git
-  url: https://github.com/Altinn/dialogporten-bruno.git
-  ref: main
+  git:
+    repo: https://github.com/Altinn/dialogporten-bruno.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/altinn__dialogporten-bruno/collection.yml

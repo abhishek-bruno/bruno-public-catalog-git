@@ -1,10 +1,12 @@
 info:
   name: api actual
+  summary: Actual budget rest api
   namespace: github.com/lordvault
   type: collection
   seq: 155
 source:
-  kind: git
-  url: https://github.com/lordvault/Actual-Budget-Rest-API.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/lordvault/Actual-Budget-Rest-API.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/lordvault__actual-budget-rest-api__bruno/collection.yml

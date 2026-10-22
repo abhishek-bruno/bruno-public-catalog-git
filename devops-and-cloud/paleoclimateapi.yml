@@ -1,10 +1,12 @@
 info:
   name: PaleoclimateAPI
+  summary: API for PaleoclimateVisualizer
   namespace: github.com/jortuck
   type: collection
   seq: 281
 source:
-  kind: git
-  url: https://github.com/jortuck/PaleoclimateVisualizerAPI.git
-  ref: master
-  subdir: PaleoclimateAPITest
+  git:
+    repo: https://github.com/jortuck/PaleoclimateVisualizerAPI.git
+    ref: master
+    subdir: PaleoclimateAPITest
+  url: https://bruno-catalog.vercel.app/data/c/jortuck__paleoclimatevisualizerapi__paleoclimateapitest/collection.yml

@@ -1,12 +1,14 @@
 info:
   name: fastapi-workshop
+  summary: budget tracker app (fully backend) which we can interact with via API calls
   namespace: github.com/vivendraaaa
   type: collection
   tags:
     - education-and-demos
   seq: 222
 source:
-  kind: git
-  url: https://github.com/vivendraaaa/budget-tracker-app.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/vivendraaaa/budget-tracker-app.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/vivendraaaa__budget-tracker-app__bruno/collection.yml

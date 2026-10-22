@@ -1,10 +1,12 @@
 info:
   name: ArtVista
+  summary: This is the ArtVista
   namespace: github.com/kalviumcommunity
   type: collection
   seq: 287
 source:
-  kind: git
-  url: https://github.com/kalviumcommunity/S47_Saksham_Capstone_ArtVista.git
-  ref: master
-  subdir: Bru
+  git:
+    repo: https://github.com/kalviumcommunity/S47_Saksham_Capstone_ArtVista.git
+    ref: master
+    subdir: Bru
+  url: https://bruno-catalog.vercel.app/data/c/kalviumcommunity__s47-saksham-capstone-artvista__bru/collection.yml

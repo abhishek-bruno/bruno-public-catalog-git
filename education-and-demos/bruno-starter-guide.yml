@@ -1,11 +1,13 @@
 info:
   name: Bruno Starter guide
+  summary: Bruno is an open-source, Git-friendly, local-first API client. This repository is the companion Bruno Starter Guide collection created by the Bruno team. It pairs with the official Quick Start on the
   namespace: github.com/bruno-collections
   type: collection
   tags:
     - developer-tools
   seq: 133
 source:
-  kind: git
-  url: https://github.com/bruno-collections/bruno-starter-guide.git
-  ref: main
+  git:
+    repo: https://github.com/bruno-collections/bruno-starter-guide.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/bruno-collections__bruno-starter-guide/collection.yml

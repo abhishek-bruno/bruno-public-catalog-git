@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 237
 source:
-  kind: git
-  url: https://github.com/Araryarch/unicompare-fe.git
-  ref: main
-  subdir: docs/bruno_collection
+  git:
+    repo: https://github.com/Araryarch/unicompare-fe.git
+    ref: main
+    subdir: docs/bruno_collection
+  url: https://bruno-catalog.vercel.app/data/c/araryarch__unicompare-fe__docs-bruno-collection/collection.yml

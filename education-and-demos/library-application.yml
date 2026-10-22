@@ -1,10 +1,12 @@
 info:
   name: Library Application
+  summary: JFS 2025 Talk Mocking Hell (Sample Code)
   namespace: github.com/maverick1601
   type: collection
   seq: 190
 source:
-  kind: git
-  url: https://github.com/maverick1601/2025-jfs-mocking-hell.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/maverick1601/2025-jfs-mocking-hell.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/maverick1601__2025-jfs-mocking-hell__bruno/collection.yml

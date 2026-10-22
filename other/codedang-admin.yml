@@ -1,11 +1,13 @@
 info:
   name: Codedang Admin
+  summary: Online Judge for SKKU
   namespace: github.com/skkuding
   type: collection
   seq: 6
   featured: true
 source:
-  kind: git
-  url: https://github.com/skkuding/codedang.git
-  ref: main
-  subdir: collection/admin
+  git:
+    repo: https://github.com/skkuding/codedang.git
+    ref: main
+    subdir: collection/admin
+  url: https://bruno-catalog.vercel.app/data/c/skkuding__codedang__collection-admin/collection.yml

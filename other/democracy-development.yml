@@ -1,10 +1,12 @@
 info:
   name: democracy-development
+  summary: A concept to vote on relevant Topics of Politics & Decision-Making specifically designed for Germany
   namespace: github.com/demokratie-live
   type: collection
   seq: 67
 source:
-  kind: git
-  url: https://github.com/demokratie-live/democracy-development.git
-  ref: master
-  subdir: bruno/democracy-development
+  git:
+    repo: https://github.com/demokratie-live/democracy-development.git
+    ref: master
+    subdir: bruno/democracy-development
+  url: https://bruno-catalog.vercel.app/data/c/demokratie-live__democracy-development__bruno-democracy-development/collection.yml

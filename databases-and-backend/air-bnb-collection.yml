@@ -1,12 +1,14 @@
 info:
   name: air-bnb-collection
+  summary: (Udemy Course) Airbnb Clone API with NestJS, MongoDB, Authentication,Authorization, File Uploads, Bookings, OTP, and Clean Architecture
   namespace: github.com/boghdady
   type: collection
   tags:
     - education-and-demos
   seq: 51
 source:
-  kind: git
-  url: https://github.com/Boghdady/nestjs-airbnb-clone-api.git
-  ref: main
-  subdir: air-bnb-collection
+  git:
+    repo: https://github.com/Boghdady/nestjs-airbnb-clone-api.git
+    ref: main
+    subdir: air-bnb-collection
+  url: https://bruno-catalog.vercel.app/data/c/boghdady__nestjs-airbnb-clone-api__air-bnb-collection/collection.yml

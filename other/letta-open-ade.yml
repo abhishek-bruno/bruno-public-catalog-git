@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 210
 source:
-  kind: git
-  url: https://github.com/Wenjun-Mao/Letta-Open-ADE.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/Wenjun-Mao/Letta-Open-ADE.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/wenjun-mao__letta-open-ade__bruno/collection.yml

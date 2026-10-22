@@ -1,10 +1,12 @@
 info:
   name: ngx-prayertimes-api
+  summary: 🕋 🕒 Angular api client for aladhan.com/prayer-times-api
   namespace: github.com/wurshaapps
   type: collection
   seq: 233
 source:
-  kind: git
-  url: https://github.com/WurshaApps/ngx-prayertimes-api.git
-  ref: main
-  subdir: docs
+  git:
+    repo: https://github.com/WurshaApps/ngx-prayertimes-api.git
+    ref: main
+    subdir: docs
+  url: https://bruno-catalog.vercel.app/data/c/wurshaapps__ngx-prayertimes-api__docs/collection.yml

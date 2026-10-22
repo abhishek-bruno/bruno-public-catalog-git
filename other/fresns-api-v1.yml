@@ -1,9 +1,11 @@
 info:
   name: Fresns API v1
+  summary: Fresns is a free and open source social network service software, a general-purpose community product designed for cross-platform, and supports flexible and diverse content forms. It conforms to the t
   namespace: github.com/fresns
   type: collection
   seq: 95
 source:
-  kind: git
-  url: https://github.com/fresns/api-collection-by-bruno.git
-  ref: v1
+  git:
+    repo: https://github.com/fresns/api-collection-by-bruno.git
+    ref: v1
+  url: https://bruno-catalog.vercel.app/data/c/fresns__api-collection-by-bruno/collection.yml

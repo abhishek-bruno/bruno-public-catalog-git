@@ -1,10 +1,12 @@
 info:
   name: Graphix
+  summary: The Graph indexer cross-checking software
   namespace: github.com/graphprotocol
   type: collection
   seq: 207
 source:
-  kind: git
-  url: https://github.com/graphprotocol/graphix.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/graphprotocol/graphix.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/graphprotocol__graphix__bruno/collection.yml

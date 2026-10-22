@@ -1,10 +1,12 @@
 info:
   name: AirOPS
+  summary: Event-driven microservices platform for airport ground operations.
   namespace: github.com/rubencosta13
   type: collection
   seq: 107
 source:
-  kind: git
-  url: https://github.com/rubencosta13/AirOps.git
-  ref: main
-  subdir: Bruno
+  git:
+    repo: https://github.com/rubencosta13/AirOps.git
+    ref: main
+    subdir: Bruno
+  url: https://bruno-catalog.vercel.app/data/c/rubencosta13__airops__bruno/collection.yml

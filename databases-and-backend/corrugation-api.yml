@@ -1,12 +1,14 @@
 info:
   name: Corrugation API
+  summary: Inventory management backend. All endpoints are under /api.
   namespace: github.com/w-floyd
   type: collection
   tags:
     - e-commerce
   seq: 52
 source:
-  kind: git
-  url: https://github.com/W-Floyd/corrugation.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/W-Floyd/corrugation.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/w-floyd__corrugation__bruno/collection.yml

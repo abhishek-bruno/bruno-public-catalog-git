@@ -1,11 +1,13 @@
 info:
   name: DataEngine-DPPPlugin
+  summary: This directory contains the Bruno collection and instructions to test the AAS.TwinEngine.DataEngine .NET API using Bruno. The collection includes pre-configured requests and environments to exercise t
   namespace: github.com/aas-twinengine
   type: collection
   seq: 17
   featured: true
 source:
-  kind: git
-  url: https://github.com/AAS-TwinEngine/AAS.TwinEngine.DataEngine.git
-  ref: main
-  subdir: examples/shared/apiCollection
+  git:
+    repo: https://github.com/AAS-TwinEngine/AAS.TwinEngine.DataEngine.git
+    ref: main
+    subdir: examples/shared/apiCollection
+  url: https://bruno-catalog.vercel.app/data/c/aas-twinengine__aas-twinengine-dataengine__examples-shared-apicollection/collection.yml

@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 264
 source:
-  kind: git
-  url: https://github.com/magervasoni84/WebHPMMFrontEnd.git
-  ref: main
-  subdir: Bruno/visita
+  git:
+    repo: https://github.com/magervasoni84/WebHPMMFrontEnd.git
+    ref: main
+    subdir: Bruno/visita
+  url: https://bruno-catalog.vercel.app/data/c/magervasoni84__webhpmmfrontend__bruno-visita/collection.yml

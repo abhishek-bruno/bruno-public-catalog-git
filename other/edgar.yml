@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 306
 source:
-  kind: git
-  url: https://github.com/rskupnik/edgar2.git
-  ref: master
-  subdir: api-collections/Edgar
+  git:
+    repo: https://github.com/rskupnik/edgar2.git
+    ref: master
+    subdir: api-collections/Edgar
+  url: https://bruno-catalog.vercel.app/data/c/rskupnik__edgar2__api-collections-edgar/collection.yml

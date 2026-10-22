@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 105
 source:
-  kind: git
-  url: https://github.com/sergeyfarin/rekenraam.git
-  ref: main
-  subdir: api/bruno
+  git:
+    repo: https://github.com/sergeyfarin/rekenraam.git
+    ref: main
+    subdir: api/bruno
+  url: https://bruno-catalog.vercel.app/data/c/sergeyfarin__rekenraam__api-bruno/collection.yml

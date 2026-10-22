@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 243
 source:
-  kind: git
-  url: https://github.com/bardic/gocrib.git
-  ref: main
-  subdir: http
+  git:
+    repo: https://github.com/bardic/gocrib.git
+    ref: main
+    subdir: http
+  url: https://bruno-catalog.vercel.app/data/c/bardic__gocrib__http/collection.yml

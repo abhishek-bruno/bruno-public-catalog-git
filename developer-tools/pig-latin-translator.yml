@@ -1,12 +1,14 @@
 info:
   name: Pig Latin translator
+  summary: Pig Latin is a made-up children's language that's intended to be confusing. It obeys a few simple rules (below), but when it's spoken quickly it's really difficult for non-children (and non-native spe
   namespace: github.com/rabestro
   type: collection
   tags:
     - devops-and-cloud
   seq: 38
 source:
-  kind: git
-  url: https://github.com/rabestro/pig-latin-rest.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/rabestro/pig-latin-rest.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/rabestro__pig-latin-rest__bruno/collection.yml

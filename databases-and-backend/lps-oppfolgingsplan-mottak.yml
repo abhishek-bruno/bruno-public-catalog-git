@@ -1,10 +1,12 @@
 info:
   name: lps-oppfolgingsplan-mottak
+  summary: '1. Rename the environment file: Or just copy it with the requested name if you want to keep the original one for later use. 2. Find the values for test environment variables as described here. For Pro'
   namespace: github.com/navikt
   type: collection
   seq: 163
 source:
-  kind: git
-  url: https://github.com/navikt/lps-oppfolgingsplan-mottak.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/navikt/lps-oppfolgingsplan-mottak.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/navikt__lps-oppfolgingsplan-mottak__bruno/collection.yml

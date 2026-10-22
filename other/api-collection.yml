@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 315
 source:
-  kind: git
-  url: https://github.com/adrianoanschau/laravel-http-communication.git
-  ref: main
-  subdir: API Collection
+  git:
+    repo: https://github.com/adrianoanschau/laravel-http-communication.git
+    ref: main
+    subdir: API Collection
+  url: https://bruno-catalog.vercel.app/data/c/adrianoanschau__laravel-http-communication__api-collection/collection.yml

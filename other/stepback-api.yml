@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 255
 source:
-  kind: git
-  url: https://github.com/Bitodette/stepback-go.git
-  ref: main
-  subdir: backend/bruno
+  git:
+    repo: https://github.com/Bitodette/stepback-go.git
+    ref: main
+    subdir: backend/bruno
+  url: https://bruno-catalog.vercel.app/data/c/bitodette__stepback-go__backend-bruno/collection.yml

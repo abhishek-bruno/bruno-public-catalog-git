@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 283
 source:
-  kind: git
-  url: https://github.com/sergiocasero/contrataciones_del_estado.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/sergiocasero/contrataciones_del_estado.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/sergiocasero__contrataciones-del-estado__bruno/collection.yml

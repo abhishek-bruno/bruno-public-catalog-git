@@ -1,10 +1,12 @@
 info:
   name: vidcleaner bruno
+  summary: Tools to transcode, inspect and convert videos.
   namespace: github.com/natelandau
   type: collection
   seq: 174
 source:
-  kind: git
-  url: https://github.com/natelandau/vid-cleaner.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/natelandau/vid-cleaner.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/natelandau__vid-cleaner__bruno/collection.yml

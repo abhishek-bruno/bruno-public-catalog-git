@@ -1,10 +1,12 @@
 info:
   name: Umbrella
+  summary: Where all Tractus-X comes together
   namespace: github.com/eclipse-tractusx
   type: collection
   seq: 73
 source:
-  kind: git
-  url: https://github.com/eclipse-tractusx/tractus-x-umbrella.git
-  ref: main
-  subdir: docs/common/api/bruno/Umbrella-bru
+  git:
+    repo: https://github.com/eclipse-tractusx/tractus-x-umbrella.git
+    ref: main
+    subdir: docs/common/api/bruno/Umbrella-bru
+  url: https://bruno-catalog.vercel.app/data/c/eclipse-tractusx__tractus-x-umbrella__docs-common-api-bruno-umbrella-bru/collection.yml

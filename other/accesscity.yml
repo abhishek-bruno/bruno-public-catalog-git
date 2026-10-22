@@ -1,10 +1,12 @@
 info:
   name: AccessCity
+  summary: Repositório com os arquivos do TCC
   namespace: github.com/lana-paggiaro
   type: collection
   seq: 309
 source:
-  kind: git
-  url: https://github.com/lana-paggiaro/AccessCity.git
-  ref: main
-  subdir: tccmobile/collection
+  git:
+    repo: https://github.com/lana-paggiaro/AccessCity.git
+    ref: main
+    subdir: tccmobile/collection
+  url: https://bruno-catalog.vercel.app/data/c/lana-paggiaro__accesscity__tccmobile-collection/collection.yml

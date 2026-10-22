@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 269
 source:
-  kind: git
-  url: https://github.com/arielhurtado388/POSBackend.git
-  ref: main
-  subdir: bruno/POS
+  git:
+    repo: https://github.com/arielhurtado388/POSBackend.git
+    ref: main
+    subdir: bruno/POS
+  url: https://bruno-catalog.vercel.app/data/c/arielhurtado388__posbackend__bruno-pos/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: Collections
+  summary: Mock Xtream Codes API server for IPTV app development and testing.
   namespace: github.com/bsogulcan
   type: collection
   seq: 139
 source:
-  kind: git
-  url: https://github.com/bsogulcan/xtream-codes-mock-server.git
-  ref: main
-  subdir: collections
+  git:
+    repo: https://github.com/bsogulcan/xtream-codes-mock-server.git
+    ref: main
+    subdir: collections
+  url: https://bruno-catalog.vercel.app/data/c/bsogulcan__xtream-codes-mock-server__collections/collection.yml

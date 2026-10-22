@@ -1,10 +1,12 @@
 info:
   name: Objects
+  summary: 'Bruno-collectie voor het Objecten- en Objecttypenregister (objects/api/v2 en objecttypes/api/v2 op mijn-services). Auth is op collectieniveau ingesteld (API-key via Authorization: Token ) en wordt ove'
   namespace: github.com/gemeentenijmegen
   type: collection
   seq: 161
 source:
-  kind: git
-  url: https://github.com/GemeenteNijmegen/open-forms.git
-  ref: main
-  subdir: bruno/Objects
+  git:
+    repo: https://github.com/GemeenteNijmegen/open-forms.git
+    ref: main
+    subdir: bruno/Objects
+  url: https://bruno-catalog.vercel.app/data/c/gemeentenijmegen__open-forms__bruno-objects/collection.yml

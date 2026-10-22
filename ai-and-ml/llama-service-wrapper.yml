@@ -1,10 +1,12 @@
 info:
   name: Llama Service Wrapper
+  summary: Ashley is an all-in-one, single-click local AI assistant. It bundles an llama.cpp LLM inference engine, a Symfony/PHP web chatbot interface, a CEF-based web client (PHP Desktop), and a service manager
   namespace: github.com/roabraham
   type: collection
   seq: 137
 source:
-  kind: git
-  url: https://github.com/roabraham/ashley.git
-  ref: trunk
-  subdir: bruno/Llama Service Wrapper
+  git:
+    repo: https://github.com/roabraham/ashley.git
+    ref: trunk
+    subdir: bruno/Llama Service Wrapper
+  url: https://bruno-catalog.vercel.app/data/c/roabraham__ashley__bruno-llama-service-wrapper/collection.yml

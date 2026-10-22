@@ -1,10 +1,12 @@
 info:
   name: ExerciseLoggerCollection
+  summary: A full-stack MERN application for tracking exercises.
   namespace: github.com/nikolozi2004
   type: collection
   seq: 285
 source:
-  kind: git
-  url: https://github.com/Nikolozi2004/ExerciseLogger.git
-  ref: master
-  subdir: ExerciseLoggerCollection
+  git:
+    repo: https://github.com/Nikolozi2004/ExerciseLogger.git
+    ref: master
+    subdir: ExerciseLoggerCollection
+  url: https://bruno-catalog.vercel.app/data/c/nikolozi2004__exerciselogger__exerciseloggercollection/collection.yml

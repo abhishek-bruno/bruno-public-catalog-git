@@ -1,10 +1,12 @@
 info:
   name: RecordRanks
+  summary: The premium platform for sports event management and rankings. Built for organisations and communities that need full control over their results, full record tracking and the tools to propel their spo
   namespace: github.com/mintydev-ltd
   type: collection
   seq: 82
 source:
-  kind: git
-  url: https://github.com/mintydev-ltd/RecordRanks.git
-  ref: main
-  subdir: bruno/RecordRanks
+  git:
+    repo: https://github.com/mintydev-ltd/RecordRanks.git
+    ref: main
+    subdir: bruno/RecordRanks
+  url: https://bruno-catalog.vercel.app/data/c/mintydev-ltd__recordranks__bruno-recordranks/collection.yml

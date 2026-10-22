@@ -1,12 +1,14 @@
 info:
   name: map-mories bruno
+  summary: Map-mories is a React app that allows users to document their travels by logging locations, adding details, and uploading images via Google Maps API and AWS S3.
   namespace: github.com/kymbym
   type: collection
   tags:
     - productivity
   seq: 296
 source:
-  kind: git
-  url: https://github.com/kymbym/map-mories.git
-  ref: main
-  subdir: map-mories bruno
+  git:
+    repo: https://github.com/kymbym/map-mories.git
+    ref: main
+    subdir: map-mories bruno
+  url: https://bruno-catalog.vercel.app/data/c/kymbym__map-mories__map-mories-bruno/collection.yml

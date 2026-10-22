@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 297
 source:
-  kind: git
-  url: https://github.com/drcor/DAD-project.git
-  ref: main
-  subdir: DAD
+  git:
+    repo: https://github.com/drcor/DAD-project.git
+    ref: main
+    subdir: DAD
+  url: https://bruno-catalog.vercel.app/data/c/drcor__dad-project__dad/collection.yml

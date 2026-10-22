@@ -1,10 +1,12 @@
 info:
   name: deezer
+  summary: An unofficial Java wrapper for the Deezer API
   namespace: github.com/yvasyliev
   type: collection
   seq: 25
 source:
-  kind: git
-  url: https://github.com/yvasyliev/dz4j.git
-  ref: master
-  subdir: bruno-collection
+  git:
+    repo: https://github.com/yvasyliev/dz4j.git
+    ref: master
+    subdir: bruno-collection
+  url: https://bruno-catalog.vercel.app/data/c/yvasyliev__dz4j__bruno-collection/collection.yml

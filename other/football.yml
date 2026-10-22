@@ -1,10 +1,12 @@
 info:
   name: Football
+  summary: Master's thesis repository
   namespace: github.com/exruos
   type: collection
   seq: 187
 source:
-  kind: git
-  url: https://github.com/exruos/wasm-football.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/exruos/wasm-football.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/exruos__wasm-football__bruno/collection.yml

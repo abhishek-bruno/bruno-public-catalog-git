@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 307
 source:
-  kind: git
-  url: https://github.com/welintonhaas/Spring-Boot-Course.git
-  ref: master
-  subdir: Rest Api Client/Security
+  git:
+    repo: https://github.com/welintonhaas/Spring-Boot-Course.git
+    ref: master
+    subdir: Rest Api Client/Security
+  url: https://bruno-catalog.vercel.app/data/c/welintonhaas__spring-boot-course__rest-api-client-security/collection.yml

@@ -1,9 +1,11 @@
 info:
   name: api
+  summary: NEAR is a low-cost, usable, and scalable layer-one blockchain that offers cheap data availability layer.
   namespace: github.com/near
   type: collection
   seq: 138
 source:
-  kind: git
-  url: https://github.com/near/near-light-client.git
-  ref: master
+  git:
+    repo: https://github.com/near/near-light-client.git
+    ref: master
+  url: https://bruno-catalog.vercel.app/data/c/near__near-light-client/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: auth-core
+  summary: Application desired to be an authorization core, where all applications authenticate with.
   namespace: github.com/guilhermesaraujo
   type: collection
   seq: 321
 source:
-  kind: git
-  url: https://github.com/GuilhermeSAraujo/auth-core.git
-  ref: main
-  subdir: collection/collection
+  git:
+    repo: https://github.com/GuilhermeSAraujo/auth-core.git
+    ref: main
+    subdir: collection/collection
+  url: https://bruno-catalog.vercel.app/data/c/guilhermesaraujo__auth-core__collection-collection/collection.yml

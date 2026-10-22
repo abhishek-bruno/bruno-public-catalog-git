@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 312
 source:
-  kind: git
-  url: https://github.com/mdchumakov/gophermart-service.git
-  ref: master
-  subdir: bruno
+  git:
+    repo: https://github.com/mdchumakov/gophermart-service.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/mdchumakov__gophermart-service__bruno/collection.yml

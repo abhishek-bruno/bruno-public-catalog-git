@@ -1,10 +1,12 @@
 info:
   name: InfoDive
+  summary: A 7-week internship program by Hotels.ng
   namespace: github.com/claudiusayadi
   type: collection
   seq: 301
 source:
-  kind: git
-  url: https://github.com/claudiusayadi/hng12.git
-  ref: main
-  subdir: stage_0/bruno
+  git:
+    repo: https://github.com/claudiusayadi/hng12.git
+    ref: main
+    subdir: stage_0/bruno
+  url: https://bruno-catalog.vercel.app/data/c/claudiusayadi__hng12__stage-0-bruno/collection.yml

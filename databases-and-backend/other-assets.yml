@@ -1,12 +1,14 @@
 info:
   name: other assets
+  summary: Production pipeline management backend for VFX studios — FastAPI, PostgreSQL, Redis, async workers, RBAC
   namespace: github.com/soyyotedigo
   type: collection
   tags:
     - devops-and-cloud
   seq: 260
 source:
-  kind: git
-  url: https://github.com/soyyotedigo/pipeline-production-hub.git
-  ref: main
-  subdir: bruno/04 assets/other
+  git:
+    repo: https://github.com/soyyotedigo/pipeline-production-hub.git
+    ref: main
+    subdir: bruno/04 assets/other
+  url: https://bruno-catalog.vercel.app/data/c/soyyotedigo__pipeline-production-hub__bruno-04-assets-other/collection.yml

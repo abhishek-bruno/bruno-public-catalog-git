@@ -1,10 +1,12 @@
 info:
   name: Peepol
+  summary: Peepol management
   namespace: github.com/jelvi00
   type: collection
   seq: 188
 source:
-  kind: git
-  url: https://github.com/jelvi00/peepol.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/jelvi00/peepol.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/jelvi00__peepol__bruno/collection.yml

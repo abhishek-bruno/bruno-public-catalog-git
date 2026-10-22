@@ -19,10 +19,11 @@ catalog.yml          name, scope (aggregate), logo, links, contact, tag vocabula
 other/               entries without a category
 ```
 
-An entry holds only authored fields: listing name, namespace, type, tags,
-order, `featured`, and one `source`. Descriptions, versions and repository
-details are read from the collection itself. Stars and other observed numbers
-are not in this repo; a host publishes them in a separate observed file.
+An entry holds only authored fields: listing name, a one-line summary,
+namespace, type, tags, order, `featured`, and where the collection lives:
+`source.git` (the GitHub repo) and `source.url` (the store's scanned copy,
+which the catalog site opens for Docs). Stars and other observed numbers are
+not in this repo; a host publishes them in a separate observed file.
 
 ## Where it comes from
 

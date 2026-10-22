@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 135
 source:
-  kind: git
-  url: https://github.com/metju-ac/train-me-maybe.git
-  ref: master
-  subdir: bruno/RegioJet's Affiliate API Reference
+  git:
+    repo: https://github.com/metju-ac/train-me-maybe.git
+    ref: master
+    subdir: bruno/RegioJet's Affiliate API Reference
+  url: https://bruno-catalog.vercel.app/data/c/metju-ac__train-me-maybe__bruno-regiojet-s-affiliate-api-reference/collection.yml

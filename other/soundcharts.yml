@@ -1,10 +1,12 @@
 info:
   name: Soundcharts
+  summary: Code and bruno collections for various APIs I have used in my programmer life so far
   namespace: github.com/sejmou
   type: collection
   seq: 261
 source:
-  kind: git
-  url: https://github.com/Sejmou/apis.git
-  ref: main
-  subdir: Soundcharts
+  git:
+    repo: https://github.com/Sejmou/apis.git
+    ref: main
+    subdir: Soundcharts
+  url: https://bruno-catalog.vercel.app/data/c/sejmou__apis__soundcharts/collection.yml

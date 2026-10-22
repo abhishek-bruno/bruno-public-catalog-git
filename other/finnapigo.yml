@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 53
 source:
-  kind: git
-  url: https://github.com/NguyenQuan121321/FinnApiGo.git
-  ref: main
-  subdir: Bruno
+  git:
+    repo: https://github.com/NguyenQuan121321/FinnApiGo.git
+    ref: main
+    subdir: Bruno
+  url: https://bruno-catalog.vercel.app/data/c/nguyenquan121321__finnapigo__bruno/collection.yml

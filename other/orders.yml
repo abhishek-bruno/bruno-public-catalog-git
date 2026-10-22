@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 303
 source:
-  kind: git
-  url: https://github.com/The-True-Code-Fathers/mercado-nosso.git
-  ref: development
-  subdir: collections/orders
+  git:
+    repo: https://github.com/The-True-Code-Fathers/mercado-nosso.git
+    ref: development
+    subdir: collections/orders
+  url: https://bruno-catalog.vercel.app/data/c/the-true-code-fathers__mercado-nosso__collections-orders/collection.yml

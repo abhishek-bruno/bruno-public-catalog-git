@@ -1,10 +1,12 @@
 info:
   name: Broke-Manager
+  summary: Eine Webapp, welche dir hilft deine Finanzen vorrausschauend zu planen
   namespace: github.com/moritzlue24
   type: collection
   seq: 120
 source:
-  kind: git
-  url: https://github.com/MoritzLue24/Broke-Manager.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/MoritzLue24/Broke-Manager.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/moritzlue24__broke-manager__bruno/collection.yml

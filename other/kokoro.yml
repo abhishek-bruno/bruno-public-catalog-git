@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 251
 source:
-  kind: git
-  url: https://github.com/ThomasPlantain/n8n.git
-  ref: main
-  subdir: assets/Kokoro
+  git:
+    repo: https://github.com/ThomasPlantain/n8n.git
+    ref: main
+    subdir: assets/Kokoro
+  url: https://bruno-catalog.vercel.app/data/c/thomasplantain__n8n__assets-kokoro/collection.yml

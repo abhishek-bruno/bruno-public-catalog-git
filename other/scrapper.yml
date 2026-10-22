@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 209
 source:
-  kind: git
-  url: https://github.com/fmotalleb/scrapper-go.git
-  ref: main
-  subdir: docs/API
+  git:
+    repo: https://github.com/fmotalleb/scrapper-go.git
+    ref: main
+    subdir: docs/API
+  url: https://bruno-catalog.vercel.app/data/c/fmotalleb__scrapper-go__docs-api/collection.yml

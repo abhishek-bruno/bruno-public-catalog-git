@@ -1,12 +1,14 @@
 info:
   name: j-commerce
+  summary: E-Commerce platform (Backend). Study project applying Microservices Architecture and Event-driven Architecture with Java, Spring Boot, Quarkus, GraphQL, PostgreSQL, MongoDB, Redis, RabbitMQ, Prometheu
   namespace: github.com/filipemartinsdev
   type: collection
   tags:
     - databases-and-backend
   seq: 43
 source:
-  kind: git
-  url: https://github.com/filipemartinsdev/j-commerce.git
-  ref: main
-  subdir: bruno/j-commerce
+  git:
+    repo: https://github.com/filipemartinsdev/j-commerce.git
+    ref: main
+    subdir: bruno/j-commerce
+  url: https://bruno-catalog.vercel.app/data/c/filipemartinsdev__j-commerce__bruno-j-commerce/collection.yml

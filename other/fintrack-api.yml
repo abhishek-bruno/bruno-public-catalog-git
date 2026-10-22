@@ -1,10 +1,12 @@
 info:
   name: FinTrack API
+  summary: Bruno es un cliente de API que guarda las peticiones como archivos de texto dentro del repositorio, uno por petición, en vez de un único .json de 80 kB. Se lee en un diff, se revisa en un pull request
   namespace: github.com/fntr3455234
   type: collection
   seq: 56
 source:
-  kind: git
-  url: https://github.com/FNTR3455234/FinTrack.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/FNTR3455234/FinTrack.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/fntr3455234__fintrack__bruno/collection.yml

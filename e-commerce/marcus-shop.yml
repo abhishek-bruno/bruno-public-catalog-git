@@ -6,7 +6,8 @@ info:
     - databases-and-backend
   seq: 308
 source:
-  kind: git
-  url: https://github.com/yodra/marcus-shop-backend.git
-  ref: main
-  subdir: documentation/Marcus-shop
+  git:
+    repo: https://github.com/yodra/marcus-shop-backend.git
+    ref: main
+    subdir: documentation/Marcus-shop
+  url: https://bruno-catalog.vercel.app/data/c/yodra__marcus-shop-backend__documentation-marcus-shop/collection.yml

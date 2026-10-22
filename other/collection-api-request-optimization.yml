@@ -1,10 +1,12 @@
 info:
   name: collection-api-request-optimization
+  summary: API REST para otimização de prompts e textos para IA.
   namespace: github.com/gustavohenriquefs
   type: collection
   seq: 288
 source:
-  kind: git
-  url: https://github.com/gustavohenriquefs/APIRequestOptimization.git
-  ref: main
-  subdir: collection-api-request-optimization
+  git:
+    repo: https://github.com/gustavohenriquefs/APIRequestOptimization.git
+    ref: main
+    subdir: collection-api-request-optimization
+  url: https://bruno-catalog.vercel.app/data/c/gustavohenriquefs__apirequestoptimization__collection-api-request-optimization/collection.yml

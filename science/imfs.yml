@@ -1,12 +1,14 @@
 info:
   name: IMFS
+  summary: Bruno collection for the IMFS / MicroFlow backend (J26-IT-326).
   namespace: github.com/romeshcg
   type: collection
   tags:
     - databases-and-backend
   seq: 35
 source:
-  kind: git
-  url: https://github.com/RomeshCG/j26it326.git
-  ref: main
-  subdir: docs/bruno/IMFS
+  git:
+    repo: https://github.com/RomeshCG/j26it326.git
+    ref: main
+    subdir: docs/bruno/IMFS
+  url: https://bruno-catalog.vercel.app/data/c/romeshcg__j26it326__docs-bruno-imfs/collection.yml

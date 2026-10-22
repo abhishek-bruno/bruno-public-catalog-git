@@ -1,11 +1,13 @@
 info:
   name: Obskurnee
+  summary: A companion app for your book club
   namespace: github.com/zblesk
   type: collection
   seq: 36
   featured: true
 source:
-  kind: git
-  url: https://github.com/zblesk/obskurnee.git
-  ref: master
-  subdir: bruno-requests
+  git:
+    repo: https://github.com/zblesk/obskurnee.git
+    ref: master
+    subdir: bruno-requests
+  url: https://bruno-catalog.vercel.app/data/c/zblesk__obskurnee__bruno-requests/collection.yml

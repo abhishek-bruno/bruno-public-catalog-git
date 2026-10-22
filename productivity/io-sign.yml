@@ -1,12 +1,14 @@
 info:
   name: io-sign
+  summary: IO platform feature that allows the signing of PDF documents
   namespace: github.com/pagopa
   type: collection
   tags:
     - devops-and-cloud
   seq: 72
 source:
-  kind: git
-  url: https://github.com/pagopa/io-sign.git
-  ref: main
-  subdir: Bruno
+  git:
+    repo: https://github.com/pagopa/io-sign.git
+    ref: main
+    subdir: Bruno
+  url: https://bruno-catalog.vercel.app/data/c/pagopa__io-sign__bruno/collection.yml

@@ -1,9 +1,11 @@
 info:
   name: zermelo
+  summary: Dit is een repository die de Zermelo API in Bruno zet voor testen en als naslagwerk voor jouw projecten.
   namespace: github.com/blacklizardcode
   type: collection
   seq: 102
 source:
-  kind: git
-  url: https://github.com/blacklizardcode/zermelo-api-bruno.git
-  ref: master
+  git:
+    repo: https://github.com/blacklizardcode/zermelo-api-bruno.git
+    ref: master
+  url: https://bruno-catalog.vercel.app/data/c/blacklizardcode__zermelo-api-bruno/collection.yml

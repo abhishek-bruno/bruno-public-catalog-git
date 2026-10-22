@@ -1,5 +1,6 @@
 info:
   name: Cubby API
+  summary: 'Extremely simple and light self-hosted workspace for daily stuff: recurring tasks, shopping lists, recipes and routine tracking.'
   namespace: github.com/andreypostal
   type: collection
   tags:
@@ -7,7 +8,8 @@ info:
   seq: 26
   featured: true
 source:
-  kind: git
-  url: https://github.com/andreypostal/cubby.git
-  ref: main
-  subdir: docs/api
+  git:
+    repo: https://github.com/andreypostal/cubby.git
+    ref: main
+    subdir: docs/api
+  url: https://bruno-catalog.vercel.app/data/c/andreypostal__cubby__docs-api/collection.yml

@@ -1,10 +1,12 @@
 info:
   name: ssp-bruno
+  summary: A better experience than Schoolsoft
   namespace: github.com/elias4044
   type: collection
   seq: 154
 source:
-  kind: git
-  url: https://github.com/elias4044/schoolsoftplus.git
-  ref: main
-  subdir: ssp-bruno
+  git:
+    repo: https://github.com/elias4044/schoolsoftplus.git
+    ref: main
+    subdir: ssp-bruno
+  url: https://bruno-catalog.vercel.app/data/c/elias4044__schoolsoftplus__ssp-bruno/collection.yml

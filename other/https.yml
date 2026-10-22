@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 247
 source:
-  kind: git
-  url: https://github.com/AlexSPx/safe-zafira.git
-  ref: main
-  subdir: fmi
+  git:
+    repo: https://github.com/AlexSPx/safe-zafira.git
+    ref: main
+    subdir: fmi
+  url: https://bruno-catalog.vercel.app/data/c/alexspx__safe-zafira__fmi/collection.yml

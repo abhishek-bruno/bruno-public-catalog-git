@@ -1,12 +1,14 @@
 info:
   name: starter kit
+  summary: Xây dựng backend cho trang web từ thiện trường đại học bách khoa đà nẵng
   namespace: github.com/mintori09
   type: collection
   tags:
     - education-and-demos
   seq: 218
 source:
-  kind: git
-  url: https://github.com/Mintori09/BKVolunteersBackend.git
-  ref: main
-  subdir: bruno
+  git:
+    repo: https://github.com/Mintori09/BKVolunteersBackend.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/mintori09__bkvolunteersbackend__bruno/collection.yml

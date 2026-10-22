@@ -4,7 +4,8 @@ info:
   type: collection
   seq: 172
 source:
-  kind: git
-  url: https://github.com/Santiago-j-s/mermaid-diagram-tool.git
-  ref: main
-  subdir: bru
+  git:
+    repo: https://github.com/Santiago-j-s/mermaid-diagram-tool.git
+    ref: main
+    subdir: bru
+  url: https://bruno-catalog.vercel.app/data/c/santiago-j-s__mermaid-diagram-tool__bru/collection.yml
