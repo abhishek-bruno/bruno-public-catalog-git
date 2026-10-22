@@ -4,7 +4,6 @@ info:
   namespace: github.com/ghostbyte-dev
   type: collection
   seq: 13
-  featured: true
 source:
   git:
     repo: https://github.com/ghostbyte-dev/pixelix.git

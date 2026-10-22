@@ -7,7 +7,6 @@ info:
     - data-and-analytics
     - databases-and-backend
   seq: 8
-  featured: true
 source:
   git:
     repo: https://github.com/BrigadaSOS/Nadeshiko.git

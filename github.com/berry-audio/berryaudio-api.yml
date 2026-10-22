@@ -4,7 +4,6 @@ info:
   namespace: github.com/berry-audio
   type: collection
   seq: 49
-  featured: true
 source:
   git:
     repo: https://github.com/berry-audio/ba-docs.git

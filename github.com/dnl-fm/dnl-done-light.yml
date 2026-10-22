@@ -4,7 +4,6 @@ info:
   namespace: github.com/dnl-fm
   type: collection
   seq: 47
-  featured: true
 source:
   git:
     repo: https://github.com/dnl-fm/done.git

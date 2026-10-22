@@ -36,7 +36,7 @@ not in this repo; a host publishes them in a separate observed file.
 
 Generated from the scraper's data with `node indexer/git-catalog.mjs <dir>` in
 bruno-public-catalog. `featured: true` marks the entries the curation rules
-picked. Once the public registry is live, organizations claim their namespace
+picked (the top three, pinned first). Once the public registry is live, organizations claim their namespace
 and manage their own entries: their folder moves to the registry, and this
 catalog becomes the registry's public catalog.
 

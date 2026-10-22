@@ -6,7 +6,6 @@ info:
   tags:
     - data-and-analytics
   seq: 39
-  featured: true
 source:
   git:
     repo: https://github.com/louisboii747/HardwareMon.git

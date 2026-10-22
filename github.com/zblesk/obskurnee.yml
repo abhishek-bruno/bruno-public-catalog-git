@@ -4,7 +4,6 @@ info:
   namespace: github.com/zblesk
   type: collection
   seq: 36
-  featured: true
 source:
   git:
     repo: https://github.com/zblesk/obskurnee.git

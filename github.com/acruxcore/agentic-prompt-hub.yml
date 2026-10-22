@@ -6,7 +6,6 @@ info:
   tags:
     - ai-and-ml
   seq: 12
-  featured: true
 source:
   git:
     repo: https://github.com/AcruxCore/AcruxCore.git

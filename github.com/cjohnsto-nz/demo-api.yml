@@ -6,7 +6,6 @@ info:
   tags:
     - education-and-demos
   seq: 30
-  featured: true
 source:
   git:
     repo: https://github.com/cjohnsto-nz/missio.git

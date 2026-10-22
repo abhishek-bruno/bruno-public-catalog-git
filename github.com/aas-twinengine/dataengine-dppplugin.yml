@@ -4,7 +4,6 @@ info:
   namespace: github.com/aas-twinengine
   type: collection
   seq: 17
-  featured: true
 source:
   git:
     repo: https://github.com/AAS-TwinEngine/AAS.TwinEngine.DataEngine.git

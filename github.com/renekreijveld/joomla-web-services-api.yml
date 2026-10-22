@@ -4,7 +4,6 @@ info:
   namespace: github.com/renekreijveld
   type: collection
   seq: 34
-  featured: true
 source:
   git:
     repo: https://github.com/renekreijveld/bruno-joomla-api.git

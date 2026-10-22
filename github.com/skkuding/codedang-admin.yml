@@ -4,7 +4,6 @@ info:
   namespace: github.com/skkuding
   type: collection
   seq: 6
-  featured: true
 source:
   git:
     repo: https://github.com/skkuding/codedang.git

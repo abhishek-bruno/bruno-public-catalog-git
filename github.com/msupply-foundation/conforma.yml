@@ -6,7 +6,6 @@ info:
   tags:
     - auth-and-identity
   seq: 20
-  featured: true
 source:
   git:
     repo: https://github.com/msupply-foundation/conforma-web-app.git

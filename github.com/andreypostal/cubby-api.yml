@@ -7,7 +7,6 @@ info:
     - productivity
     - home-and-iot
   seq: 26
-  featured: true
 source:
   git:
     repo: https://github.com/andreypostal/cubby.git

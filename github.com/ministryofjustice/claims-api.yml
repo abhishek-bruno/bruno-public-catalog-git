@@ -6,7 +6,6 @@ info:
   tags:
     - open-data
   seq: 21
-  featured: true
 source:
   git:
     repo: https://github.com/ministryofjustice/laa-data-claims-api.git

@@ -7,7 +7,6 @@ info:
     - auth-and-identity
     - databases-and-backend
   seq: 10
-  featured: true
 source:
   git:
     repo: https://github.com/aSel1x/Backend_Template.git

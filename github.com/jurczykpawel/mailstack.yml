@@ -7,7 +7,6 @@ info:
     - communication
     - devops-and-cloud
   seq: 40
-  featured: true
 source:
   git:
     repo: https://github.com/jurczykpawel/mailstack.git
