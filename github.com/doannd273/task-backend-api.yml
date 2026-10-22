@@ -1,0 +1,15 @@
+info:
+  name: Task Backend API
+  summary: Open this folder in Bruno as a collection.
+  namespace: github.com/doannd273
+  type: collection
+  tags:
+    - databases-and-backend
+    - productivity
+  seq: 113
+source:
+  git:
+    repo: https://github.com/doannd273/task-backend.git
+    ref: main
+    subdir: bruno/task-backend
+  url: https://bruno-catalog.vercel.app/data/c/doannd273__task-backend__bruno-task-backend/collection.yml

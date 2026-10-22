@@ -1,0 +1,15 @@
+info:
+  name: Miniflux
+  summary: Minimalist and opinionated feed reader
+  namespace: github.com/miniflux
+  type: collection
+  tags:
+    - media
+  seq: 2
+  featured: true
+source:
+  git:
+    repo: https://github.com/miniflux/v2.git
+    ref: main
+    subdir: contrib/bruno/miniflux
+  url: https://bruno-catalog.vercel.app/data/c/miniflux__v2__contrib-bruno-miniflux/collection.yml

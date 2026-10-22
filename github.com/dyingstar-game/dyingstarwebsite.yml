@@ -1,0 +1,14 @@
+info:
+  name: DyingStarWebsite
+  namespace: github.com/dyingstar-game
+  type: collection
+  tags:
+    - developer-tools
+    - games
+  seq: 193
+source:
+  git:
+    repo: https://github.com/DyingStar-game/website.git
+    ref: develop
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/dyingstar-game__website__bruno/collection.yml

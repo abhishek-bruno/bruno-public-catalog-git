@@ -1,0 +1,15 @@
+info:
+  name: Ellucian APIs
+  summary: Use bruno to interact with Ethos End Points
+  namespace: github.com/ellucian-developer
+  type: collection
+  tags:
+    - education-and-demos
+    - communication
+  seq: 24
+source:
+  git:
+    repo: https://github.com/ellucian-developer/integration-bruno.git
+    ref: main
+    subdir: Ellucian APIs
+  url: https://bruno-catalog.vercel.app/data/c/ellucian-developer__integration-bruno__ellucian-apis/collection.yml

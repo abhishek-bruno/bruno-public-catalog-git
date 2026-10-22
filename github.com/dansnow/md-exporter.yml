@@ -1,0 +1,14 @@
+info:
+  name: md-exporter
+  summary: Lightweight HTTP service that converts Markdown to PDF or DOCX. Built with Rust, Pandoc, and Typst. Features caching, customizable templates, and a Swagger UI
+  namespace: github.com/dansnow
+  type: collection
+  tags:
+    - developer-tools
+  seq: 242
+source:
+  git:
+    repo: https://github.com/DanSnow/md-exporter.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/dansnow__md-exporter__bruno/collection.yml

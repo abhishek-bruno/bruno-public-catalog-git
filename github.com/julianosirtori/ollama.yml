@@ -1,0 +1,13 @@
+info:
+  name: Ollama
+  namespace: github.com/julianosirtori
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 327
+source:
+  git:
+    repo: https://github.com/julianosirtori/poc-ollama.git
+    ref: main
+    subdir: collection
+  url: https://bruno-catalog.vercel.app/data/c/julianosirtori__poc-ollama__collection/collection.yml

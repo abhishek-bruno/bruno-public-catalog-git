@@ -1,0 +1,16 @@
+info:
+  name: PTC Agent API
+  summary: Bruno API collection for testing PTC Agent server endpoints.
+  namespace: github.com/ginlix-ai
+  type: collection
+  tags:
+    - ai-and-ml
+    - finance
+  seq: 1
+  featured: true
+source:
+  git:
+    repo: https://github.com/ginlix-ai/LangAlpha.git
+    ref: main
+    subdir: docs/api
+  url: https://bruno-catalog.vercel.app/data/c/ginlix-ai__langalpha__docs-api/collection.yml

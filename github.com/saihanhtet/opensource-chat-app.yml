@@ -1,0 +1,15 @@
+info:
+  name: opensource-chat-app
+  summary: This folder is a Bruno collection for exercising the HTTP REST API (/api/...) while the backend is running. Collections are plain files in the repo so you can open them directly—no separate export ste
+  namespace: github.com/saihanhtet
+  type: collection
+  tags:
+    - communication
+    - databases-and-backend
+  seq: 87
+source:
+  git:
+    repo: https://github.com/saihanhtet/opensource-chat-platform.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/saihanhtet__opensource-chat-platform__bruno/collection.yml

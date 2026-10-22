@@ -1,0 +1,14 @@
+info:
+  name: Estuary
+  summary: 'Single endpoint: POST https://api.estuary.dev/api/graphql. Every read is a GraphQL query sent as a POST; nothing in this collection outside Seeding/ is a mutation, and agents never run Seeding/. Error'
+  namespace: github.com/estuary
+  type: collection
+  tags:
+    - developer-tools
+  seq: 3
+source:
+  git:
+    repo: https://github.com/estuary/connectors.git
+    ref: main
+    subdir: source-estuary/bruno
+  url: https://bruno-catalog.vercel.app/data/c/estuary__connectors__source-estuary-bruno/collection.yml

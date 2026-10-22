@@ -1,0 +1,15 @@
+info:
+  name: Claims API
+  summary: LAA Data Claims API
+  namespace: github.com/ministryofjustice
+  type: collection
+  tags:
+    - open-data
+  seq: 21
+  featured: true
+source:
+  git:
+    repo: https://github.com/ministryofjustice/laa-data-claims-api.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/ministryofjustice__laa-data-claims-api__bruno/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: TicoRates
+  summary: Costa Rica exchange rates API powered by BCCR — REST, caching, and MCP server for AI assistants
+  namespace: github.com/jonach1998
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 134
+source:
+  git:
+    repo: https://github.com/jonach1998/ticorates.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/jonach1998__ticorates__bruno/collection.yml

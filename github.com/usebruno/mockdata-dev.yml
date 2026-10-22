@@ -1,0 +1,14 @@
+info:
+  name: mockdata.dev
+  summary: Mocks, but production-grade
+  namespace: github.com/usebruno
+  type: collection
+  tags:
+    - developer-tools
+  seq: 33
+source:
+  git:
+    repo: https://github.com/usebruno/mockdata.dev.git
+    ref: main
+    subdir: resources/opencollection
+  url: https://bruno-catalog.vercel.app/data/c/usebruno__mockdata-dev__resources-opencollection/collection.yml

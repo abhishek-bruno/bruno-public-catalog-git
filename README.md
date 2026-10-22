@@ -13,11 +13,16 @@ lists one owner.
 ## Layout
 
 ```
-catalog.yml          name, scope (aggregate), logo, links, contact, tag vocabulary
-<category>/folder.yml  folder name, order and the category tag its entries inherit
-<category>/<name>.yml  one entry per collection or workspace
-other/               entries without a category
+catalog.yml                        name, scope (aggregate), logo, links, contact, tag vocabulary
+github.com/<owner>/folder.yml      the owner's display name
+github.com/<owner>/<name>.yml      one entry per collection or workspace
 ```
+
+Folders follow ownership, not categories. An entry's owner never changes, so
+files stay put when a collection is recategorized, each owner's entries can be
+reviewed by that owner (one CODEOWNERS line per folder), and claiming or
+opting out of a namespace is a change to one folder. Categories are entry tags,
+defined in the `catalog.yml` vocabulary, and the catalog site groups by them.
 
 An entry holds only authored fields: listing name, a one-line summary,
 namespace, type, tags, order, `featured`, and where the collection lives:
@@ -30,7 +35,8 @@ not in this repo; a host publishes them in a separate observed file.
 Generated from the scraper's data with `node indexer/git-catalog.mjs <dir>` in
 bruno-public-catalog. `featured: true` marks the entries the curation rules
 picked. Once the public registry is live, organizations claim their namespace
-and manage their own entries; this file becomes the registry's public catalog.
+and manage their own entries: their folder moves to the registry, and this
+catalog becomes the registry's public catalog.
 
 ## Use it
 

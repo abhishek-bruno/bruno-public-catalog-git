@@ -1,0 +1,14 @@
+info:
+  name: Service de Téléchargement
+  summary: Fichiers de configurations divers pour faciliter la consommation des services de la Géoplateforme
+  namespace: github.com/geoplateforme
+  type: collection
+  tags:
+    - developer-tools
+  seq: 219
+source:
+  git:
+    repo: https://github.com/Geoplateforme/clients-configurations.git
+    ref: master
+    subdir: bruno/diffusion/telechargement
+  url: https://bruno-catalog.vercel.app/data/c/geoplateforme__clients-configurations__bruno-diffusion-telechargement/collection.yml

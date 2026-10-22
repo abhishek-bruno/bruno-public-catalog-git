@@ -1,0 +1,14 @@
+info:
+  name: Connect'in
+  summary: 'Projet Epitech — ConnectIn : réseau social professionnel (Laravel + Vue 3)'
+  namespace: github.com/sofianbll
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 147
+source:
+  git:
+    repo: https://github.com/sofianbll/ept-connectin.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/sofianbll__ept-connectin__bruno/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: matrix-webhook-gateway
+  summary: Webhook gateway for Matrix / Synapse. Create and manage webhooks in Matrix channels for multiple services.
+  namespace: github.com/geluk
+  type: collection
+  tags:
+    - developer-tools
+  seq: 142
+source:
+  git:
+    repo: https://github.com/geluk/matrix-webhook-gateway.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/geluk__matrix-webhook-gateway__bruno/collection.yml

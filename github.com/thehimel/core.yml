@@ -1,0 +1,13 @@
+info:
+  name: core/
+  namespace: github.com/thehimel
+  type: collection
+  tags:
+    - productivity
+  seq: 103
+source:
+  git:
+    repo: https://github.com/thehimel/async-document-processing.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/thehimel__async-document-processing__bruno/collection.yml

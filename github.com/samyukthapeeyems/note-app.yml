@@ -1,0 +1,13 @@
+info:
+  name: note-app
+  namespace: github.com/samyukthapeeyems
+  type: collection
+  tags:
+    - productivity
+  seq: 324
+source:
+  git:
+    repo: https://github.com/samyukthapeeyems/note-app.git
+    ref: main
+    subdir: collection
+  url: https://bruno-catalog.vercel.app/data/c/samyukthapeeyems__note-app__collection/collection.yml

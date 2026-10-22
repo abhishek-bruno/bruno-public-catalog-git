@@ -1,0 +1,15 @@
+info:
+  name: Agentic Prompt Hub
+  summary: Open-source LLMOps platform with prompt management, an OpenAI-compatible AI gateway, OpenTelemetry tracing, a versioned tool catalog, and LLM evaluation. Use hosted or self-host with TypeScript and Py
+  namespace: github.com/acruxcore
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 12
+  featured: true
+source:
+  git:
+    repo: https://github.com/AcruxCore/AcruxCore.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/acruxcore__acruxcore__bruno/collection.yml

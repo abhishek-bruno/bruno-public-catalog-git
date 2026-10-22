@@ -1,0 +1,13 @@
+info:
+  name: Security
+  namespace: github.com/welintonhaas
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 307
+source:
+  git:
+    repo: https://github.com/welintonhaas/Spring-Boot-Course.git
+    ref: master
+    subdir: Rest Api Client/Security
+  url: https://bruno-catalog.vercel.app/data/c/welintonhaas__spring-boot-course__rest-api-client-security/collection.yml

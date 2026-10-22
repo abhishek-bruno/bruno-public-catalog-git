@@ -1,0 +1,14 @@
+info:
+  name: ГИС «Электронный знак» — API маркировки и оборота товаров
+  summary: API Электронного знака (datamark.by) в формате OpenAPI 3.0/Swagger/bruno
+  namespace: github.com/pravets
+  type: collection
+  tags:
+    - developer-tools
+  seq: 14
+source:
+  git:
+    repo: https://github.com/pravets/datamark.by-openapi.git
+    ref: master
+    subdir: bruno/datamark
+  url: https://bruno-catalog.vercel.app/data/c/pravets__datamark-by-openapi__bruno-datamark/collection.yml

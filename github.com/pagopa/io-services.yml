@@ -1,0 +1,14 @@
+info:
+  name: io-services
+  summary: The subsystem for Institutions to manage their services into the IO App
+  namespace: github.com/pagopa
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 119
+source:
+  git:
+    repo: https://github.com/pagopa/io-services-cms.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/pagopa__io-services-cms__bruno/collection.yml

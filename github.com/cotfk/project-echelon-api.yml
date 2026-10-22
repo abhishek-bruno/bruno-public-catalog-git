@@ -1,0 +1,14 @@
+info:
+  name: Project Echelon API
+  summary: 'A replay-to-video converter for Project Ignis: EDOPro.'
+  namespace: github.com/cotfk
+  type: collection
+  tags:
+    - media
+  seq: 200
+source:
+  git:
+    repo: https://github.com/COTFK/project-echelon.git
+    ref: master
+    subdir: api
+  url: https://bruno-catalog.vercel.app/data/c/cotfk__project-echelon__api/collection.yml

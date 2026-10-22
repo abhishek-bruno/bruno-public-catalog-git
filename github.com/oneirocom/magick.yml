@@ -1,0 +1,14 @@
+info:
+  name: Magick
+  summary: Magick is a cutting-edge toolkit for a new kind of AI builder. Make Magick with us!
+  namespace: github.com/oneirocom
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 41
+source:
+  git:
+    repo: https://github.com/Oneirocom/Magick.git
+    ref: development
+    subdir: bruno-requests
+  url: https://bruno-catalog.vercel.app/data/c/oneirocom__magick__bruno-requests/collection.yml

@@ -1,0 +1,15 @@
+info:
+  name: 'Ultimate Health '
+  summary: Node.js + Express Backend for UltimateHealth – Secure REST APIs for multilingual health articles, podcasts, user reviews, moderation, JWT auth, and admin analytics. Built with MongoDB + Swagger docume
+  namespace: github.com/sb2318
+  type: collection
+  tags:
+    - databases-and-backend
+    - science
+  seq: 63
+source:
+  git:
+    repo: https://github.com/SB2318/ultimatehealth-backend.git
+    ref: main
+    subdir: bruno/Ultimate Health
+  url: https://bruno-catalog.vercel.app/data/c/sb2318__ultimatehealth-backend__bruno-ultimate-health/collection.yml

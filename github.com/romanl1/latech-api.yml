@@ -1,0 +1,14 @@
+info:
+  name: LaTeCH API
+  summary: LaTeCH is a web-based LaTeX editor that allows multiple users to collaborate on documents in real time.
+  namespace: github.com/romanl1
+  type: collection
+  tags:
+    - productivity
+  seq: 121
+source:
+  git:
+    repo: https://github.com/RomanL1/latech.git
+    ref: main
+    subdir: api-collection
+  url: https://bruno-catalog.vercel.app/data/c/romanl1__latech__api-collection/collection.yml

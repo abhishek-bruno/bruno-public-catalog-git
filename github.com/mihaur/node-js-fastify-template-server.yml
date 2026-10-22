@@ -1,0 +1,15 @@
+info:
+  name: Node.js fastify template server
+  summary: Node.js API server/backend based on fastify and MongoDB as a database for persisting data, GitHub Actions build and code linter, minimal tooling (neostandard), and native node test runner. Can be used
+  namespace: github.com/mihaur
+  type: collection
+  tags:
+    - databases-and-backend
+    - education-and-demos
+  seq: 106
+source:
+  git:
+    repo: https://github.com/mihaur/node-fastify-template.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/mihaur__node-fastify-template__bruno/collection.yml

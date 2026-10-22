@@ -1,0 +1,15 @@
+info:
+  name: Questrade
+  summary: A CLI for updating YNAB account values based on Questrade account values
+  namespace: github.com/brymastr
+  type: collection
+  tags:
+    - developer-tools
+    - auth-and-identity
+  seq: 216
+source:
+  git:
+    repo: https://github.com/Brymastr/questrade-ynab.git
+    ref: main
+    subdir: bruno/Questrade
+  url: https://bruno-catalog.vercel.app/data/c/brymastr__questrade-ynab__bruno-questrade/collection.yml

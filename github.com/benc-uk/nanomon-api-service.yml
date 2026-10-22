@@ -1,0 +1,15 @@
+info:
+  name: NanoMon API Service
+  summary: The collection is organized by the main endpoints of the API, with sample requests for each endpoint. This is in the new YAML based OpenCollection format https://www.opencollection.com/
+  namespace: github.com/benc-uk
+  type: collection
+  tags:
+    - devops-and-cloud
+    - education-and-demos
+  seq: 75
+source:
+  git:
+    repo: https://github.com/benc-uk/nanomon.git
+    ref: main
+    subdir: api/bruno
+  url: https://bruno-catalog.vercel.app/data/c/benc-uk__nanomon__api-bruno/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: reimagined-garbanzo
+  summary: Basic express postgres app
+  namespace: github.com/ppywmjr
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 192
+source:
+  git:
+    repo: https://github.com/ppywmjr/reimagined-garbanzo.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/ppywmjr__reimagined-garbanzo__bruno/collection.yml

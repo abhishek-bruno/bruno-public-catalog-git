@@ -1,0 +1,14 @@
+info:
+  name: Practice Software Testing
+  summary: 'This repository contains example collections and scripts for API test automation using: Bruno for API request management and testing. Bruno CLI for running Bruno collections via the command line.'
+  namespace: github.com/testsmith-io
+  type: collection
+  tags:
+    - developer-tools
+    - education-and-demos
+  seq: 115
+source:
+  git:
+    repo: https://github.com/testsmith-io/api-test-automation-bruno.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/testsmith-io__api-test-automation-bruno/collection.yml

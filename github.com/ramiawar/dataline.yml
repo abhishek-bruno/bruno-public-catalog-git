@@ -1,0 +1,15 @@
+info:
+  name: DataLine
+  summary: Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
+  namespace: github.com/ramiawar
+  type: collection
+  tags:
+    - ai-and-ml
+    - databases-and-backend
+  seq: 15
+source:
+  git:
+    repo: https://github.com/RamiAwar/dataline.git
+    ref: main
+    subdir: backend/bruno
+  url: https://bruno-catalog.vercel.app/data/c/ramiawar__dataline__backend-bruno/collection.yml

@@ -1,0 +1,15 @@
+info:
+  name: knowledge-gateway
+  summary: A private LLM gateway with retrieval-augmented generation. OpenAI-compatible API, vector search over your documents, and per-request usage logging – all self-hosted.
+  namespace: github.com/laviprog
+  type: collection
+  tags:
+    - ai-and-ml
+    - productivity
+  seq: 81
+source:
+  git:
+    repo: https://github.com/laviprog/knowledge-gateway.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/laviprog__knowledge-gateway__bruno/collection.yml

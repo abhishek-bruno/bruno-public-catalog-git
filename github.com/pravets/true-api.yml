@@ -1,0 +1,15 @@
+info:
+  name: True API — ГИС МТ «Честный знак»
+  summary: TrueAPI Честного знака и API ЭДО Лайт в формате OpenAPI 3.0/Swagger/bruno
+  namespace: github.com/pravets
+  type: collection
+  tags:
+    - developer-tools
+  seq: 9
+  featured: true
+source:
+  git:
+    repo: https://github.com/pravets/crpt-openapi.git
+    ref: master
+    subdir: bruno/true-api
+  url: https://bruno-catalog.vercel.app/data/c/pravets__crpt-openapi__bruno-true-api/collection.yml

@@ -1,0 +1,15 @@
+info:
+  name: other shots
+  summary: Production pipeline management backend for VFX studios — FastAPI, PostgreSQL, Redis, async workers, RBAC
+  namespace: github.com/soyyotedigo
+  type: collection
+  tags:
+    - databases-and-backend
+    - devops-and-cloud
+  seq: 258
+source:
+  git:
+    repo: https://github.com/soyyotedigo/pipeline-production-hub.git
+    ref: main
+    subdir: bruno/02 shots/other
+  url: https://bruno-catalog.vercel.app/data/c/soyyotedigo__pipeline-production-hub__bruno-02-shots-other/collection.yml

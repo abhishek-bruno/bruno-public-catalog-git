@@ -1,0 +1,14 @@
+info:
+  name: api-collections
+  summary: bruno-user-guide why bruno Install bruno Getting Started Default main interface API collection Create API collection Open API collection Import API collection RUN API collection Export API collection
+  namespace: github.com/automation-test-starter
+  type: collection
+  tags:
+    - developer-tools
+    - education-and-demos
+  seq: 140
+source:
+  git:
+    repo: https://github.com/Automation-Test-Starter/Bruno-API-Test-Starter.git
+    ref: main
+  url: https://bruno-catalog.vercel.app/data/c/automation-test-starter__bruno-api-test-starter/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: carbon-fr
+  summary: 'Collection Bruno couvrant l''API /v1 : cas nominaux (national + régional, rte-direct + acv-ademe) et cas d''erreur (400/404). Les fichiers .bru sont versionnés (lisibles en revue, diffables).'
+  namespace: github.com/kovelt
+  type: collection
+  tags:
+    - developer-tools
+  seq: 29
+source:
+  git:
+    repo: https://github.com/Kovelt/carbon-fr.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/kovelt__carbon-fr__bruno/collection.yml

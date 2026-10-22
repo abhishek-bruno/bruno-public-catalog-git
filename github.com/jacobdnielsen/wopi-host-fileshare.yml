@@ -1,0 +1,14 @@
+info:
+  name: Wopi-host - Fileshare
+  summary: A research prototype and reference implementation exploring secure microservice architectures and Relationship-Based Access Control (ReBAC) for collaborative file management.
+  namespace: github.com/jacobdnielsen
+  type: collection
+  tags:
+    - science
+  seq: 274
+source:
+  git:
+    repo: https://github.com/JacobDNielsen/FileShare.git
+    ref: main
+    subdir: src/bruno/Wopi-host - Fileshare
+  url: https://bruno-catalog.vercel.app/data/c/jacobdnielsen__fileshare__src-bruno-wopi-host-fileshare/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: api-collection
+  summary: AI agent workflow for support software engineering life cycle
+  namespace: github.com/chakrits
+  type: collection
+  tags:
+    - ai-and-ml
+  seq: 225
+source:
+  git:
+    repo: https://github.com/chakrits/AI-Agent-Workflow.git
+    ref: main
+    subdir: .agent/skills/api-testing-tooling/templates/bruno-collection
+  url: https://bruno-catalog.vercel.app/data/c/chakrits__ai-agent-workflow__agent-skills-api-testing-tooling-templates-bruno-collection/collection.yml

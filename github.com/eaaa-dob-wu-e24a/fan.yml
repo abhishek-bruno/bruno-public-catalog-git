@@ -1,0 +1,15 @@
+info:
+  name: FAN
+  summary: plantmate-ai-fan created by GitHub Classroom
+  namespace: github.com/eaaa-dob-wu-e24a
+  type: collection
+  tags:
+    - ai-and-ml
+    - developer-tools
+  seq: 262
+source:
+  git:
+    repo: https://github.com/eaaa-dob-wu-e24a/mealmate-ai.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/eaaa-dob-wu-e24a__mealmate-ai__bruno/collection.yml

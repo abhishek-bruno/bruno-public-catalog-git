@@ -1,0 +1,15 @@
+info:
+  name: KlickerUZH
+  summary: KlickerUZH Audience Interaction Platform
+  namespace: github.com/uzh-bf
+  type: collection
+  tags:
+    - devops-and-cloud
+    - education-and-demos
+  seq: 60
+source:
+  git:
+    repo: https://github.com/uzh-bf/klicker-uzh.git
+    ref: v3
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/uzh-bf__klicker-uzh__bruno/collection.yml

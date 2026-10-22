@@ -1,0 +1,15 @@
+info:
+  name: KomReg
+  summary: Az-cli må være satt opp, se README.
+  namespace: github.com/kartverket
+  type: collection
+  tags:
+    - developer-tools
+    - databases-and-backend
+  seq: 165
+source:
+  git:
+    repo: https://github.com/kartverket/komreg-backend.git
+    ref: main
+    subdir: http/bruno/KomReg
+  url: https://bruno-catalog.vercel.app/data/c/kartverket__komreg-backend__http-bruno-komreg/collection.yml

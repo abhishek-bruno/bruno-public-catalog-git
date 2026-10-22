@@ -1,0 +1,15 @@
+info:
+  name: automationintesting.online
+  summary: This repository will serve as a place where I add API test Automation checks for articles written at https://playwrightsolutions.com
+  namespace: github.com/playwrightsolutions
+  type: collection
+  tags:
+    - developer-tools
+    - education-and-demos
+  seq: 62
+source:
+  git:
+    repo: https://github.com/playwrightsolutions/playwright-api-test-demo.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/playwrightsolutions__playwright-api-test-demo__bruno/collection.yml

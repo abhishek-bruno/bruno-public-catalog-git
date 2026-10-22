@@ -1,0 +1,13 @@
+info:
+  name: simple-commerce
+  namespace: github.com/sboursault
+  type: collection
+  tags:
+    - e-commerce
+  seq: 256
+source:
+  git:
+    repo: https://github.com/sboursault/training.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/sboursault__training__bruno/collection.yml

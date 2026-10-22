@@ -1,0 +1,14 @@
+info:
+  name: CRUX
+  summary: Crux is an open-source, headless data platform that exposes your data stored in future-proof text (markdown and YAML) files to the public as GraphQL endpoints.
+  namespace: github.com/gokceno
+  type: collection
+  tags:
+    - developer-tools
+  seq: 250
+source:
+  git:
+    repo: https://github.com/gokceno/crux.md.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/gokceno__crux-md__bruno/collection.yml

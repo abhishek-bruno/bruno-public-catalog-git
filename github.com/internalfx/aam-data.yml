@@ -1,0 +1,14 @@
+info:
+  name: AAM Data
+  summary: A simple node.js server that watches SalesForce objects and delivers webhooks of the changes.
+  namespace: github.com/internalfx
+  type: collection
+  tags:
+    - developer-tools
+  seq: 213
+source:
+  git:
+    repo: https://github.com/internalfx/internalfx-salesforce-webhook-server.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/internalfx__internalfx-salesforce-webhook-server__bruno/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: syfomotebehov
+  summary: Syfomotebehov er en mikrotjeneste som lagrer data om behovet for et dialogmøte, dette rapporteres inn av den sykmeldte arbeidstaker eller av arbeidstakers nærmeste leder.
+  namespace: github.com/navikt
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 179
+source:
+  git:
+    repo: https://github.com/navikt/syfomotebehov.git
+    ref: main
+    subdir: bruno/syfomotebehov
+  url: https://bruno-catalog.vercel.app/data/c/navikt__syfomotebehov__bruno-syfomotebehov/collection.yml

@@ -1,0 +1,14 @@
+info:
+  name: progai-forecasting
+  summary: A forecasting framework for serving and fine-tuning foundation and deep learning models with a unified API
+  namespace: github.com/discovertomorrow
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 145
+source:
+  git:
+    repo: https://github.com/discovertomorrow/progai-forecasting.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/discovertomorrow__progai-forecasting__bruno/collection.yml

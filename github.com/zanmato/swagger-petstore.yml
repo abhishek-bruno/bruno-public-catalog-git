@@ -1,0 +1,15 @@
+info:
+  name: Swagger Petstore
+  summary: API client alternative to Postman/Insomnia/Bruno/Hoppscotch
+  namespace: github.com/zanmato
+  type: collection
+  tags:
+    - developer-tools
+    - education-and-demos
+  seq: 90
+source:
+  git:
+    repo: https://github.com/zanmato/broquest.git
+    ref: main
+    subdir: crates/broquest/resources/Swagger Petstore
+  url: https://bruno-catalog.vercel.app/data/c/zanmato__broquest__crates-broquest-resources-swagger-petstore/collection.yml

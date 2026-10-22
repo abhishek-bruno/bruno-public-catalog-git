@@ -1,0 +1,13 @@
+info:
+  name: proc
+  namespace: github.com/ianmacdonald37
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 317
+source:
+  git:
+    repo: https://github.com/IanMacdonald37/3855_project.git
+    ref: main
+    subdir: br/proc
+  url: https://bruno-catalog.vercel.app/data/c/ianmacdonald37__3855-project__br-proc/collection.yml

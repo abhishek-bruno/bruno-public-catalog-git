@@ -1,0 +1,14 @@
+info:
+  name: deadrop
+  summary: e2e encrypted secret sharing via p2p exchanges & embedded vaults
+  namespace: github.com/dallen4
+  type: collection
+  tags:
+    - finance
+  seq: 104
+source:
+  git:
+    repo: https://github.com/dallen4/deadrop.git
+    ref: main
+    subdir: bruno-collection
+  url: https://bruno-catalog.vercel.app/data/c/dallen4__deadrop__bruno-collection/collection.yml

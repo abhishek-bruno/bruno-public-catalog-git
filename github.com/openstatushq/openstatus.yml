@@ -1,0 +1,15 @@
+info:
+  name: OpenStatus
+  summary: Open-source status page, incident response and uptime monitoring
+  namespace: github.com/openstatushq
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 5
+  featured: true
+source:
+  git:
+    repo: https://github.com/openstatusHQ/openstatus.git
+    ref: main
+    subdir: utils/api-bruno
+  url: https://bruno-catalog.vercel.app/data/c/openstatushq__openstatus__utils-api-bruno/collection.yml

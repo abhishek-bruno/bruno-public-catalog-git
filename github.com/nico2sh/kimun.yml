@@ -1,0 +1,15 @@
+info:
+  name: Kimun
+  summary: Simple note taking, powerful search, AI ready
+  namespace: github.com/nico2sh
+  type: collection
+  tags:
+    - productivity
+    - ai-and-ml
+  seq: 69
+source:
+  git:
+    repo: https://github.com/nico2sh/kimun.git
+    ref: main
+    subdir: server/bruno
+  url: https://bruno-catalog.vercel.app/data/c/nico2sh__kimun__server-bruno/collection.yml

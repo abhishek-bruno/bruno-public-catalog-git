@@ -1,0 +1,14 @@
+info:
+  name: HelloBDD
+  summary: Base de connaissances Vapor (Swift) - 8 guides de bonnes pratiques pour apprendre le framework de A à Z. Créé par HorkaTV en live sur Twitch.
+  namespace: github.com/joey-barbier
+  type: collection
+  tags:
+    - media
+  seq: 236
+source:
+  git:
+    repo: https://github.com/joey-barbier/vapor-tuto-youtube.git
+    ref: main
+    subdir: 3 - BDD/helloBdd/HelloBDD
+  url: https://bruno-catalog.vercel.app/data/c/joey-barbier__vapor-tuto-youtube__3-bdd-hellobdd-hellobdd/collection.yml

@@ -1,0 +1,15 @@
+info:
+  name: Loci API
+  summary: You must edit the ./environments/local-env.yml file first to have appropriate user and keycloak connection.
+  namespace: github.com/trung-kieen
+  type: collection
+  tags:
+    - communication
+    - auth-and-identity
+  seq: 70
+source:
+  git:
+    repo: https://github.com/trung-kieen/loci-chat.git
+    ref: main
+    subdir: loci-api
+  url: https://bruno-catalog.vercel.app/data/c/trung-kieen__loci-chat__loci-api/collection.yml

@@ -1,0 +1,13 @@
+info:
+  name: Memoria API
+  namespace: github.com/memoriaorg
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 280
+source:
+  git:
+    repo: https://github.com/MemoriaOrg/memoria-backend.git
+    ref: master
+    subdir: api_collection/Memoria API
+  url: https://bruno-catalog.vercel.app/data/c/memoriaorg__memoria-backend__api-collection-memoria-api/collection.yml

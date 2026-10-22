@@ -1,0 +1,13 @@
+info:
+  name: prismaTest
+  namespace: github.com/log1ri
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 291
+source:
+  git:
+    repo: https://github.com/log1ri/superbase-prisma-crud.git
+    ref: main
+    subdir: bruno/prismaTest
+  url: https://bruno-catalog.vercel.app/data/c/log1ri__superbase-prisma-crud__bruno-prismatest/collection.yml

@@ -1,0 +1,13 @@
+info:
+  name: JsonPlaceholder
+  namespace: github.com/lia-lopes
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 323
+source:
+  git:
+    repo: https://github.com/lia-lopes/api_example.git
+    ref: main
+    subdir: collection
+  url: https://bruno-catalog.vercel.app/data/c/lia-lopes__api-example__collection/collection.yml

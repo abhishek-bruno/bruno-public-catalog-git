@@ -1,0 +1,15 @@
+info:
+  name: Komecore API
+  summary: Modular REST API for e-commerce, built with Go ft Clean Architecture and Domain-Driven Design (DDD).
+  namespace: github.com/deuterrr
+  type: collection
+  tags:
+    - e-commerce
+    - databases-and-backend
+  seq: 18
+source:
+  git:
+    repo: https://github.com/Deuterrr/komecore.git
+    ref: main
+    subdir: api/bruno
+  url: https://bruno-catalog.vercel.app/data/c/deuterrr__komecore__api-bruno/collection.yml

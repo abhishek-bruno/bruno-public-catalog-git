@@ -1,0 +1,13 @@
+info:
+  name: Induction SDK
+  namespace: github.com/dungeoncraw
+  type: collection
+  tags:
+    - developer-tools
+  seq: 266
+source:
+  git:
+    repo: https://github.com/dungeoncraw/pocs.git
+    ref: main
+    subdir: context/ai/induction/sdk/bruno-collection
+  url: https://bruno-catalog.vercel.app/data/c/dungeoncraw__pocs__context-ai-induction-sdk-bruno-collection/collection.yml

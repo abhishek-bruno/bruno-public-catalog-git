@@ -1,0 +1,14 @@
+info:
+  name: f2ap
+  summary: Connect your website to ActivityPub using your RSS/Atom feed.
+  namespace: github.com/deuchnord
+  type: collection
+  tags:
+    - media
+  seq: 124
+source:
+  git:
+    repo: https://github.com/Deuchnord/f2ap.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/deuchnord__f2ap__bruno/collection.yml

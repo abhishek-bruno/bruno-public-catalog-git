@@ -1,0 +1,14 @@
+info:
+  name: App Backend
+  summary: Backend et API REST - GLOBE
+  namespace: github.com/repaircafetours
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 117
+source:
+  git:
+    repo: https://github.com/repaircafetours/GLOBE-app-backend.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/repaircafetours__globe-app-backend__bruno/collection.yml

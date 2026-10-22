@@ -1,0 +1,13 @@
+info:
+  name: Workshop API
+  namespace: github.com/puppo
+  type: collection
+  tags:
+    - education-and-demos
+  seq: 232
+source:
+  git:
+    repo: https://github.com/Puppo/fastify-workshop.git
+    ref: main
+    subdir: Bruno Collection
+  url: https://bruno-catalog.vercel.app/data/c/puppo__fastify-workshop__bruno-collection/collection.yml

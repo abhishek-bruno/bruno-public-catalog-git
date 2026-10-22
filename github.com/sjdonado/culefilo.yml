@@ -1,0 +1,15 @@
+info:
+  name: culefilo
+  summary: Discover the top 3 restaurants serving your favorite food near you. Just enter your craving and location in our free AI-powered app, and start your culinary adventure today!
+  namespace: github.com/sjdonado
+  type: collection
+  tags:
+    - maps-and-geo
+    - ai-and-ml
+  seq: 240
+source:
+  git:
+    repo: https://github.com/sjdonado/culefilo.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/sjdonado__culefilo__bruno/collection.yml

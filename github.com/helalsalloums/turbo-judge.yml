@@ -1,0 +1,14 @@
+info:
+  name: turbo-judge
+  summary: Like CodeForces but with more features...
+  namespace: github.com/helalsalloums
+  type: collection
+  tags:
+    - databases-and-backend
+  seq: 167
+source:
+  git:
+    repo: https://github.com/helalsalloums/last-judge-backend.git
+    ref: main
+    subdir: turbo-judge
+  url: https://bruno-catalog.vercel.app/data/c/helalsalloums__last-judge-backend__turbo-judge/collection.yml

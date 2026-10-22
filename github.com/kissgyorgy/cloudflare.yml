@@ -1,0 +1,14 @@
+info:
+  name: Cloudflare
+  summary: CloudFlare Dynamic DNS client
+  namespace: github.com/kissgyorgy
+  type: collection
+  tags:
+    - devops-and-cloud
+  seq: 46
+source:
+  git:
+    repo: https://github.com/kissgyorgy/cloudflare-dyndns.git
+    ref: master
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/kissgyorgy__cloudflare-dyndns__bruno/collection.yml

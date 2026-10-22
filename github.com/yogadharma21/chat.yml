@@ -1,0 +1,13 @@
+info:
+  name: Chat
+  namespace: github.com/yogadharma21
+  type: collection
+  tags:
+    - communication
+  seq: 178
+source:
+  git:
+    repo: https://github.com/YogaDharma21/chat.git
+    ref: main
+    subdir: bruno
+  url: https://bruno-catalog.vercel.app/data/c/yogadharma21__chat__bruno/collection.yml

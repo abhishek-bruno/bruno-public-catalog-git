@@ -1,0 +1,15 @@
+info:
+  name: Listen
+  summary: Listen is a multi-purpose tool designed specifically for speech-language pathologists (SLPs). It provides an all-in-one solution for SLPs to enhance their work with clients through advanced features s
+  namespace: github.com/uroshm
+  type: collection
+  tags:
+    - ai-and-ml
+    - developer-tools
+  seq: 238
+source:
+  git:
+    repo: https://github.com/uroshm/listen.git
+    ref: main
+    subdir: Bruno
+  url: https://bruno-catalog.vercel.app/data/c/uroshm__listen__bruno/collection.yml

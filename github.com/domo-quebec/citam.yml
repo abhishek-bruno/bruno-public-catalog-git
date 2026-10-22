@@ -1,0 +1,13 @@
+info:
+  name: citam
+  namespace: github.com/domo-quebec
+  type: collection
+  tags:
+    - open-data
+  seq: 148
+source:
+  git:
+    repo: https://github.com/domo-quebec/domo-quebec.git
+    ref: main
+    subdir: citam/donnees/bruno
+  url: https://bruno-catalog.vercel.app/data/c/domo-quebec__domo-quebec__citam-donnees-bruno/collection.yml
