@@ -13,10 +13,12 @@ lists one owner.
 ## Layout
 
 ```
-catalog.yml                        name, scope (aggregate), logo, links, contact, tag vocabulary
-github.com/<owner>/folder.yml      the owner's display name
-github.com/<owner>/<name>.yml      one entry per collection or workspace
+catalog.yml                     name, scope (aggregate), logo, links, contact, tag vocabulary
+github.com/<owner>/<name>.yml   one entry per collection or workspace
 ```
+
+There is no `folder.yml`: owner folders pass nothing down to their entries.
+Add one to a folder only when its entries should inherit tags or an order.
 
 Folders follow ownership, not categories. An entry's owner never changes, so
 files stay put when a collection is recategorized, each owner's entries can be
